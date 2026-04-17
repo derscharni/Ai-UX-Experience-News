@@ -10,9 +10,58 @@ This repository serves as a comprehensive collection of daily briefings tracking
 
 The core of this repository is organized chronologically by month in the `briefings/` directory. Each folder contains daily markdown files detailing the latest product updates, interface changes, and broader industry trends related to Agentic UX.
 
-*   `briefings/2026-02/`: Daily briefings from February 2026
-*   `briefings/2026-03/`: Daily briefings from March 2026
-*   `briefings/2026-04/`: Daily briefings from April 2026
+### February 2026
+*   [2026-02-25 - The Operationalization of Agentic AI](briefings/2026-02/2026-02-25-the-operationalization-of-agentic-ai.md)
+*   [2026-02-26 - On-Device Agency and Autonomous Workers](briefings/2026-02/2026-02-26-on-device-agency-and-autonomous-workers.md)
+*   [2026-02-27 - Intent-Centric UX and Creative Tools](briefings/2026-02/2026-02-27-intent-centric-ux-and-creative-tools.md)
+*   [2026-02-28 - The Agent Designs in Figma](briefings/2026-02/2026-02-28-the-agent-designs-in-figma.md)
+
+### March 2026
+*   [2026-03-01 - The Agent is the New App](briefings/2026-03/2026-03-01-the-agent-is-the-new-app.md)
+*   [2026-03-02 - The Computer-Using Agent Arrives](briefings/2026-03/2026-03-02-the-computer-using-agent-arrives.md)
+*   [2026-03-03 - The Switcher War Heats Up](briefings/2026-03/2026-03-03-the-switcher-war-heats-up.md)
+*   [2026-03-04 - Copilot Tasks and the Personal Agent](briefings/2026-03/2026-03-04-copilot-tasks-and-the-personal-agent.md)
+*   [2026-03-05 - The Five UX Crises of the Agentic Era](briefings/2026-03/2026-03-05-the-five-ux-crises-of-the-agentic-era.md)
+*   [2026-03-06 - GPT-5.4 and the Agentic Arms Race](briefings/2026-03/2026-03-06-gpt-54-and-the-agentic-arms-race.md)
+*   [2026-03-07 - The Agentic War Is Now a Two-Front War](briefings/2026-03/2026-03-07-the-agentic-war-is-now-a-two-front-war.md)
+*   [2026-03-08 - The Agent Is the New IDE](briefings/2026-03/2026-03-08-the-agent-is-the-new-ide.md)
+*   [2026-03-09 - The Dawn of Intentional Agentic UI Design](briefings/2026-03/2026-03-09-the-dawn-of-intentional-agentic-ui-design.md)
+*   [2026-03-10 - The Agent as Coworker](briefings/2026-03/2026-03-10-the-agent-as-coworker.md)
+*   [2026-03-11 - The Agentic Era Meets the Real World](briefings/2026-03/2026-03-11-the-agentic-era-meets-the-real-world.md)
+*   [2026-03-12 - The Great Integration](briefings/2026-03/2026-03-12-the-great-integration.md)
+*   [2026-03-13 - The Agent Is the New OS](briefings/2026-03/2026-03-13-the-agent-is-the-new-os.md)
+*   [2026-03-14 - The Agent Is the New UI](briefings/2026-03/2026-03-14-the-agent-is-the-new-ui.md)
+*   [2026-03-15 - The Consolidation](briefings/2026-03/2026-03-15-the-consolidation.md)
+*   [2026-03-16 - The Agentic Workflow](briefings/2026-03/2026-03-16-the-agentic-workflow.md)
+*   [2026-03-17 - The Agent Comes Home](briefings/2026-03/2026-03-17-the-agent-comes-home.md)
+*   [2026-03-18 - The Great Rebundling](briefings/2026-03/2026-03-18-the-great-rebundling.md)
+*   [2026-03-19 - Intent is the New Interface](briefings/2026-03/2026-03-19-intent-is-the-new-interface.md)
+*   [2026-03-20 - The Great Unification](briefings/2026-03/2026-03-20-the-great-unification.md)
+*   [2026-03-21 - The Agentic Reckoning](briefings/2026-03/2026-03-21-the-agentic-reckoning.md)
+*   [2026-03-22 - The Agent Comes Home](briefings/2026-03/2026-03-22-the-agent-comes-home.md)
+*   [2026-03-23 - The Remote Control](briefings/2026-03/2026-03-23-the-remote-control.md)
+*   [2026-03-24 - The Agent as the Execution Layer](briefings/2026-03/2026-03-24-the-agent-as-the-execution-layer.md)
+*   [2026-03-25 - The Agentic Correction](briefings/2026-03/2026-03-25-the-agentic-correction.md)
+*   [2026-03-26 - The Agentic Ecosystem](briefings/2026-03/2026-03-26-the-agentic-ecosystem.md)
+*   [2026-03-27 - The Great Migration](briefings/2026-03/2026-03-27-the-great-migration.md)
+*   [2026-03-28 - The Agent is the OS](briefings/2026-03/2026-03-28-the-agent-is-the-os.md)
+*   [2026-03-29 - The Great Unbundling and Rebundling](briefings/2026-03/2026-03-29-the-great-unbundling-and-rebundling.md)
+*   [2026-03-31 - The Agent Becomes the OS](briefings/2026-03/2026-03-31-the-agent-becomes-the-os.md)
+
+### April 2026
+*   [2026-04-02 - The Agentic Integration and Trust](briefings/2026-04/2026-04-02-the-agentic-integration-and-trust.md)
+*   [2026-04-03 - The Push for Precision and Desktop Control](briefings/2026-04/2026-04-03-the-push-for-precision-and-desktop-control.md)
+*   [2026-04-04 - The Ecosystem Walls Are Closing In](briefings/2026-04/2026-04-04-the-ecosystem-walls-are-closing-in.md)
+*   [2026-04-05 - Designing for Trust and Transparency](briefings/2026-04/2026-04-05-designing-for-trust-and-transparency.md)
+*   [2026-04-07 - The App Ecosystem Opens Up](briefings/2026-04/2026-04-07-the-app-ecosystem-opens-up.md)
+*   [2026-04-08 - Formalizing the Agentic Interface](briefings/2026-04/2026-04-08-formalizing-the-agentic-interface.md)
+*   [2026-04-09 - The Agent as the New Revenue Engine](briefings/2026-04/2026-04-09-the-agent-as-the-new-revenue-engine.md)
+*   [2026-04-10 - The Agentic Workspace Unifies](briefings/2026-04/2026-04-10-the-agentic-workspace-unifies.md)
+*   [2026-04-11 - The UI Retreats, The Agent Advances](briefings/2026-04/2026-04-11-the-ui-retreats-the-agent-advances.md)
+*   [2026-04-14 - The Customization Era Begins](briefings/2026-04/2026-04-14-the-customization-era-begins.md)
+*   [2026-04-15 - The Agentic Desktop Arrives](briefings/2026-04/2026-04-15-the-agentic-desktop-arrives.md)
+*   [2026-04-16 - The UI Fragments into Specialized Workspaces](briefings/2026-04/2026-04-16-the-ui-fragments-into-specialized-workspaces.md)
+*   [2026-04-17 - The Multimodal Shift and Agentic Expansion](briefings/2026-04/2026-04-17-the-multimodal-shift-and-agentic-expansion.md)
 
 ## Monthly Management Summaries
 
