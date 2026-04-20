@@ -44,7 +44,7 @@ We are seeing a clear shift across all platforms from conversational UX to execu
 
 [3] Instagram. (2026, April 3). *@uxaesthete Post*. [https://www.instagram.com/p/DWrWXzRDHWv/](https://www.instagram.com/p/DWrWXzRDHWv/)
 
-[4] X. (2026, April 3). *Hiroki Ebuchi Post*. [https://x.com/vsr_ebuchi](https://x.com/vsr_ebuchi)
+[4] Social Media Today. (2026, March 18). *Meta rolls out Manus AI assistance tools for marketers*. [https://www.socialmediatoday.com/news/meta-rolls-out-manus-ai-assistance-tools-for-marketers/815151/](https://www.socialmediatoday.com/news/meta-rolls-out-manus-ai-assistance-tools-for-marketers/815151/)
 
 [5] InfoQ. (2026, April 2). *GitHub Copilot Training Data*. [https://www.infoq.com/news/2026/04/github-copilot-training-data/](https://www.infoq.com/news/2026/04/github-copilot-training-data/)
 

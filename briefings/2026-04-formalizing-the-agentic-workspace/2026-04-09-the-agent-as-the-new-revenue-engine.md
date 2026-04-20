@@ -42,12 +42,12 @@ The UX of AI agents is shifting from reactive to proactive. Google's rollout of 
 
 [3] Digital Trends. (2026, April 7). *X's Grok AI now breaks language barriers and lets you edit photos using simple prompts*. [https://www.digitaltrends.com/social-media/xs-grok-ai-now-breaks-language-barriers-and-lets-you-edit-photos-using-simple-prompts/](https://www.digitaltrends.com/social-media/xs-grok-ai-now-breaks-language-barriers-and-lets-you-edit-photos-using-simple-prompts/)
 
-[4] Nettpilot. (2026, April 6). *Google Gemini Business Guide 2026*. [https://nettpilot.com/google-gemini-business-guide-2026/](https://nettpilot.com/google-gemini-business-guide-2026/)
+[4] Google Blog. (2026, March 17). *Personal Intelligence in AI Mode and Gemini expands in the U.S.* [https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/](https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/)
 
 [5] Kurtsh. (2026, April 5). *Info: Copilot Chat behavior changes for Microsoft 365 users coming April 15, 2026*. [https://kurtsh.com/2026/04/05/info-copilot-chat-behavior-changes-for-microsoft-365-users-coming-april-15-2026/](https://kurtsh.com/2026/04/05/info-copilot-chat-behavior-changes-for-microsoft-365-users-coming-april-15-2026/)
 
-[6] Windows Latest. (2026, April 9). *Full list of features coming to Windows 11 in 2026*. [https://www.windowslatest.com/2026/04/09/full-list-of-features-coming-to-windows-11-in-2026/](https://www.windowslatest.com/2026/04/09/full-list-of-features-coming-to-windows-11-in-2026/)
+[6] Microsoft. (2026). *Copilot on Windows — New home experience*. [https://www.microsoft.com/en-us/windows/business/roadmap](https://www.microsoft.com/en-us/windows/business/roadmap)
 
-[7] Manus AI Blog. (2026, April 6). *Manus for Slack: Turn Your Workspace into an Autonomous Engine*. [https://manus.im/blog](https://manus.im/blog)
+[7] Manus AI Blog. (2026, April 6). *Manus for Slack: Turn Your Workspace into an Autonomous Engine*. [https://manus.im/blog/manus-your-partner-on-slack](https://manus.im/blog/manus-your-partner-on-slack)
 
 [8] TechRadar. (2026, April 8). *Bad news Claude users: Anthropic says you'll need to pay to use OpenClaw now*. [https://www.techradar.com/pro/bad-news-claude-users-anthropic-says-youll-need-to-pay-to-use-openclaw-now](https://www.techradar.com/pro/bad-news-claude-users-anthropic-says-youll-need-to-pay-to-use-openclaw-now)

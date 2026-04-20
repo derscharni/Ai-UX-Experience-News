@@ -47,4 +47,4 @@ We are seeing a renewed focus on the developer and power-user experience. Google
 
 [6] HandyAI Substack. (2026, April 10). *Both Claude and ChatGPT Prepping*. [https://handyai.substack.com/p/both-claude-and-chatgpt-prepping](https://handyai.substack.com/p/both-claude-and-chatgpt-prepping)
 
-[7] Homebrew Formulae. (2026, April 14). *Google Gemini CLI*. [https://formulae.brew.sh/formula/](https://formulae.brew.sh/formula/)
+[7] Homebrew Formulae. (2026). *gemini-cli — Interact with Google Gemini AI models from the command-line*. [https://formulae.brew.sh/formula/gemini-cli](https://formulae.brew.sh/formula/gemini-cli)

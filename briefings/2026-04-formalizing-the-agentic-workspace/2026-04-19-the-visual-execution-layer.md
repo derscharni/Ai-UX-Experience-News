@@ -45,6 +45,6 @@ While the capabilities of AI agents are expanding rapidly, the user interfaces a
 
 [5] Houdao. (2026, April 18). *Perplexity AI Updates Pro Search*. [https://www.houdao.com/d/9036-Perplexity-AI-Updates-Pro-Search-Introduces-Voice-Mode-and-Realtime-Search](https://www.houdao.com/d/9036-Perplexity-AI-Updates-Pro-Search-Introduces-Voice-Mode-and-Realtime-Search)
 
-[6] Instagram. (2026, April 15). *Manus Skills Launch*. [https://www.instagram.com/p/DXIvOUviDzm/](https://www.instagram.com/p/DXIvOUviDzm/)
+[6] Manus AI Blog. (2026, January 27). *Integrating Agent Skills to Usher in a New Chapter for Agents*. [https://manus.im/blog/manus-skills](https://manus.im/blog/manus-skills)
 
 [7] Reddit. (2026, April 18). *New UI is bad (r/grok)*. [https://www.reddit.com/r/grok/comments/1smv52r/new_ui_is_bad/](https://www.reddit.com/r/grok/comments/1smv52r/new_ui_is_bad/)

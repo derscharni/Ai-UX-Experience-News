@@ -44,7 +44,7 @@ The physical context of AI interaction is expanding. Perplexity is reportedly pr
 
 ## References
 
-[1] Paridaux, S. (2026). *Practical UX Patterns for Agent Ecosystems*. Medium. [https://medium.com/@simantaparidaux/practical-ux-patterns-for-agent-ecosystems-fd86b2f1bd96](https://medium.com/@simantaparidaux/practical-ux-patterns-for-agent-ecosystems-fd86b2f1bd96) &amp; Prigent, B. (2025). *7 UX Patterns for Better Human Oversight in Ambient AI Agents*. [https://www.bprigent.com/article/7-ux-patterns-for-human-oversight-in-ambient-ai-agents](https://www.bprigent.com/article/7-ux-patterns-for-human-oversight-in-ambient-ai-agents)
+[1] Paridaux, S. (2026). *Practical UX Patterns for Agent Ecosystems*. Medium. [https://medium.com/@simantaparidaux/practical-ux-patterns-for-agent-ecosystems-fd86b2f1bd96](https://medium.com/@simantaparidaux/practical-ux-patterns-for-agent-ecosystems-fd86b2f1bd96) & Prigent, B. (2025). *7 UX Patterns for Better Human Oversight in Ambient AI Agents*. [https://www.bprigent.com/article/7-ux-patterns-for-human-oversight-in-ambient-ai-agents](https://www.bprigent.com/article/7-ux-patterns-for-human-oversight-in-ambient-ai-agents)
 
 [2] Microsoft DevBlogs. (2026, April 8). *MCP Apps now available in Copilot Chat*. [https://devblogs.microsoft.com/microsoft365dev/mcp-apps-now-available-in-copilot-chat/](https://devblogs.microsoft.com/microsoft365dev/mcp-apps-now-available-in-copilot-chat/)
 

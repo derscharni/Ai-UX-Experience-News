@@ -42,7 +42,7 @@ The race to the desktop continues. Claude Cowork is now generally available on m
 
 [1] TweakTown. (2026, April 10). *Microsoft starts to scale back Copilot integration in Windows 11 starting with the Notepad app*. [https://www.tweaktown.com/news/110960/microsoft-starts-to-scale-back-copilot-integration-in-windows-11-starting-with-the-notepad-app/index.html](https://www.tweaktown.com/news/110960/microsoft-starts-to-scale-back-copilot-integration-in-windows-11-starting-with-the-notepad-app/index.html)
 
-[2] Instagram. (2026, April 10). *Post regarding Copilot M365 changes*. [https://www.instagram.com/p/DWwAsXsEr8F/](https://www.instagram.com/p/DWwAsXsEr8F/)
+[2] Directions on Microsoft. (2026, March 26). *Major M365 Copilot Changes Coming April 15*. [https://www.directionsonmicrosoft.com/major-m365-copilot-changes-coming-april-15/](https://www.directionsonmicrosoft.com/major-m365-copilot-changes-coming-april-15/)
 
 [3] 9to5Google. (2026, April 7). *Gemini Live Redesign Android*. [https://9to5google.com/2026/04/07/gemini-live-redesign-android/](https://9to5google.com/2026/04/07/gemini-live-redesign-android/)
 

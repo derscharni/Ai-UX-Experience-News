@@ -43,7 +43,7 @@ As agents become more powerful, platforms are working to make that power more ac
 ## References
 
 [1] Yahoo Tech. (2026). *Meta-backed Manus brings its AI agent to your desktop*. [https://tech.yahoo.com/ai/meta-ai/articles/meta-brings-manus-ai-agent-175511333.html](https://tech.yahoo.com/ai/meta-ai/articles/meta-brings-manus-ai-agent-175511333.html)
-[2] Threads. (2026). *Perplexity just killed OpenClaw with their latest update*. [https://www.threads.net/@charliehills/post/DWJmi5wFZjg/](https://www.threads.net/@charliehills/post/DWJmi5wFZjg/)
+[2] Perplexity AI. (2026). *Everything is Computer: Announcing Personal Computer*. [https://www.perplexity.ai/hub/blog/everything-is-computer](https://www.perplexity.ai/hub/blog/everything-is-computer)
 [3] TechCrunch. (2026). *Microsoft rolls back some of its Copilot AI ‘bloat’ on Windows*. [https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/](https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/)
 [4] OpenAI Help Center. (2026). *ChatGPT Release Notes*. [https://help.openai.com/es-es/articles/6825453-chatgpt-release-notes](https://help.openai.com/es-es/articles/6825453-chatgpt-release-notes)
 [5] YouTube. (2026). *Claude Visualizer Elevates UX Intelligence*. [https://www.youtube.com/watch?v=rRY-vQh1RkA](https://www.youtube.com/watch?v=rRY-vQh1RkA)

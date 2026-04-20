@@ -38,7 +38,7 @@ The concept of the "workflow" is becoming a primary UX paradigm. Perplexity is a
 
 [1] Anthropic. (2026, April 16). *Claude Opus 4.7*. [https://www.anthropic.com/news/claude-opus-4-7](https://www.anthropic.com/news/claude-opus-4-7)
 
-[2] Werindia. (2026, April 17). *Science and Technology*. [https://werindia.com/science-and-technology](https://werindia.com/science-and-technology)
+[2] Engadget. (2026, April 16). *OpenAI's latest Codex update builds the groundwork for its upcoming super app*. [https://www.engadget.com/ai/openais-latest-codex-update-builds-the-groundwork-for-its-upcoming-super-app-170000019.html](https://www.engadget.com/ai/openais-latest-codex-update-builds-the-groundwork-for-its-upcoming-super-app-170000019.html)
 
 [3] Yahoo Tech. (2026, April 16). *Google's Gemini uses personalized AI*. [https://tech.yahoo.com/ai/gemini/articles/googles-gemini-uses-personalized-ai-160000810.html](https://tech.yahoo.com/ai/gemini/articles/googles-gemini-uses-personalized-ai-160000810.html)
 

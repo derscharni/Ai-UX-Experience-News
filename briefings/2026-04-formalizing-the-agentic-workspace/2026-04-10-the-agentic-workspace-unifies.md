@@ -52,4 +52,4 @@ As agents become more autonomous, understanding *how* they work is becoming a cr
 
 [8] Facebook. (2026, April 8). *SimplyDigital.gr Post on Manus AI*. [https://www.facebook.com/SimplyDigital.gr/posts/this-is-honestly-scarythe-chinese-ai-agent-manus-ai-acquired-by-meta-is-running-/1437145981759190/](https://www.facebook.com/SimplyDigital.gr/posts/this-is-honestly-scarythe-chinese-ai-agent-manus-ai-acquired-by-meta-is-running-/1437145981759190/)
 
-[9] Business Standard. (2026, April 9). *News Brief*. [https://www.business-standard.com/news-brief](https://www.business-standard.com/news-brief)
+[9] TechCrunch. (2026, April 8). *X is rolling out automatic translation and photo editing powered by Grok*. [https://techcrunch.com/2026/04/08/x-is-rolling-out-automatic-translation-and-photo-editing-powered-by-grok/](https://techcrunch.com/2026/04/08/x-is-rolling-out-automatic-translation-and-photo-editing-powered-by-grok/)
