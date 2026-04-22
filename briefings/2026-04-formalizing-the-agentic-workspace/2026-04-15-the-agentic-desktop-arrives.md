@@ -37,22 +37,22 @@ A clear UX pattern is emerging across multiple platforms: the need for reusable,
 
 ## References
 
-[1] The New Stack. (2026, April 14). *Claude Code desktop redesign*. [https://thenewstack.io/claude-code-desktop-redesign/](https://thenewstack.io/claude-code-desktop-redesign/)
+[1] The New Stack. (2026, April 14). *Claude Code desktop redesign*. [https://thenewstack.io/claude-code-desktop-redesign/](https://thenewstack.io/claude-code-desktop-redesign/) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[2] Instagram. (2026, April 15). *Manus AI My Computer Desktop App*. [https://www.instagram.com/reel/DXHts8Bkd1M/](https://www.instagram.com/reel/DXHts8Bkd1M/)
+[2] Instagram. (2026, April 15). *Manus AI My Computer Desktop App*. [https://www.instagram.com/reel/DXHts8Bkd1M/](https://www.instagram.com/reel/DXHts8Bkd1M/) <!-- verified: 2026-04-22 | status: ⚠️ accessible but content mismatch | checker: source-verification-agent -->
 
-[3] SiliconAngle. (2026, April 14). *Google adds reusable prompts to Gemini in Chrome*. [https://siliconangle.com/2026/04/14/google-adds-reusable-prompts-gemini-chrome/](https://siliconangle.com/2026/04/14/google-adds-reusable-prompts-gemini-chrome/)
+[3] SiliconAngle. (2026, April 14). *Google adds reusable prompts to Gemini in Chrome*. [https://siliconangle.com/2026/04/14/google-adds-reusable-prompts-gemini-chrome/](https://siliconangle.com/2026/04/14/google-adds-reusable-prompts-gemini-chrome/) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[4] AOL. (2026, April 15). *Gemini can now generate interactive images*. [https://www.aol.com/articles/gemini-now-generate-interactive-images-233521810.html](https://www.aol.com/articles/gemini-now-generate-interactive-images-233521810.html)
+[4] AOL. (2026, April 15). *Gemini can now generate interactive images*. [https://www.aol.com/articles/gemini-now-generate-interactive-images-233521810.html](https://www.aol.com/articles/gemini-now-generate-interactive-images-233521810.html) <!-- verified: 2026-04-22 | status: ❌ URL not accessible (HTTP 404) | checker: source-verification-agent -->
 
-[5] LinkedIn. (2026, April 15). *Commerce Revolution Inside AI: How ChatGPT's Game Gilmurray*. [https://www.linkedin.com/pulse/bonus-commerce-revolution-inside-ai-how-chatgpts-game-gilmurray-atbmc](https://www.linkedin.com/pulse/bonus-commerce-revolution-inside-ai-how-chatgpts-game-gilmurray-atbmc)
+[5] LinkedIn. (2026, April 15). *Commerce Revolution Inside AI: How ChatGPT's Game Gilmurray*. [https://www.linkedin.com/pulse/bonus-commerce-revolution-inside-ai-how-chatgpts-game-gilmurray-atbmc](https://www.linkedin.com/pulse/bonus-commerce-revolution-inside-ai-how-chatgpts-game-gilmurray-atbmc) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[6] MarTech Edge. (2026, April 15). *Lucid integrates visual collaboration into ChatGPT with MCP*. [https://martechedge.com/news/lucid-integrates-visual-collaboration-into-chatgpt-with-mcp](https://martechedge.com/news/lucid-integrates-visual-collaboration-into-chatgpt-with-mcp)
+[6] MarTech Edge. (2026, April 15). *Lucid integrates visual collaboration into ChatGPT with MCP*. [https://martechedge.com/news/lucid-integrates-visual-collaboration-into-chatgpt-with-mcp](https://martechedge.com/news/lucid-integrates-visual-collaboration-into-chatgpt-with-mcp) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[7] Not a Tesla App. (2026, April 14). *Tesla announces Spring 2026 software update*. [https://www.notateslaapp.com/news/3966/tesla-announces-spring-2026-software-update-heres-whats-coming](https://www.notateslaapp.com/news/3966/tesla-announces-spring-2026-software-update-heres-whats-coming)
+[7] Not a Tesla App. (2026, April 14). *Tesla announces Spring 2026 software update*. [https://www.notateslaapp.com/news/3966/tesla-announces-spring-2026-software-update-heres-whats-coming](https://www.notateslaapp.com/news/3966/tesla-announces-spring-2026-software-update-heres-whats-coming) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[8] Instagram. (2026, April 14). *Grok 5 Leaked Skills Feature*. [https://www.instagram.com/p/DXHNelFgu4Z/](https://www.instagram.com/p/DXHNelFgu4Z/)
+[8] Instagram. (2026, April 14). *Grok 5 Leaked Skills Feature*. [https://www.instagram.com/p/DXHNelFgu4Z/](https://www.instagram.com/p/DXHNelFgu4Z/) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[9] Q-Advise. (2026, April 15). *Microsoft 365 Copilot in model-driven apps available April 15*. [https://q-advise.com/articles/knowledge-base/microsoft-365-copilot-in-model-driven-apps-available-april-15-redefining-user-engage-with-enterprise-data/](https://q-advise.com/articles/knowledge-base/microsoft-365-copilot-in-model-driven-apps-available-april-15-redefining-user-engage-with-enterprise-data/)
+[9] Q-Advise. (2026, April 15). *Microsoft 365 Copilot in model-driven apps available April 15*. [https://q-advise.com/articles/knowledge-base/microsoft-365-copilot-in-model-driven-apps-available-april-15-redefining-user-engage-with-enterprise-data/](https://q-advise.com/articles/knowledge-base/microsoft-365-copilot-in-model-driven-apps-available-april-15-redefining-user-engage-with-enterprise-data/) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[10] AI Intelligence Hub. (2026, April 14). *Microsoft tests OpenClaw-like Copilot workflows*. [https://aintelligencehub.com/articles/microsoft-tests-openclaw-like-copilot-workflows-enterprises-april-2026](https://aintelligencehub.com/articles/microsoft-tests-openclaw-like-copilot-workflows-enterprises-april-2026)
+[10] AI Intelligence Hub. (2026, April 14). *Microsoft tests OpenClaw-like Copilot workflows*. [https://aintelligencehub.com/articles/microsoft-tests-openclaw-like-copilot-workflows-enterprises-april-2026](https://aintelligencehub.com/articles/microsoft-tests-openclaw-like-copilot-workflows-enterprises-april-2026) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->

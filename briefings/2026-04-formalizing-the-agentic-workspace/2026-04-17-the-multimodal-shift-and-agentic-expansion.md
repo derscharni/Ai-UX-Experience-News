@@ -36,24 +36,24 @@ The concept of the "workflow" is becoming a primary UX paradigm. Perplexity is a
 
 ## References
 
-[1] Anthropic. (2026, April 16). *Claude Opus 4.7*. [https://www.anthropic.com/news/claude-opus-4-7](https://www.anthropic.com/news/claude-opus-4-7)
+[1] Anthropic. (2026, April 16). *Claude Opus 4.7*. [https://www.anthropic.com/news/claude-opus-4-7](https://www.anthropic.com/news/claude-opus-4-7) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[2] Engadget. (2026, April 16). *OpenAI's latest Codex update builds the groundwork for its upcoming super app*. [https://www.engadget.com/ai/openais-latest-codex-update-builds-the-groundwork-for-its-upcoming-super-app-170000019.html](https://www.engadget.com/ai/openais-latest-codex-update-builds-the-groundwork-for-its-upcoming-super-app-170000019.html)
+[2] Engadget. (2026, April 16). *OpenAI's latest Codex update builds the groundwork for its upcoming super app*. [https://www.engadget.com/ai/openais-latest-codex-update-builds-the-groundwork-for-its-upcoming-super-app-170000019.html](https://www.engadget.com/ai/openais-latest-codex-update-builds-the-groundwork-for-its-upcoming-super-app-170000019.html) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[3] Yahoo Tech. (2026, April 16). *Google's Gemini uses personalized AI*. [https://tech.yahoo.com/ai/gemini/articles/googles-gemini-uses-personalized-ai-160000810.html](https://tech.yahoo.com/ai/gemini/articles/googles-gemini-uses-personalized-ai-160000810.html)
+[3] Yahoo Tech. (2026, April 16). *Google's Gemini uses personalized AI*. [https://tech.yahoo.com/ai/gemini/articles/googles-gemini-uses-personalized-ai-160000810.html](https://tech.yahoo.com/ai/gemini/articles/googles-gemini-uses-personalized-ai-160000810.html) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[4] Mashable. (2026, April 16). *Gemini Mac App*. [https://mashable.com/article/gemini-mac-app](https://mashable.com/article/gemini-mac-app)
+[4] Mashable. (2026, April 16). *Gemini Mac App*. [https://mashable.com/article/gemini-mac-app](https://mashable.com/article/gemini-mac-app) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[5] NoCode MBA. (2026, April 10). *Manus AI Agents Automation*. [https://www.nocode.mba/articles/manus-ai-agents-automation](https://www.nocode.mba/articles/manus-ai-agents-automation)
+[5] NoCode MBA. (2026, April 10). *Manus AI Agents Automation*. [https://www.nocode.mba/articles/manus-ai-agents-automation](https://www.nocode.mba/articles/manus-ai-agents-automation) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[6] Threads. (2026, April 16). *Perplexity is testing workflows*. [https://www.threads.com/@testingcatalog/post/DXMXE2QDcWt/](https://www.threads.com/@testingcatalog/post/DXMXE2QDcWt/)
+[6] Threads. (2026, April 16). *Perplexity is testing workflows*. [https://www.threads.com/@testingcatalog/post/DXMXE2QDcWt/](https://www.threads.com/@testingcatalog/post/DXMXE2QDcWt/) <!-- verified: 2026-04-23 | status: ❌ URL not accessible (connection failed) | checker: source-verification-agent -->
 
-[7] Thurrott. (2026, April 16). *Perplexity releases Personal Computer for Mac*. [https://www.thurrott.com/a-i/335024/perplexity-releases-personal-computer-for-mac](https://www.thurrott.com/a-i/335024/perplexity-releases-personal-computer-for-mac)
+[7] Thurrott. (2026, April 16). *Perplexity releases Personal Computer for Mac*. [https://www.thurrott.com/a-i/335024/perplexity-releases-personal-computer-for-mac](https://www.thurrott.com/a-i/335024/perplexity-releases-personal-computer-for-mac) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[8] MSN. (2026, April 16). *Elon Musk's xAI introduces vision capabilities in Grok*. [https://www.msn.com/en-in/technology/artificial-intelligence/elon-musk-s-xai-introduces-vision-capabilities-in-grok-chatbot-how-the-vision-feature-works-and-more/ar-AA1DqqJd](https://www.msn.com/en-in/technology/artificial-intelligence/elon-musk-s-xai-introduces-vision-capabilities-in-grok-chatbot-how-the-vision-feature-works-and-more/ar-AA1DqqJd)
+[8] MSN. (2026, April 16). *Elon Musk's xAI introduces vision capabilities in Grok*. [https://www.msn.com/en-in/technology/artificial-intelligence/elon-musk-s-xai-introduces-vision-capabilities-in-grok-chatbot-how-the-vision-feature-works-and-more/ar-AA1DqqJd](https://www.msn.com/en-in/technology/artificial-intelligence/elon-musk-s-xai-introduces-vision-capabilities-in-grok-chatbot-how-the-vision-feature-works-and-more/ar-AA1DqqJd) <!-- verified: 2026-04-22 | status: ❌ URL not accessible (connection failed) | checker: source-verification-agent -->
 
-[9] Mashable. (2026, April 16). *Tesla Spring Update 2026*. [https://mashable.com/article/tesla-spring-update-2026](https://mashable.com/article/tesla-spring-update-2026)
+[9] Mashable. (2026, April 16). *Tesla Spring Update 2026*. [https://mashable.com/article/tesla-spring-update-2026](https://mashable.com/article/tesla-spring-update-2026) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[10] Microsoft Power Platform Blog. (2026, April 15). *Making business apps smarter with AI Copilot and agents in Power Apps*. [https://www.microsoft.com/en-us/power-platform/blog/2026/04/15/making-business-apps-smarter-with-ai-copilot-and-agents-in-power-apps/](https://www.microsoft.com/en-us/power-platform/blog/2026/04/15/making-business-apps-smarter-with-ai-copilot-and-agents-in-power-apps/)
+[10] Microsoft Power Platform Blog. (2026, April 15). *Making business apps smarter with AI Copilot and agents in Power Apps*. [https://www.microsoft.com/en-us/power-platform/blog/2026/04/15/making-business-apps-smarter-with-ai-copilot-and-agents-in-power-apps/](https://www.microsoft.com/en-us/power-platform/blog/2026/04/15/making-business-apps-smarter-with-ai-copilot-and-agents-in-power-apps/) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[11] Visual Studio Magazine. (2026, April 16). *VS Code updates boost AI agents terminal control and Copilot workflow*. [https://visualstudiomagazine.com/articles/2026/04/16/vs-code-updates-boost-ai-agents-terminal-control-and-copilot-workflow.aspx](https://visualstudiomagazine.com/articles/2026/04/16/vs-code-updates-boost-ai-agents-terminal-control-and-copilot-workflow.aspx)
+[11] Visual Studio Magazine. (2026, April 16). *VS Code updates boost AI agents terminal control and Copilot workflow*. [https://visualstudiomagazine.com/articles/2026/04/16/vs-code-updates-boost-ai-agents-terminal-control-and-copilot-workflow.aspx](https://visualstudiomagazine.com/articles/2026/04/16/vs-code-updates-boost-ai-agents-terminal-control-and-copilot-workflow.aspx) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->

@@ -35,16 +35,16 @@ While the capabilities of AI agents are expanding rapidly, the user interfaces a
 
 ## References
 
-[1] Frank's World. (2026, April 19). *Exploring the game-changing features of Claude Design*. [https://www.franksworld.com/2026/04/exploring-the-game-changing-features-of-claude-design/](https://www.franksworld.com/2026/04/exploring-the-game-changing-features-of-claude-design/)
+[1] Frank's World. (2026, April 19). *Exploring the game-changing features of Claude Design*. [https://www.franksworld.com/2026/04/exploring-the-game-changing-features-of-claude-design/](https://www.franksworld.com/2026/04/exploring-the-game-changing-features-of-claude-design/) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[2] TechBuzz. (2026, April 17). *Google's AI Mode stays put in Chrome to end tab chaos*. [https://www.techbuzz.ai/articles/google-s-ai-mode-stays-put-in-chrome-to-end-tab-chaos](https://www.techbuzz.ai/articles/google-s-ai-mode-stays-put-in-chrome-to-end-tab-chaos)
+[2] TechBuzz. (2026, April 17). *Google's AI Mode stays put in Chrome to end tab chaos*. [https://www.techbuzz.ai/articles/google-s-ai-mode-stays-put-in-chrome-to-end-tab-chaos](https://www.techbuzz.ai/articles/google-s-ai-mode-stays-put-in-chrome-to-end-tab-chaos) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[3] OpenAI. (2026, April 19). *ChatGPT Release Notes*. [https://help.openai.com/fr-ca/articles/6825453-chatgpt-release-notes](https://help.openai.com/fr-ca/articles/6825453-chatgpt-release-notes)
+[3] OpenAI. (2026, April 19). *ChatGPT Release Notes*. [https://help.openai.com/fr-ca/articles/6825453-chatgpt-release-notes](https://help.openai.com/fr-ca/articles/6825453-chatgpt-release-notes) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[4] OpenAI Community Forum. (2026, April 17). *Am I the only one who is fighting the GUI on ChatGPT?* [https://community.openai.com/t/am-i-the-only-one-who-is-fighting-the-gui-on-chatgpt/1378963/6](https://community.openai.com/t/am-i-the-only-one-who-is-fighting-the-gui-on-chatgpt/1378963/6)
+[4] OpenAI Community Forum. (2026, April 17). *Am I the only one who is fighting the GUI on ChatGPT?* [https://community.openai.com/t/am-i-the-only-one-who-is-fighting-the-gui-on-chatgpt/1378963/6](https://community.openai.com/t/am-i-the-only-one-who-is-fighting-the-gui-on-chatgpt/1378963/6) <!-- verified: 2026-04-22 | status: ❌ URL not accessible (HTTP 429) | checker: source-verification-agent -->
 
-[5] Houdao. (2026, April 18). *Perplexity AI Updates Pro Search*. [https://www.houdao.com/d/9036-Perplexity-AI-Updates-Pro-Search-Introduces-Voice-Mode-and-Realtime-Search](https://www.houdao.com/d/9036-Perplexity-AI-Updates-Pro-Search-Introduces-Voice-Mode-and-Realtime-Search)
+[5] Houdao. (2026, April 18). *Perplexity AI Updates Pro Search*. [https://www.houdao.com/d/9036-Perplexity-AI-Updates-Pro-Search-Introduces-Voice-Mode-and-Realtime-Search](https://www.houdao.com/d/9036-Perplexity-AI-Updates-Pro-Search-Introduces-Voice-Mode-and-Realtime-Search) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[6] Manus AI Blog. (2026, January 27). *Integrating Agent Skills to Usher in a New Chapter for Agents*. [https://manus.im/blog/manus-skills](https://manus.im/blog/manus-skills)
+[6] Manus AI Blog. (2026, January 27). *Integrating Agent Skills to Usher in a New Chapter for Agents*. [https://manus.im/blog/manus-skills](https://manus.im/blog/manus-skills) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[7] Reddit. (2026, April 18). *New UI is bad (r/grok)*. [https://www.reddit.com/r/grok/comments/1smv52r/new_ui_is_bad/](https://www.reddit.com/r/grok/comments/1smv52r/new_ui_is_bad/)
+[7] Reddit. (2026, April 18). *New UI is bad (r/grok)*. [https://www.reddit.com/r/grok/comments/1smv52r/new_ui_is_bad/](https://www.reddit.com/r/grok/comments/1smv52r/new_ui_is_bad/) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->

@@ -44,20 +44,20 @@ The physical context of AI interaction is expanding. Perplexity is reportedly pr
 
 ## References
 
-[1] Paridaux, S. (2026). *Practical UX Patterns for Agent Ecosystems*. Medium. [https://medium.com/@simantaparidaux/practical-ux-patterns-for-agent-ecosystems-fd86b2f1bd96](https://medium.com/@simantaparidaux/practical-ux-patterns-for-agent-ecosystems-fd86b2f1bd96) & Prigent, B. (2025). *7 UX Patterns for Better Human Oversight in Ambient AI Agents*. [https://www.bprigent.com/article/7-ux-patterns-for-human-oversight-in-ambient-ai-agents](https://www.bprigent.com/article/7-ux-patterns-for-human-oversight-in-ambient-ai-agents)
+[1] Paridaux, S. (2026). *Practical UX Patterns for Agent Ecosystems*. Medium. [https://medium.com/@simantaparidaux/practical-ux-patterns-for-agent-ecosystems-fd86b2f1bd96](https://medium.com/@simantaparidaux/practical-ux-patterns-for-agent-ecosystems-fd86b2f1bd96) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent --> & Prigent, B. (2025). *7 UX Patterns for Better Human Oversight in Ambient AI Agents*. [https://www.bprigent.com/article/7-ux-patterns-for-human-oversight-in-ambient-ai-agents](https://www.bprigent.com/article/7-ux-patterns-for-human-oversight-in-ambient-ai-agents) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[2] Microsoft DevBlogs. (2026, April 8). *MCP Apps now available in Copilot Chat*. [https://devblogs.microsoft.com/microsoft365dev/mcp-apps-now-available-in-copilot-chat/](https://devblogs.microsoft.com/microsoft365dev/mcp-apps-now-available-in-copilot-chat/)
+[2] Microsoft DevBlogs. (2026, April 8). *MCP Apps now available in Copilot Chat*. [https://devblogs.microsoft.com/microsoft365dev/mcp-apps-now-available-in-copilot-chat/](https://devblogs.microsoft.com/microsoft365dev/mcp-apps-now-available-in-copilot-chat/) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[3] Dev.to. (2026, April 7). *Figma made a huge step forward in AI design*. [https://dev.to/spookuspookus/figma-made-a-huge-step-forward-in-ai-design-april-2026-1cin](https://dev.to/spookuspookus/figma-made-a-huge-step-forward-in-ai-design-april-2026-1cin)
+[3] Dev.to. (2026, April 7). *Figma made a huge step forward in AI design*. [https://dev.to/spookuspookus/figma-made-a-huge-step-forward-in-ai-design-april-2026-1cin](https://dev.to/spookuspookus/figma-made-a-huge-step-forward-in-ai-design-april-2026-1cin) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[4] Android Authority. (2026, April 8). *Hey Perplexity*. [https://www.androidauthority.com/hey-perplexity-3655439/](https://www.androidauthority.com/hey-perplexity-3655439/)
+[4] Android Authority. (2026, April 8). *Hey Perplexity*. [https://www.androidauthority.com/hey-perplexity-3655439/](https://www.androidauthority.com/hey-perplexity-3655439/) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[5] PYMNTS. (2026, April 7). *Perplexity launches AI agent that drafts tax returns*. [https://www.pymnts.com/taxes/2026/perplexity-launches-ai-agent-that-drafts-tax-returns/](https://www.pymnts.com/taxes/2026/perplexity-launches-ai-agent-that-drafts-tax-returns/)
+[5] PYMNTS. (2026, April 7). *Perplexity launches AI agent that drafts tax returns*. [https://www.pymnts.com/taxes/2026/perplexity-launches-ai-agent-that-drafts-tax-returns/](https://www.pymnts.com/taxes/2026/perplexity-launches-ai-agent-that-drafts-tax-returns/) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[6] ReleaseBot. (2026, April 7). *Anthropic Updates*. [https://releasebot.io/updates/anthropic](https://releasebot.io/updates/anthropic)
+[6] ReleaseBot. (2026, April 7). *Anthropic Updates*. [https://releasebot.io/updates/anthropic](https://releasebot.io/updates/anthropic) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[7] GreenDrive. (2026, April 8). *Tesla updates OTA 2026*. [https://www.greendrive-accessories.com/blog/language/en/tesla-mises-a-jour-ota-2026/?srsltid=AfmBOoqhhbPJZQlAUfF8eORWFQiVIePTj8LL_j3rfrVaOG7IhDK3uLP6](https://www.greendrive-accessories.com/blog/language/en/tesla-mises-a-jour-ota-2026/?srsltid=AfmBOoqhhbPJZQlAUfF8eORWFQiVIePTj8LL_j3rfrVaOG7IhDK3uLP6)
+[7] GreenDrive. (2026, April 8). *Tesla updates OTA 2026*. [https://www.greendrive-accessories.com/blog/language/en/tesla-mises-a-jour-ota-2026/?srsltid=AfmBOoqhhbPJZQlAUfF8eORWFQiVIePTj8LL_j3rfrVaOG7IhDK3uLP6](https://www.greendrive-accessories.com/blog/language/en/tesla-mises-a-jour-ota-2026/?srsltid=AfmBOoqhhbPJZQlAUfF8eORWFQiVIePTj8LL_j3rfrVaOG7IhDK3uLP6) <!-- verified: 2026-04-22 | status: ❌ URL not accessible (HTTP 404) | checker: source-verification-agent -->
 
-[8] APIYI Help. (2026, April 6). *Grok Imagine Quality Speed Mode Guide*. [https://help.apiyi.com/en/grok-imagine-quality-speed-mode-guide-en.html](https://help.apiyi.com/en/grok-imagine-quality-speed-mode-guide-en.html)
+[8] APIYI Help. (2026, April 6). *Grok Imagine Quality Speed Mode Guide*. [https://help.apiyi.com/en/grok-imagine-quality-speed-mode-guide-en.html](https://help.apiyi.com/en/grok-imagine-quality-speed-mode-guide-en.html) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[9] TikTok. (2026, April 7). *@pioneer_ai_ Video*. [https://www.tiktok.com/@pioneer_ai_/video/7626078720670944526](https://www.tiktok.com/@pioneer_ai_/video/7626078720670944526)
+[9] TikTok. (2026, April 7). *@pioneer_ai_ Video*. [https://www.tiktok.com/@pioneer_ai_/video/7626078720670944526](https://www.tiktok.com/@pioneer_ai_/video/7626078720670944526) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->

@@ -35,16 +35,16 @@ We are seeing a renewed focus on the developer and power-user experience. Google
 
 ## References
 
-[1] Instagram. (2026, April 13). *Post regarding Claude Skill Creator*. [https://www.instagram.com/p/DXEbt6ID2ay/](https://www.instagram.com/p/DXEbt6ID2ay/)
+[1] Instagram. (2026, April 13). *Post regarding Claude Skill Creator*. [https://www.instagram.com/p/DXEbt6ID2ay/](https://www.instagram.com/p/DXEbt6ID2ay/) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[2] Mean CEO Blog. (2026, April 9). *Perplexity News April 2026*. [https://blog.mean.ceo/perplexity-news-april-2026/](https://blog.mean.ceo/perplexity-news-april-2026/)
+[2] Mean CEO Blog. (2026, April 9). *Perplexity News April 2026*. [https://blog.mean.ceo/perplexity-news-april-2026/](https://blog.mean.ceo/perplexity-news-april-2026/) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[3] The Verge. (2026, April 13). *Microsoft removing Copilot Windows 11 buttons*. [https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons](https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons)
+[3] The Verge. (2026, April 13). *Microsoft removing Copilot Windows 11 buttons*. [https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons](https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[4] Threads. (2026, April 13). *Post regarding Manus AI Music Generator*. [https://www.threads.com/@theahmedghanem/post/DXETersjF76/](https://www.threads.com/@theahmedghanem/post/DXETersjF76/)
+[4] Threads. (2026, April 13). *Post regarding Manus AI Music Generator*. [https://www.threads.com/@theahmedghanem/post/DXETersjF76/](https://www.threads.com/@theahmedghanem/post/DXETersjF76/) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[5] Till Freitag Blog. (2026, April 7). *Manus AI Review*. [https://till-freitag.com/en/blog/manus-ai-review-en](https://till-freitag.com/en/blog/manus-ai-review-en)
+[5] Till Freitag Blog. (2026, April 7). *Manus AI Review*. [https://till-freitag.com/en/blog/manus-ai-review-en](https://till-freitag.com/en/blog/manus-ai-review-en) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[6] HandyAI Substack. (2026, April 10). *Both Claude and ChatGPT Prepping*. [https://handyai.substack.com/p/both-claude-and-chatgpt-prepping](https://handyai.substack.com/p/both-claude-and-chatgpt-prepping)
+[6] HandyAI Substack. (2026, April 10). *Both Claude and ChatGPT Prepping*. [https://handyai.substack.com/p/both-claude-and-chatgpt-prepping](https://handyai.substack.com/p/both-claude-and-chatgpt-prepping) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[7] Homebrew Formulae. (2026). *gemini-cli — Interact with Google Gemini AI models from the command-line*. [https://formulae.brew.sh/formula/gemini-cli](https://formulae.brew.sh/formula/gemini-cli)
+[7] Homebrew Formulae. (2026). *gemini-cli — Interact with Google Gemini AI models from the command-line*. [https://formulae.brew.sh/formula/gemini-cli](https://formulae.brew.sh/formula/gemini-cli) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->

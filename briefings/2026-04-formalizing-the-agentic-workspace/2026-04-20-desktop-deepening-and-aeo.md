@@ -31,20 +31,20 @@ Microsoft continues to weave Copilot deeper into its core productivity suite. Th
 
 ## References
 
-[1] News Futunn. (2026, April 19). *Weekend reading analysis of the path where large AI models...* [https://news.futunn.com/en/post/71641015/weekend-reading-analysis-of-the-path-where-large-ai-models](https://news.futunn.com/en/post/71641015/weekend-reading-analysis-of-the-path-where-large-ai-models)
+[1] News Futunn. (2026, April 19). *Weekend reading analysis of the path where large AI models...* [https://news.futunn.com/en/post/71641015/weekend-reading-analysis-of-the-path-where-large-ai-models](https://news.futunn.com/en/post/71641015/weekend-reading-analysis-of-the-path-where-large-ai-models) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[2] MSN. (2026, April 20). *Google launches Gemini AI app for Mac*. [https://www.msn.com/en-in/money/topstories/google-launches-gemini-ai-app-for-mac-check-features-availability-and-how-to-download/ar-AA210qDd](https://www.msn.com/en-in/money/topstories/google-launches-gemini-ai-app-for-mac-check-features-availability-and-how-to-download/ar-AA210qDd)
+[2] MSN. (2026, April 20). *Google launches Gemini AI app for Mac*. [https://www.msn.com/en-in/money/topstories/google-launches-gemini-ai-app-for-mac-check-features-availability-and-how-to-download/ar-AA210qDd](https://www.msn.com/en-in/money/topstories/google-launches-gemini-ai-app-for-mac-check-features-availability-and-how-to-download/ar-AA210qDd) <!-- verified: 2026-04-22 | status: ❌ URL not accessible (connection failed) | checker: source-verification-agent -->
 
-[3] Instagram. (2026, April 20). *Gemini Live redesign testing*. [https://www.instagram.com/p/DXVIhaHluqD/](https://www.instagram.com/p/DXVIhaHluqD/)
+[3] Instagram. (2026, April 20). *Gemini Live redesign testing*. [https://www.instagram.com/p/DXVIhaHluqD/](https://www.instagram.com/p/DXVIhaHluqD/) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[4] OpenAI. (2026, April 19). *ChatGPT Release Notes*. [https://help.openai.com/fr-ca/articles/6825453-chatgpt-release-notes](https://help.openai.com/fr-ca/articles/6825453-chatgpt-release-notes)
+[4] OpenAI. (2026, April 19). *ChatGPT Release Notes*. [https://help.openai.com/fr-ca/articles/6825453-chatgpt-release-notes](https://help.openai.com/fr-ca/articles/6825453-chatgpt-release-notes) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[5] Seabuck Digital. (2026, April 20). *Perplexity AI Extension for Chrome*. [https://seabuckdigital.com/perplexity-ai-extension-for-chrome/](https://seabuckdigital.com/perplexity-ai-extension-for-chrome/)
+[5] Seabuck Digital. (2026, April 20). *Perplexity AI Extension for Chrome*. [https://seabuckdigital.com/perplexity-ai-extension-for-chrome/](https://seabuckdigital.com/perplexity-ai-extension-for-chrome/) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[6] Threads. (2026, April 17). *First look at Grok Computer*. [https://www.threads.net/@testingcatalog/post/DXPMr9dDbS9/](https://www.threads.net/@testingcatalog/post/DXPMr9dDbS9/)
+[6] Threads. (2026, April 17). *First look at Grok Computer*. [https://www.threads.net/@testingcatalog/post/DXPMr9dDbS9/](https://www.threads.net/@testingcatalog/post/DXPMr9dDbS9/) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[7] Releasebot. (2026, April 20). *Microsoft Updates*. [https://releasebot.io/updates/microsoft](https://releasebot.io/updates/microsoft)
+[7] Releasebot. (2026, April 20). *Microsoft Updates*. [https://releasebot.io/updates/microsoft](https://releasebot.io/updates/microsoft) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[8] Digital Applied. (2026, April 20). *Agentic Engine Optimization (AEO) Framework Guide*. [https://www.digitalapplied.com/blog/agentic-engine-optimization-google-aeo-framework-guide](https://www.digitalapplied.com/blog/agentic-engine-optimization-google-aeo-framework-guide)
+[8] Digital Applied. (2026, April 20). *Agentic Engine Optimization (AEO) Framework Guide*. [https://www.digitalapplied.com/blog/agentic-engine-optimization-google-aeo-framework-guide](https://www.digitalapplied.com/blog/agentic-engine-optimization-google-aeo-framework-guide) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[9] Microsoft Learn. (2026, April 20). *Copilot is not allowing me to tell it where I want...* [https://learn.microsoft.com/en-au/answers/questions/5864197/copilot-is-not-allowing-me-to-tell-it-where-i-want](https://learn.microsoft.com/en-au/answers/questions/5864197/copilot-is-not-allowing-me-to-tell-it-where-i-want)
+[9] Microsoft Learn. (2026, April 20). *Copilot is not allowing me to tell it where I want...* [https://learn.microsoft.com/en-au/answers/questions/5864197/copilot-is-not-allowing-me-to-tell-it-where-i-want](https://learn.microsoft.com/en-au/answers/questions/5864197/copilot-is-not-allowing-me-to-tell-it-where-i-want) <!-- verified: 2026-04-22 | status: ✅ accessible & matches | checker: source-verification-agent -->
