@@ -31,16 +31,16 @@ In one of the most radical UX experiments yet, Perplexity announced the **"Perso
 
 ## References
 
-[1] Yahoo Tech. (2026, April 23). *Google just revamped Gemini Enterprise*. [https://tech.yahoo.com/ai/gemini/articles/google-just-revamped-gemini-enterprise-120000758.html](https://tech.yahoo.com/ai/gemini/articles/google-just-revamped-gemini-enterprise-120000758.html)
+[1] Yahoo Tech. (2026, April 23). *Google just revamped Gemini Enterprise*. [https://tech.yahoo.com/ai/gemini/articles/google-just-revamped-gemini-enterprise-120000758.html](https://tech.yahoo.com/ai/gemini/articles/google-just-revamped-gemini-enterprise-120000758.html) <!-- verified: 2026-04-26 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[2] Yahoo Tech. (2026, April 22). *Hands on: X AI-powered custom timelines*. [https://tech.yahoo.com/social-media/articles/hands-x-ai-powered-custom-222553968.html](https://tech.yahoo.com/social-media/articles/hands-x-ai-powered-custom-222553968.html)
+[2] Yahoo Tech. (2026, April 22). *Hands on: X AI-powered custom timelines*. [https://tech.yahoo.com/social-media/articles/hands-x-ai-powered-custom-222553968.html](https://tech.yahoo.com/social-media/articles/hands-x-ai-powered-custom-222553968.html) <!-- verified: 2026-04-26 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[3] Reddit. (2026, April 22). *Desktop UX redesign disaster (r/ClaudeCode)*. [https://www.reddit.com/r/ClaudeCode/comments/1sn58c4/desktop_ux_redesign_disaster_part_one_blue/](https://www.reddit.com/r/ClaudeCode/comments/1sn58c4/desktop_ux_redesign_disaster_part_one_blue/)
+[3] Reddit. (2026, April 22). *Desktop UX redesign disaster (r/ClaudeCode)*. [https://www.reddit.com/r/ClaudeCode/comments/1sn58c4/desktop_ux_redesign_disaster_part_one_blue/](https://www.reddit.com/r/ClaudeCode/comments/1sn58c4/desktop_ux_redesign_disaster_part_one_blue/) <!-- verified: 2026-04-26 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[4] Microsoft. (2026, April 22). *Copilot's agentic capabilities are generally available*. [https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/](https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/)
+[4] Microsoft. (2026, April 22). *Copilot's agentic capabilities are generally available*. [https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/](https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/) <!-- verified: 2026-04-26 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[5] Releasebot. (2026, April 23). *Perplexity AI Updates*. [https://releasebot.io/updates/perplexity-ai](https://releasebot.io/updates/perplexity-ai)
+[5] Releasebot. (2026, April 23). *Perplexity AI Updates*. [https://releasebot.io/updates/perplexity-ai](https://releasebot.io/updates/perplexity-ai) <!-- verified: 2026-04-26 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[6] Till Freitag. (2026, April 14). *Manus AI Review*. [https://till-freitag.com/blog/manus-ai-review-en](https://till-freitag.com/blog/manus-ai-review-en)
+[6] Till Freitag. (2026, April 14). *Manus AI Review*. [https://till-freitag.com/blog/manus-ai-review-en](https://till-freitag.com/blog/manus-ai-review-en) <!-- verified: 2026-04-26 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[7] Google Cloud Blog. (2026, April 23). *Gemini Cloud Assist at Next '26*. [https://cloud.google.com/blog/products/application-development/gemini-cloud-assist-at-next26](https://cloud.google.com/blog/products/application-development/gemini-cloud-assist-at-next26)
+[7] Google Cloud Blog. (2026, April 23). *Gemini Cloud Assist at Next '26*. [https://cloud.google.com/blog/products/application-development/gemini-cloud-assist-at-next26](https://cloud.google.com/blog/products/application-development/gemini-cloud-assist-at-next26) <!-- verified: 2026-04-26 | status: ✅ accessible & matches | checker: source-verification-agent -->
