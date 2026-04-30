@@ -76,6 +76,19 @@ The core of this repository is organized chronologically by month in the `briefi
 *   [2026-04-15 - The Agentic Desktop Arrives](briefings/2026-04-formalizing-the-agentic-workspace/2026-04-15-the-agentic-desktop-arrives.md)
 *   [2026-04-16 - The UI Fragments into Specialized Workspaces](briefings/2026-04-formalizing-the-agentic-workspace/2026-04-16-the-ui-fragments-into-specialized-workspaces.md)
 *   [2026-04-17 - The Multimodal Shift and Agentic Expansion](briefings/2026-04-formalizing-the-agentic-workspace/2026-04-17-the-multimodal-shift-and-agentic-expansion.md)
+*   [2026-04-18 - The Agent Becomes the Designer](briefings/2026-04-formalizing-the-agentic-workspace/2026-04-18-the-agent-becomes-the-designer.md)
+*   [2026-04-19 - The Visual Execution Layer](briefings/2026-04-formalizing-the-agentic-workspace/2026-04-19-the-visual-execution-layer.md)
+*   [2026-04-20 - Desktop Deepening and AEO](briefings/2026-04-formalizing-the-agentic-workspace/2026-04-20-desktop-deepening-and-aeo.md)
+*   [2026-04-21 - The Shift to Operator UX](briefings/2026-04-formalizing-the-agentic-workspace/2026-04-21-the-shift-to-operator-ux.md)
+*   [2026-04-22 - The Commerce and Car Expansion](briefings/2026-04-formalizing-the-agentic-workspace/2026-04-22-the-commerce-and-car-expansion.md)
+*   [2026-04-23 - Autonomous Research and Custom Curation](briefings/2026-04-formalizing-the-agentic-workspace/2026-04-23-autonomous-research-and-custom-curation.md)
+*   [2026-04-24 - Multi-Agent Workflows and Model Upgrades](briefings/2026-04-formalizing-the-agentic-workspace/2026-04-24-multi-agent-workflows-and-model-upgrades.md)
+*   [2026-04-25 - The Autonomous OS and Multimodal Leaps](briefings/2026-04-formalizing-the-agentic-workspace/2026-04-25-the-autonomous-os-and-multimodal-leaps.md)
+*   [2026-04-26 - The UI Bifurcation and Agentic Refinement](briefings/2026-04-formalizing-the-agentic-workspace/2026-04-26-the-ui-bifurcation-and-agentic-refinement.md)
+*   [2026-04-27 - The Rise of AI Runtime Layers and Workspace Controls](briefings/2026-04-formalizing-the-agentic-workspace/2026-04-27-the-rise-of-ai-runtime-layers-and-workspace-controls.md)
+*   [2026-04-28 - Transparent Workflows and Dashboard Integration](briefings/2026-04-formalizing-the-agentic-workspace/2026-04-28-transparent-workflows-and-dashboard-integration.md)
+*   [2026-04-29 - Friction Reduction and Visual Orchestration](briefings/2026-04-formalizing-the-agentic-workspace/2026-04-29-friction-reduction-and-visual-orchestration.md)
+*   [2026-04-30 - Desktop Deepening and Cross-Platform Integration](briefings/2026-04-formalizing-the-agentic-workspace/2026-04-30-desktop-deepening-and-cross-platform-integration.md)
 
 ## Monthly Management Summaries
 
