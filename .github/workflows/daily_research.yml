@@ -48,3 +48,43 @@ jobs:
           else
             python scripts/research_agent.py
           fi
+
+      # Optional: generates Obsidian-ready notes into obsidian-export/.
+      # Pull this folder into your local vault via "git pull" + Obsidian Git plugin,
+      # or run scripts/sync_to_obsidian.py locally after each push.
+      - name: Generate Obsidian export
+        run: |
+          python - <<'EOF'
+          import json, re
+          from pathlib import Path
+          sys_path = str(Path("scripts"))
+          import sys; sys.path.insert(0, sys_path)
+          from sync_to_obsidian import briefing_to_obsidian, summary_to_obsidian, BRIEFINGS_DIR, SUMMARIES
+
+          export_dir = Path("obsidian-export")
+          briefings_dir = export_dir / "Daily Briefings"
+          summaries_dir = export_dir / "Monthly Summaries"
+          briefings_dir.mkdir(parents=True, exist_ok=True)
+          summaries_dir.mkdir(parents=True, exist_ok=True)
+
+          for src in sorted(BRIEFINGS_DIR.glob("*/*.md")):
+              dest = briefings_dir / src.name
+              if not dest.exists():
+                  dest.write_text(briefing_to_obsidian(src))
+
+          for src in SUMMARIES:
+              dest = summaries_dir / src.name
+              if not dest.exists():
+                  dest.write_text(summary_to_obsidian(src))
+          EOF
+
+      - name: Commit Obsidian export (if new files)
+        run: |
+          git add obsidian-export/ || true
+          if git diff --cached --quiet; then
+            echo "No new Obsidian export files."
+          else
+            git commit -m "Update Obsidian export"
+            branch=$(git rev-parse --abbrev-ref HEAD)
+            git push -u origin "$branch"
+          fi
