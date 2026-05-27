@@ -1,0 +1,50 @@
+name: Daily AI UX Research
+
+# Runs every weekday at 07:00 UTC (09:00 CET / 08:00 GMT).
+# Can also be triggered manually via the "Run workflow" button.
+on:
+  schedule:
+    - cron: "0 7 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Override date (YYYY-MM-DD). Leave empty for today."
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  daily-research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install --quiet anthropic
+
+      - name: Configure git identity
+        run: |
+          git config user.name  "AI UX Research Agent"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Run research agent
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [ -n "${{ github.event.inputs.date }}" ]; then
+            python scripts/research_agent.py --date "${{ github.event.inputs.date }}"
+          else
+            python scripts/research_agent.py
+          fi
