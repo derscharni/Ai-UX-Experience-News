@@ -90,6 +90,9 @@ The core of this repository is organized chronologically by month in the `briefi
 *   [2026-04-29 - Friction Reduction and Visual Orchestration](briefings/2026-04-formalizing-the-agentic-workspace/2026-04-29-friction-reduction-and-visual-orchestration.md)
 *   [2026-04-30 - Desktop Deepening and Cross-Platform Integration](briefings/2026-04-formalizing-the-agentic-workspace/2026-04-30-desktop-deepening-and-cross-platform-integration.md)
 
+### May 2026 — *The Workflow Becomes the Unit of Work* (`briefings/2026-05-the-workflow-as-the-unit-of-work/`)
+*   [2026-05-28 - Daily UX Update](briefings/2026-05-the-workflow-as-the-unit-of-work/2026-05-28-daily-ux-update.md)
+
 ## Monthly Management Summaries
 
 To provide a high-level overview of the most significant themes and shifts in the agentic ecosystem, concise management summaries (1-2 pages) are available at the top level of this repository. These documents synthesize the daily briefings to highlight the macro trends shaping the future of human-computer interaction.
