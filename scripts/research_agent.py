@@ -127,93 +127,75 @@ def research_and_write(date: datetime, examples: str) -> tuple[str, str]:
     date_display = date.strftime("%B %d, %Y")
     month_display = date.strftime("%B %Y")
 
-    prompt = f"""Today is {date_display}.
+    # Cached block: examples don't change day-to-day → reuse across runs.
+    # The date-specific instruction is a separate, non-cached block.
+    cached_context = (
+        f"Here are 2 recent example briefings showing the EXACT required format and editorial tone:\n\n"
+        f"{examples}\n\n"
+        f"---\n\n"
+        f"Format rules (follow precisely):\n"
+        f"# UX Briefing: [4–7 word title capturing today's macro UX theme]\n\n"
+        f"**DATE**\n\n"
+        f"Good morning. Today's briefing [one sentence on the macro trend].\n\n"
+        f"## At a Glance\n\n"
+        f"| Product | Key Development |\n| --- | --- |\n"
+        f"| **Claude** | [one sentence + [N]] |\n"
+        f"| **ChatGPT** | [one sentence + [N]] |\n"
+        f"| **Google Gemini** | [one sentence + [N]] |\n"
+        f"| **Microsoft Copilot** | [one sentence + [N]] |\n"
+        f"| **Grok (xAI)** | [one sentence + [N]] |\n"
+        f"| **Perplexity** | [one sentence + [N]] |\n\n"
+        f"## Product Highlights\n\n"
+        f"### [Title] — 2–3 analysis paragraphs per section (2–3 sections total)\n\n"
+        f"## References\n\n"
+        f"[N] Publisher. (Year, Month Day). *Title*. [url](url)\n\n"
+        f"Rules: only real URLs from web searches · analyse UX implications not just features · "
+        f"output ONLY the markdown, no preamble"
+    )
 
-Research the most significant UX and interface design news from the last 48 hours for these \
-six products and write the daily briefing. Use web_search for each product.
-
-Products to cover:
-1. Claude (Anthropic)
-2. ChatGPT / OpenAI (also GPT, Sora, Codex, Operator)
-3. Google Gemini (also NotebookLM, AI Overviews)
-4. Microsoft Copilot (also Bing AI, GitHub Copilot)
-5. Grok (xAI, also in Tesla/𝕏)
-6. Perplexity
-
-Suggested searches per product (adapt as needed):
-- "Claude Anthropic update {month_display}"
-- "ChatGPT OpenAI new feature {month_display}"
-- "Google Gemini interface {month_display}"
-- "Microsoft Copilot UX update {month_display}"
-- "Grok xAI feature {month_display}"
-- "Perplexity AI update {month_display}"
-
-Focus on: interface changes, new interaction modes, UX pattern shifts, trust/safety features, \
-multimodal additions, agentic workflow improvements.
-Ignore: pure model benchmarks, pricing, financial/acquisition news unless it changes the UX.
-
-Here are 2 recent example briefings showing the EXACT required format and editorial tone:
-
-{examples}
-
----
-
-Now write today's briefing in EXACTLY the same format as the examples above.
-
-The structure must be:
-
-```
-# UX Briefing: [4–7 word title capturing today's macro UX theme]
-
-**{date_display}**
-
-Good morning. Today's briefing [one compelling sentence about the day's macro trend].
-
-## At a Glance
-
-| Product | Key Development |
-| --- | --- |
-| **Claude** | [one sentence + citation [N]] |
-| **ChatGPT** | [one sentence + citation [N]] |
-| **Google Gemini** | [one sentence + citation [N]] |
-| **Microsoft Copilot** | [one sentence + citation [N]] |
-| **Grok (xAI)** | [one sentence + citation [N]] |
-| **Perplexity** | [one sentence + citation [N]] |
-
-## Product Highlights
-
-### [Title: "The X…" or "Y Does Z…"]
-
-[2–3 paragraphs of UX analysis with citations. Analyse the *implications* not just the feature. \
-Use language like "This shifts the UX from X to Y…", "This establishes a new pattern for…"]
-
-### [Title for second key development]
-
-[2–3 paragraphs]
-
-### [Optional third title]
-
-[2–3 paragraphs]
-
-## References
-
-[N] Publisher Name. (Year, Month Day). *Article Title*. [https://url.com](https://url.com)
-```
-
-Important rules:
-- Every [N] citation in the body must have a matching reference at the bottom
-- Use only real, specific articles with real, working URLs from your web searches
-- Prioritise official product blogs, Anthropic/OpenAI/Google/Microsoft newsrooms, \
-  The Verge, TechCrunch, Wired, Neowin, 9to5Google, VentureBeat, Ars Technica
-- Output ONLY the markdown content — no preamble, no commentary, no code fences"""
+    daily_instruction = (
+        f"Today is {date_display}.\n\n"
+        f"Research the last 48 hours for each product and write the briefing.\n\n"
+        f"Products: Claude (Anthropic) · ChatGPT/OpenAI · Google Gemini · "
+        f"Microsoft Copilot · Grok (xAI) · Perplexity\n\n"
+        f"Search terms (adapt as needed):\n"
+        f'- "Claude Anthropic update {month_display}"\n'
+        f'- "ChatGPT OpenAI feature {month_display}"\n'
+        f'- "Google Gemini interface {month_display}"\n'
+        f'- "Microsoft Copilot UX {month_display}"\n'
+        f'- "Grok xAI update {month_display}"\n'
+        f'- "Perplexity AI {month_display}"\n\n'
+        f"Focus: interface changes, interaction patterns, trust/safety UX, agentic workflows, multimodal UX.\n"
+        f"Ignore: model benchmarks, pricing, financials unless they directly change UX.\n\n"
+        f"Write the briefing now with **{date_display}** as the date."
+    )
 
     response = client.beta.messages.create(
-        model="claude-opus-4-7",
-        max_tokens=8000,
-        system=SYSTEM_PROMPT,
+        model="claude-sonnet-4-6",
+        max_tokens=4000,
+        system=[
+            {
+                "type": "text",
+                "text": SYSTEM_PROMPT,
+                "cache_control": {"type": "ephemeral"},
+            }
+        ],
         betas=["web-search-2025-03-05"],
         tools=[{"type": "web_search_20250305", "name": "web_search"}],
-        messages=[{"role": "user", "content": prompt}],
+        messages=[{
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": cached_context,
+                    "cache_control": {"type": "ephemeral"},
+                },
+                {
+                    "type": "text",
+                    "text": daily_instruction,
+                },
+            ],
+        }],
     )
 
     briefing = ""
