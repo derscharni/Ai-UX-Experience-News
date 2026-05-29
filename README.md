@@ -92,6 +92,7 @@ The core of this repository is organized chronologically by month in the `briefi
 
 ### May 2026 — *The Workflow Becomes the Unit of Work* (`briefings/2026-05-the-workflow-as-the-unit-of-work/`)
 *   [2026-05-28 - Daily UX Update](briefings/2026-05-the-workflow-as-the-unit-of-work/2026-05-28-daily-ux-update.md)
+*   [2026-05-29 - Daily UX Update](briefings/2026-05-the-workflow-as-the-unit-of-work/2026-05-29-daily-ux-update.md)
 
 ## Monthly Management Summaries
 
