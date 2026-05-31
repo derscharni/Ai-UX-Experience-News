@@ -31,20 +31,20 @@ Microsoft is working to make Copilot Chat feel less like a text generator and mo
 
 ## References
 
-[1] ReleaseBot. (2026, April 26). *Anthropic Updates: Claude Code 2.1.119*. [https://releasebot.io/updates/anthropic](https://releasebot.io/updates/anthropic)
+[1] ReleaseBot. (2026, April 26). *Anthropic Updates: Claude Code 2.1.119*. [https://releasebot.io/updates/anthropic](https://releasebot.io/updates/anthropic) <!-- verified: 2026-05-31 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[2] Anthropic Developer Platform. (2026, April 23). *Memory for Claude Managed Agents*. [https://releasebot.io/updates/anthropic](https://releasebot.io/updates/anthropic)
+[2] Anthropic Developer Platform. (2026, April 23). *Memory for Claude Managed Agents*. [https://releasebot.io/updates/anthropic](https://releasebot.io/updates/anthropic) <!-- verified: 2026-05-31 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[3] OpenAI Help Center. (2026, April 20). *ChatGPT Business release notes*. [https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes](https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes)
+[3] OpenAI Help Center. (2026, April 20). *ChatGPT Business release notes*. [https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes](https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes) <!-- verified: 2026-05-31 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[4] Microsoft Learn. (2026, April 21). *Microsoft 365 Copilot release notes*. [https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes](https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes)
+[4] Microsoft Learn. (2026, April 21). *Microsoft 365 Copilot release notes*. [https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes](https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes) <!-- verified: 2026-05-31 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[5] Google Blog. (2026, April 24). *Gemini Drop April 2026*. [https://blog.google/innovation-and-ai/products/gemini-app/gemini-drop-april-2026/](https://blog.google/innovation-and-ai/products/gemini-app/gemini-drop-april-2026/)
+[5] Google Blog. (2026, April 24). *Gemini Drop April 2026*. [https://blog.google/innovation-and-ai/products/gemini-app/gemini-drop-april-2026/](https://blog.google/innovation-and-ai/products/gemini-app/gemini-drop-april-2026/) <!-- verified: 2026-05-31 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[6] Perplexity Official Facebook. (2026, April 26). *Perplexity Computer executes entire workflows*. [https://www.facebook.com/perplexityofficial/posts/chat-gives-you-answers-agents-can-run-a-task-computer-executes-entire-workflows-/1171128516074308/](https://www.facebook.com/perplexityofficial/posts/chat-gives-you-answers-agents-can-run-a-task-computer-executes-entire-workflows-/1171128516074308/)
+[6] Perplexity Official Facebook. (2026, April 26). *Perplexity Computer executes entire workflows*. [https://www.facebook.com/perplexityofficial/posts/chat-gives-you-answers-agents-can-run-a-task-computer-executes-entire-workflows-/1171128516074308/](https://www.facebook.com/perplexityofficial/posts/chat-gives-you-answers-agents-can-run-a-task-computer-executes-entire-workflows-/1171128516074308/) <!-- verified: 2026-05-31 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[7] xAI News. (2026, April 17). *Grok Speech to Text and Text to Speech APIs*. [https://x.ai/news](https://x.ai/news)
+[7] xAI News. (2026, April 17). *Grok Speech to Text and Text to Speech APIs*. [https://x.ai/news](https://x.ai/news) <!-- verified: 2026-05-31 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[8] Medium. (2026, April 25). *The biggest AI trends and tools emerging in April 2026*. [https://medium.com/@visrow/the-biggest-ai-trends-and-tools-emerging-in-april-2026-8a491e6d546f](https://medium.com/@visrow/the-biggest-ai-trends-and-tools-emerging-in-april-2026-8a491e6d546f)
+[8] Medium. (2026, April 25). *The biggest AI trends and tools emerging in April 2026*. [https://medium.com/@visrow/the-biggest-ai-trends-and-tools-emerging-in-april-2026-8a491e6d546f](https://medium.com/@visrow/the-biggest-ai-trends-and-tools-emerging-in-april-2026-8a491e6d546f) <!-- verified: 2026-05-31 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[9] TechFlow Post. (2026, April 24). *AI Runtime Layers*. [https://www.techflowpost.com/article/detail_31300.html](https://www.techflowpost.com/article/detail_31300.html)
+[9] TechFlow Post. (2026, April 24). *AI Runtime Layers*. [https://www.techflowpost.com/article/detail_31300.html](https://www.techflowpost.com/article/detail_31300.html) <!-- verified: 2026-05-31 | status: ⚠️ accessible but content mismatch | checker: source-verification-agent -->

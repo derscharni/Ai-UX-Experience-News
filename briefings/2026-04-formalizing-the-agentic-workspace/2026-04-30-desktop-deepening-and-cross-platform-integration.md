@@ -31,14 +31,14 @@ While much of the recent focus has been on desktop and mobile, Perplexity is add
 
 ## References
 
-[1] DredgeWire. (2026, April 28). *Trimble Links SketchUp with Anthropic's Claude*. [https://dredgewire.com/trimble-links-sketchup-with-anthropics-claude-bringing-new-conversational-ai-powered-capabilities-to-3d-modeling/](https://dredgewire.com/trimble-links-sketchup-with-anthropics-claude-bringing-new-conversational-ai-powered-capabilities-to-3d-modeling/)
+[1] DredgeWire. (2026, April 28). *Trimble Links SketchUp with Anthropic's Claude*. [https://dredgewire.com/trimble-links-sketchup-with-anthropics-claude-bringing-new-conversational-ai-powered-capabilities-to-3d-modeling/](https://dredgewire.com/trimble-links-sketchup-with-anthropics-claude-bringing-new-conversational-ai-powered-capabilities-to-3d-modeling/) <!-- verified: 2026-05-31 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[2] Manus Academy. (2026, April 29). *Introducing GPT Image 2 on Manus Slides*. [https://academy.manus.im/](https://academy.manus.im/)
+[2] Manus Academy. (2026, April 29). *Introducing GPT Image 2 on Manus Slides*. [https://academy.manus.im/](https://academy.manus.im/) <!-- verified: 2026-05-31 | status: ⚠️ accessible but partial match | checker: source-verification-agent -->
 
-[3] CNET. (2026, April 29). *GM brings Google Gemini to millions of vehicles*. [https://www.cnet.com/tech/services-and-software/gm-brings-google-gemini-to-millions-of-vehicles-on-the-road-change/](https://www.cnet.com/tech/services-and-software/gm-brings-google-gemini-to-millions-of-vehicles-on-the-road-change/)
+[3] CNET. (2026, April 29). *GM brings Google Gemini to millions of vehicles*. [https://www.cnet.com/tech/services-and-software/gm-brings-google-gemini-to-millions-of-vehicles-on-the-road-change/](https://www.cnet.com/tech/services-and-software/gm-brings-google-gemini-to-millions-of-vehicles-on-the-road-change/) <!-- verified: 2026-05-31 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[4] Business Today. (2026, April 29). *Perplexity's new iPad app adds multitasking*. [https://www.businesstoday.in/technology/story/perplexitys-new-ipad-app-adds-multitasking-and-research-tools-for-power-users-528049-2026-04-29](https://www.businesstoday.in/technology/story/perplexitys-new-ipad-app-adds-multitasking-and-research-tools-for-power-users-528049-2026-04-29)
+[4] Business Today. (2026, April 29). *Perplexity's new iPad app adds multitasking*. [https://www.businesstoday.in/technology/story/perplexitys-new-ipad-app-adds-multitasking-and-research-tools-for-power-users-528049-2026-04-29](https://www.businesstoday.in/technology/story/perplexitys-new-ipad-app-adds-multitasking-and-research-tools-for-power-users-528049-2026-04-29) <!-- verified: 2026-05-31 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[5] Neowin. (2026, April 30). *Here are all the new features Microsoft added to Excel in April 2026*. [https://www.neowin.net/news/here-are-all-the-new-features-microsoft-added-to-excel-in-april-2026/](https://www.neowin.net/news/here-are-all-the-new-features-microsoft-added-to-excel-in-april-2026/)
+[5] Neowin. (2026, April 30). *Here are all the new features Microsoft added to Excel in April 2026*. [https://www.neowin.net/news/here-are-all-the-new-features-microsoft-added-to-excel-in-april-2026/](https://www.neowin.net/news/here-are-all-the-new-features-microsoft-added-to-excel-in-april-2026/) <!-- verified: 2026-05-31 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[6] OpenClaw Signal. (2026, April 26). *xAI Image, TTS, STT, Multimodal*. [https://www.clwsmth.com/signal/openclaw-v2026-4-22-xai-image-tts-stt-multimodal](https://www.clwsmth.com/signal/openclaw-v2026-4-22-xai-image-tts-stt-multimodal)
+[6] OpenClaw Signal. (2026, April 26). *xAI Image, TTS, STT, Multimodal*. [https://www.clwsmth.com/signal/openclaw-v2026-4-22-xai-image-tts-stt-multimodal](https://www.clwsmth.com/signal/openclaw-v2026-4-22-xai-image-tts-stt-multimodal) <!-- verified: 2026-05-31 | status: ✅ accessible & matches | checker: source-verification-agent -->
