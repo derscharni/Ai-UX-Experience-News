@@ -2,5 +2,9 @@
   "2026-05": [
     "the-workflow-as-the-unit-of-work",
     "The Workflow Becomes the Unit of Work"
+  ],
+  "2026-06": [
+    "the-art-of-the-interrupt",
+    "The Art of the Interrupt"
   ]
 }

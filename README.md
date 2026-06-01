@@ -94,6 +94,9 @@ The core of this repository is organized chronologically by month in the `briefi
 *   [2026-05-28 - Daily UX Update](briefings/2026-05-the-workflow-as-the-unit-of-work/2026-05-28-daily-ux-update.md)
 *   [2026-05-29 - Daily UX Update](briefings/2026-05-the-workflow-as-the-unit-of-work/2026-05-29-daily-ux-update.md)
 
+### June 2026 — *The Art of the Interrupt* (`briefings/2026-06-the-art-of-the-interrupt/`)
+*   [2026-06-01 - Daily UX Update](briefings/2026-06-the-art-of-the-interrupt/2026-06-01-daily-ux-update.md)
+
 ## Monthly Management Summaries
 
 To provide a high-level overview of the most significant themes and shifts in the agentic ecosystem, concise management summaries (1-2 pages) are available at the top level of this repository. These documents synthesize the daily briefings to highlight the macro trends shaping the future of human-computer interaction.
