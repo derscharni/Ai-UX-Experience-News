@@ -96,6 +96,7 @@ The core of this repository is organized chronologically by month in the `briefi
 
 ### June 2026 — *The Art of the Interrupt* (`briefings/2026-06-the-art-of-the-interrupt/`)
 *   [2026-06-01 - Daily UX Update](briefings/2026-06-the-art-of-the-interrupt/2026-06-01-daily-ux-update.md)
+*   [2026-06-02 - Daily UX Update](briefings/2026-06-the-art-of-the-interrupt/2026-06-02-daily-ux-update.md)
 
 ## Monthly Management Summaries
 
