@@ -386,21 +386,12 @@ def commit_and_push(files: list[Path], date: datetime) -> None:
 
 # ── Main ───────────────────────────────────────────────────────────────────────
 
-def main() -> None:
-    if not os.getenv("ANTHROPIC_API_KEY"):
-        print("Error: ANTHROPIC_API_KEY is not set.", file=sys.stderr)
-        sys.exit(1)
-
-    if len(sys.argv) == 3 and sys.argv[1] == "--date":
-        date = datetime.strptime(sys.argv[2], "%Y-%m-%d").replace(tzinfo=timezone.utc)
-    else:
-        date = datetime.now(timezone.utc)
-
+def run_for_date(date: datetime, force: bool = False) -> None:
     date_str = date.strftime("%Y-%m-%d")
-    print(f"[research_agent] date={date_str}")
+    print(f"\n[research_agent] date={date_str}")
 
-    if briefing_exists(date):
-        print(f"Briefing for {date_str} already exists — skipping.")
+    if briefing_exists(date) and not force:
+        print(f"Briefing for {date_str} already exists — skipping (use --force to overwrite).")
         return
 
     themes = load_themes()
@@ -436,6 +427,29 @@ def main() -> None:
     print("Committing and pushing…")
     commit_and_push(files_to_commit, date)
     print("Done.")
+
+
+def main() -> None:
+    if not os.getenv("ANTHROPIC_API_KEY"):
+        print("Error: ANTHROPIC_API_KEY is not set.", file=sys.stderr)
+        sys.exit(1)
+
+    args = sys.argv[1:]
+    force = "--force" in args
+    args = [a for a in args if a != "--force"]
+
+    dates: list[datetime] = []
+    if len(args) == 2 and args[0] == "--date":
+        # Accept a single date or a comma-separated list of dates.
+        for d in args[1].split(","):
+            d = d.strip()
+            if d:
+                dates.append(datetime.strptime(d, "%Y-%m-%d").replace(tzinfo=timezone.utc))
+    else:
+        dates.append(datetime.now(timezone.utc))
+
+    for date in dates:
+        run_for_date(date, force=force)
 
 
 if __name__ == "__main__":

@@ -96,15 +96,10 @@ The core of this repository is organized chronologically by month in the `briefi
 *   [2026-04-30 - Desktop Deepening and Cross-Platform Integration](briefings/2026-04-formalizing-the-agentic-workspace/2026-04-30-desktop-deepening-and-cross-platform-integration.md)
 
 ### May 2026 — *The Workflow Becomes the Unit of Work* (`briefings/2026-05-the-workflow-as-the-unit-of-work/`)
-*   [2026-05-28 - Daily UX Update](briefings/2026-05-the-workflow-as-the-unit-of-work/2026-05-28-daily-ux-update.md)
-*   [2026-05-29 - Daily UX Update](briefings/2026-05-the-workflow-as-the-unit-of-work/2026-05-29-daily-ux-update.md)
+_Briefings are added automatically as they are generated._
 
 ### June 2026 — *The Art of the Interrupt* (`briefings/2026-06-the-art-of-the-interrupt/`)
-*   [2026-06-01 - Daily UX Update](briefings/2026-06-the-art-of-the-interrupt/2026-06-01-daily-ux-update.md)
-*   [2026-06-02 - Daily UX Update](briefings/2026-06-the-art-of-the-interrupt/2026-06-02-daily-ux-update.md)
-*   [2026-06-03 - Daily UX Update](briefings/2026-06-the-art-of-the-interrupt/2026-06-03-daily-ux-update.md)
-*   [2026-06-04 - Daily UX Update](briefings/2026-06-the-art-of-the-interrupt/2026-06-04-daily-ux-update.md)
-*   [2026-06-05 - Daily UX Update](briefings/2026-06-the-art-of-the-interrupt/2026-06-05-daily-ux-update.md)
+_Briefings are added automatically as they are generated._
 
 ## Monthly Management Summaries
 

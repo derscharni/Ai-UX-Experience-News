@@ -1,55 +1,6 @@
 {
-  "updated": "2026-06-07T14:22:40Z",
+  "updated": "2026-06-07T14:25:30Z",
   "briefings": [
-    {
-      "date": "2026-06-05",
-      "title": "2026-06-05-daily-ux-update",
-      "path": "briefings/2026-06-the-art-of-the-interrupt/2026-06-05-daily-ux-update.md",
-      "month_theme": "The Art Of The Interrupt",
-      "month_key": "2026-06"
-    },
-    {
-      "date": "2026-06-04",
-      "title": "2026-06-04-daily-ux-update",
-      "path": "briefings/2026-06-the-art-of-the-interrupt/2026-06-04-daily-ux-update.md",
-      "month_theme": "The Art Of The Interrupt",
-      "month_key": "2026-06"
-    },
-    {
-      "date": "2026-06-03",
-      "title": "2026-06-03-daily-ux-update",
-      "path": "briefings/2026-06-the-art-of-the-interrupt/2026-06-03-daily-ux-update.md",
-      "month_theme": "The Art Of The Interrupt",
-      "month_key": "2026-06"
-    },
-    {
-      "date": "2026-06-02",
-      "title": "2026-06-02-daily-ux-update",
-      "path": "briefings/2026-06-the-art-of-the-interrupt/2026-06-02-daily-ux-update.md",
-      "month_theme": "The Art Of The Interrupt",
-      "month_key": "2026-06"
-    },
-    {
-      "date": "2026-06-01",
-      "title": "2026-06-01-daily-ux-update",
-      "path": "briefings/2026-06-the-art-of-the-interrupt/2026-06-01-daily-ux-update.md",
-      "month_theme": "The Art Of The Interrupt",
-      "month_key": "2026-06"
-    },
-    {
-      "date": "2026-05-29",
-      "title": "2026-05-29-daily-ux-update",
-      "path": "briefings/2026-05-the-workflow-as-the-unit-of-work/2026-05-29-daily-ux-update.md",
-      "month_theme": "The Workflow As The Unit Of Work",
-      "month_key": "2026-05"
-    },
-    {
-      "date": "2026-05-28",
-      "title": "2026-05-28-daily-ux-update",
-      "path": "briefings/2026-05-the-workflow-as-the-unit-of-work/2026-05-28-daily-ux-update.md",
-      "month_theme": "The Workflow As The Unit Of Work",
-      "month_key": "2026-05"
-    },
     {
       "date": "2026-04-30",
       "title": "Desktop Deepening and Cross-Platform Integration",

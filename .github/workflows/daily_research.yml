@@ -8,9 +8,14 @@ on:
   workflow_dispatch:
     inputs:
       date:
-        description: "Override date (YYYY-MM-DD). Leave empty for today."
+        description: "Date(s) YYYY-MM-DD, comma-separated for backfill. Empty = today."
         required: false
         default: ""
+      force:
+        description: "Overwrite existing briefings for the given date(s)."
+        type: boolean
+        required: false
+        default: false
 
 permissions:
   contents: write
@@ -46,11 +51,14 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
+          ARGS=""
           if [ -n "${{ github.event.inputs.date }}" ]; then
-            python scripts/research_agent.py --date "${{ github.event.inputs.date }}"
-          else
-            python scripts/research_agent.py
+            ARGS="--date ${{ github.event.inputs.date }}"
           fi
+          if [ "${{ github.event.inputs.force }}" = "true" ]; then
+            ARGS="$ARGS --force"
+          fi
+          python scripts/research_agent.py $ARGS
 
       - name: Update HTML reader index
         run: python scripts/generate_index.py
