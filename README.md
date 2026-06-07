@@ -98,7 +98,9 @@ The core of this repository is organized chronologically by month in the `briefi
 ### May 2026 — *The Workflow Becomes the Unit of Work* (`briefings/2026-05-the-workflow-as-the-unit-of-work/`)
 _Briefings are added automatically as they are generated._
 
-### June 2026 — *The Art of the Interrupt* (`briefings/2026-06-the-art-of-the-interrupt/`)
+### June 2026 
+*   [2026-06-07 - Agents Go Deeper Into Your Stack](briefings/2026-06-the-art-of-the-interrupt/2026-06-07-agents-go-deeper-into-your-stack.md)
+— *The Art of the Interrupt* (`briefings/2026-06-the-art-of-the-interrupt/`)
 _Briefings are added automatically as they are generated._
 
 ## Monthly Management Summaries
