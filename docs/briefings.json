@@ -1,425 +1,933 @@
 {
-  "updated": "2026-06-07T14:25:30Z",
+  "updated": "2026-06-07T14:40:45Z",
   "briefings": [
     {
       "date": "2026-04-30",
       "title": "Desktop Deepening and Cross-Platform Integration",
       "path": "briefings/2026-04-formalizing-the-agentic-workspace/2026-04-30-desktop-deepening-and-cross-platform-integration.md",
       "month_theme": "Formalizing The Agentic Workspace",
-      "month_key": "2026-04"
+      "month_key": "2026-04",
+      "excerpt": "Today's briefing wraps up April with a clear trend: AI agents are embedding themselves deeper into specialized environments, from 3D modeling software and iPad multitasking to automotive dashboards and local file systems.",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-04-29",
       "title": "Friction Reduction and Visual Orchestration",
       "path": "briefings/2026-04-formalizing-the-agentic-workspace/2026-04-29-friction-reduction-and-visual-orchestration.md",
       "month_theme": "Formalizing The Agentic Workspace",
-      "month_key": "2026-04"
+      "month_key": "2026-04",
+      "excerpt": "Today's briefing highlights a distinct trend across the major AI platforms: reducing interaction friction. From resolving IDE autocomplete conflicts to enabling single-click template sharing, the UX of AI agents is maturing from \"what can i",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-04-28",
       "title": "Transparent Workflows and Dashboard Integration",
       "path": "briefings/2026-04-formalizing-the-agentic-workspace/2026-04-28-transparent-workflows-and-dashboard-integration.md",
       "month_theme": "Formalizing The Agentic Workspace",
-      "month_key": "2026-04"
+      "month_key": "2026-04",
+      "excerpt": "Today's briefing focuses on a key theme: building trust through transparency. As agents take on more complex tasks, platforms are designing interfaces that expose the agent's internal logic, while simultaneously integrating these agents dee",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok"
+      ]
     },
     {
       "date": "2026-04-27",
       "title": "The Rise of AI Runtime Layers and Workspace Controls",
       "path": "briefings/2026-04-formalizing-the-agentic-workspace/2026-04-27-the-rise-of-ai-runtime-layers-and-workspace-controls.md",
       "month_theme": "Formalizing The Agentic Workspace",
-      "month_key": "2026-04"
+      "month_key": "2026-04",
+      "excerpt": "Today's briefing highlights a major structural shift in how AI applications are built—the emergence of \"AI Runtime Layers\"—alongside significant updates to workspace controls and persistent settings across developer tools.",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-04-26",
       "title": "The UI Bifurcation and Agentic Refinement",
       "path": "briefings/2026-04-formalizing-the-agentic-workspace/2026-04-26-the-ui-bifurcation-and-agentic-refinement.md",
       "month_theme": "Formalizing The Agentic Workspace",
-      "month_key": "2026-04"
+      "month_key": "2026-04",
+      "excerpt": "Today's briefing covers a growing conceptual shift in UX design—the bifurcation of interfaces into human-centric and agent-centric tracks—alongside significant refinements in visual editing and task orchestration across the major platforms.",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok"
+      ]
     },
     {
       "date": "2026-04-25",
       "title": "The Autonomous OS and Multimodal Leaps",
       "path": "briefings/2026-04-formalizing-the-agentic-workspace/2026-04-25-the-autonomous-os-and-multimodal-leaps.md",
       "month_theme": "Formalizing The Agentic Workspace",
-      "month_key": "2026-04"
+      "month_key": "2026-04",
+      "excerpt": "Today's briefing highlights how AI agents are moving out of the browser and into local operating systems, while major leaps in multimodal capabilities are forcing a re-evaluation of traditional design workflows.",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-04-24",
       "title": "Multi-Agent Workflows and Model Upgrades",
       "path": "briefings/2026-04-formalizing-the-agentic-workspace/2026-04-24-multi-agent-workflows-and-model-upgrades.md",
       "month_theme": "Formalizing The Agentic Workspace",
-      "month_key": "2026-04"
+      "month_key": "2026-04",
+      "excerpt": "Today's briefing focuses on how the underlying models powering AI agents are receiving major upgrades, which is immediately unlocking new multi-agent workflows and more complex parallel execution capabilities in the user interface.",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok"
+      ]
     },
     {
       "date": "2026-04-23",
       "title": "Autonomous Research and Custom Curation",
       "path": "briefings/2026-04-formalizing-the-agentic-workspace/2026-04-23-autonomous-research-and-custom-curation.md",
       "month_theme": "Formalizing The Agentic Workspace",
-      "month_key": "2026-04"
+      "month_key": "2026-04",
+      "excerpt": "Today's briefing highlights the rise of fully autonomous research agents, significant expansions in enterprise AI orchestration, and new ways users are curating their algorithmic feeds.",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-04-22",
       "title": "The Commerce and Car Expansion",
       "path": "briefings/2026-04-formalizing-the-agentic-workspace/2026-04-22-the-commerce-and-car-expansion.md",
       "month_theme": "Formalizing The Agentic Workspace",
-      "month_key": "2026-04"
+      "month_key": "2026-04",
+      "excerpt": "Today's briefing highlights how AI agents are expanding into new physical and commercial contexts—from integrating into vehicle dashboards to reshaping e-commerce flows—while desktop interfaces continue to refine their visual language.",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-04-21",
       "title": "The Shift to \"Operator\" UX",
       "path": "briefings/2026-04-formalizing-the-agentic-workspace/2026-04-21-the-shift-to-operator-ux.md",
       "month_theme": "Formalizing The Agentic Workspace",
-      "month_key": "2026-04"
+      "month_key": "2026-04",
+      "excerpt": "Today's briefing highlights a crucial transition in how users interact with AI: the shift from single-turn tools to multi-task \"operators.\" We are also seeing significant UI streamlining across major platforms, alongside growing pains relat",
+      "products": [
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-04-20",
       "title": "Desktop Deepening and \"AEO\"",
       "path": "briefings/2026-04-formalizing-the-agentic-workspace/2026-04-20-desktop-deepening-and-aeo.md",
       "month_theme": "Formalizing The Agentic Workspace",
-      "month_key": "2026-04"
+      "month_key": "2026-04",
+      "excerpt": "Today's briefing highlights a push toward deeper desktop integration across the major players, alongside the emergence of a new design framework: \"Agentic Engine Optimization\" (AEO) — designing interfaces not just for humans, but for the ag",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-04-19",
       "title": "The Visual Execution Layer",
       "path": "briefings/2026-04-formalizing-the-agentic-workspace/2026-04-19-the-visual-execution-layer.md",
       "month_theme": "Formalizing The Agentic Workspace",
-      "month_key": "2026-04"
+      "month_key": "2026-04",
+      "excerpt": "Today's briefing highlights the rapid evolution of AI agents into visual execution engines. The industry is moving past generating simple images toward creating fully interactive prototypes, manipulating on-screen elements, and extracting v",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-04-18",
       "title": "The Agent Becomes the Designer",
       "path": "briefings/2026-04-formalizing-the-agentic-workspace/2026-04-18-the-agent-becomes-the-designer.md",
       "month_theme": "Formalizing The Agentic Workspace",
-      "month_key": "2026-04"
+      "month_key": "2026-04",
+      "excerpt": "Today's briefing highlights a major expansion of AI agents into the visual design space. The line between \"chatbot\" and \"design software\" is blurring rapidly, as agents gain the ability to generate, iterate, and refine high-fidelity visual ",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-04-17",
       "title": "The Multimodal Shift and Agentic Expansion",
       "path": "briefings/2026-04-formalizing-the-agentic-workspace/2026-04-17-the-multimodal-shift-and-agentic-expansion.md",
       "month_theme": "Formalizing The Agentic Workspace",
-      "month_key": "2026-04"
+      "month_key": "2026-04",
+      "excerpt": "Today's briefing highlights a major leap forward in multimodal capabilities and deeper system integration across the leading AI agents. The focus is shifting from text-based interaction to seamless visual, auditory, and cross-application wo",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-04-16",
       "title": "The UI Fragments into Specialized Workspaces",
       "path": "briefings/2026-04-formalizing-the-agentic-workspace/2026-04-16-the-ui-fragments-into-specialized-workspaces.md",
       "month_theme": "Formalizing The Agentic Workspace",
-      "month_key": "2026-04"
+      "month_key": "2026-04",
+      "excerpt": "Today's briefing highlights a clear fragmentation in agent UX. The \"one-size-fits-all\" chat window is breaking apart into highly specialized interfaces: developer dashboards, unified document workspaces, and deeply integrated data tools. As",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-04-15",
       "title": "The Agentic Desktop Arrives",
       "path": "briefings/2026-04-formalizing-the-agentic-workspace/2026-04-15-the-agentic-desktop-arrives.md",
       "month_theme": "Formalizing The Agentic Workspace",
-      "month_key": "2026-04"
+      "month_key": "2026-04",
+      "excerpt": "Today's briefing highlights a massive shift from the browser to the desktop. The biggest players in the space are rolling out native applications designed to operate directly on your local machine, bringing agents out of the chat window and",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok"
+      ]
     },
     {
       "date": "2026-04-14",
       "title": "The Customization Era Begins",
       "path": "briefings/2026-04-formalizing-the-agentic-workspace/2026-04-14-the-customization-era-begins.md",
       "month_theme": "Formalizing The Agentic Workspace",
-      "month_key": "2026-04"
+      "month_key": "2026-04",
+      "excerpt": "Today's briefing highlights a shift toward deep user customization and strategic interface refinement. While some agents are expanding their capabilities to allow users to build custom workflows and compare models, others are actively retre",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-04-11",
       "title": "The UI Retreats, The Agent Advances",
       "path": "briefings/2026-04-formalizing-the-agentic-workspace/2026-04-11-the-ui-retreats-the-agent-advances.md",
       "month_theme": "Formalizing The Agentic Workspace",
-      "month_key": "2026-04"
+      "month_key": "2026-04",
+      "excerpt": "Today's briefing highlights a fascinating contradiction in agent UX: as the underlying models become vastly more capable of complex, autonomous execution, the user interfaces are actually retreating. We are seeing a shift away from omnipres",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-04-10",
       "title": "The Agentic Workspace Unifies",
       "path": "briefings/2026-04-formalizing-the-agentic-workspace/2026-04-10-the-agentic-workspace-unifies.md",
       "month_theme": "Formalizing The Agentic Workspace",
-      "month_key": "2026-04"
+      "month_key": "2026-04",
+      "excerpt": "Today's briefing highlights a major trend toward workspace unification. AI agents are no longer just discrete chatbots; they are absorbing entire workflows and integrating deeply with the tools we already use, from Google Workspace to Micro",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-04-09",
       "title": "The Agent as the New Revenue Engine",
       "path": "briefings/2026-04-formalizing-the-agentic-workspace/2026-04-09-the-agent-as-the-new-revenue-engine.md",
       "month_theme": "Formalizing The Agentic Workspace",
-      "month_key": "2026-04"
+      "month_key": "2026-04",
+      "excerpt": "Today's briefing highlights a significant shift in the AI landscape: the transition to agentic interfaces is driving major revenue growth, prompting companies to rapidly reshape their UX to support complex workflows and monetize new interac",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-04-08",
       "title": "Formalizing the Agentic Interface",
       "path": "briefings/2026-04-formalizing-the-agentic-workspace/2026-04-08-formalizing-the-agentic-interface.md",
       "month_theme": "Formalizing The Agentic Workspace",
-      "month_key": "2026-04"
+      "month_key": "2026-04",
+      "excerpt": "Today's briefing marks a turning point in how we design for AI. We are moving past the experimental phase of \"chatting with a bot\" into a formalized discipline of Agentic UX. The design community has codified standard interface patterns for",
+      "products": [
+        "Claude",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-04-07",
       "title": "The App Ecosystem Opens Up",
       "path": "briefings/2026-04-formalizing-the-agentic-workspace/2026-04-07-the-app-ecosystem-opens-up.md",
       "month_theme": "Formalizing The Agentic Workspace",
-      "month_key": "2026-04"
+      "month_key": "2026-04",
+      "excerpt": "Today's briefing highlights a wave of new third-party integrations and cross-platform orchestration. As AI agents move from standalone tools to central hubs, the UX focus is shifting toward how seamlessly they can connect with and control t",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-04-05",
       "title": "Designing for Trust and Transparency",
       "path": "briefings/2026-04-formalizing-the-agentic-workspace/2026-04-05-designing-for-trust-and-transparency.md",
       "month_theme": "Formalizing The Agentic Workspace",
-      "month_key": "2026-04"
+      "month_key": "2026-04",
+      "excerpt": "Today's briefing highlights a crucial evolution in AI agent design: the shift from simply executing tasks to actively building user trust. As agents gain more autonomy—handling everything from enterprise workflows to personal navigation—des",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok"
+      ]
     },
     {
       "date": "2026-04-04",
       "title": "The Ecosystem Walls Are Closing In",
       "path": "briefings/2026-04-formalizing-the-agentic-workspace/2026-04-04-the-ecosystem-walls-are-closing-in.md",
       "month_theme": "Formalizing The Agentic Workspace",
-      "month_key": "2026-04"
+      "month_key": "2026-04",
+      "excerpt": "Today's briefing highlights a growing tension in the AI agent space: the push for deeper, frictionless integration versus the tightening of ecosystem walls. As agents become more capable, companies are moving to control the UI layer, restri",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-04-03",
       "title": "The Push for Precision and Desktop Control",
       "path": "briefings/2026-04-formalizing-the-agentic-workspace/2026-04-03-the-push-for-precision-and-desktop-control.md",
       "month_theme": "Formalizing The Agentic Workspace",
-      "month_key": "2026-04"
+      "month_key": "2026-04",
+      "excerpt": "Today's briefing highlights a significant shift in AI agent interaction: moving beyond simple chat interfaces to deep desktop integration and multi-agent precision. As products like Claude and Grok introduce direct computer control and coll",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok"
+      ]
     },
     {
       "date": "2026-04-02",
       "title": "The Agentic Integration and Trust",
       "path": "briefings/2026-04-formalizing-the-agentic-workspace/2026-04-02-the-agentic-integration-and-trust.md",
       "month_theme": "Formalizing The Agentic Workspace",
-      "month_key": "2026-04"
+      "month_key": "2026-04",
+      "excerpt": "Today's briefing highlights a dual narrative in the AI agent space: rapid, deep integration into existing platforms alongside emerging concerns around trust and data security. As agents move from experimental sandboxes to core workflows, th",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-03-31",
       "title": "The Agent Becomes the OS",
       "path": "briefings/2026-03-the-agent-becomes-the-os/2026-03-31-the-agent-becomes-the-os.md",
       "month_theme": "The Agent Becomes The Os",
-      "month_key": "2026-03"
+      "month_key": "2026-03",
+      "excerpt": "Today's briefing focuses on a significant strategic shift: the AI agent moving from a cloud-based assistant to a locally-integrated operating system. Major updates from Manus, Google, and Apple signal a future where agents interact directly",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-03-29",
       "title": "The Great Unbundling and Rebundling",
       "path": "briefings/2026-03-the-agent-becomes-the-os/2026-03-29-the-great-unbundling-and-rebundling.md",
       "month_theme": "The Agent Becomes The Os",
-      "month_key": "2026-03"
+      "month_key": "2026-03",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: The Great Unbundling and Rebundling. As Microsoft pulls back on its aggressive, OS-level Copilot integrations in response to user",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-03-28",
       "title": "The Agent is the OS",
       "path": "briefings/2026-03-the-agent-becomes-the-os/2026-03-28-the-agent-is-the-os.md",
       "month_theme": "The Agent Becomes The Os",
-      "month_key": "2026-03"
+      "month_key": "2026-03",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: The Agent is the OS. The race is on to become the primary execution layer for your digital life. Perplexity has launched \"Compute",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-03-27",
       "title": "The Great Migration",
       "path": "briefings/2026-03-the-agent-becomes-the-os/2026-03-27-the-great-migration.md",
       "month_theme": "The Agent Becomes The Os",
-      "month_key": "2026-03"
+      "month_key": "2026-03",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: The Great Migration. The focus is shifting from attracting new users to capturing existing ones. Google is rolling out tools to i",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok"
+      ]
     },
     {
       "date": "2026-03-26",
       "title": "The Agentic Ecosystem",
       "path": "briefings/2026-03-the-agent-becomes-the-os/2026-03-26-the-agentic-ecosystem.md",
       "month_theme": "The Agent Becomes The Os",
-      "month_key": "2026-03"
+      "month_key": "2026-03",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: The Agentic Ecosystem. The focus is shifting from standalone chat interfaces to deeply integrated ecosystems. Agents are being em",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-03-25",
       "title": "The Agentic Correction",
       "path": "briefings/2026-03-the-agent-becomes-the-os/2026-03-25-the-agentic-correction.md",
       "month_theme": "The Agent Becomes The Os",
-      "month_key": "2026-03"
+      "month_key": "2026-03",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: The Agentic Correction. After a period of unrestrained expansion, the industry is facing a wave of user-driven course correction.",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-03-24",
       "title": "The Agent as the Execution Layer",
       "path": "briefings/2026-03-the-agent-becomes-the-os/2026-03-24-the-agent-as-the-execution-layer.md",
       "month_theme": "The Agent Becomes The Os",
-      "month_key": "2026-03"
+      "month_key": "2026-03",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: The Agent as the Execution Layer. The AI is no longer just a chat partner; it’s becoming a true digital worker. New features from",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-03-23",
       "title": "The Remote Control",
       "path": "briefings/2026-03-the-agent-becomes-the-os/2026-03-23-the-remote-control.md",
       "month_theme": "The Agent Becomes The Os",
-      "month_key": "2026-03"
+      "month_key": "2026-03",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: The Remote Control. The agent is no longer tethered to a single machine. A new interaction paradigm is emerging where your phone ",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-03-22",
       "title": "The Agent Comes Home",
       "path": "briefings/2026-03-the-agent-becomes-the-os/2026-03-22-the-agent-comes-home.md",
       "month_theme": "The Agent Becomes The Os",
-      "month_key": "2026-03"
+      "month_key": "2026-03",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: The Agent Comes Home. The frontier of agentic AI is moving from the cloud to your local machine. A new class of desktop agents is",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-03-21",
       "title": "The Agentic Reckoning",
       "path": "briefings/2026-03-the-agent-becomes-the-os/2026-03-21-the-agentic-reckoning.md",
       "month_theme": "The Agent Becomes The Os",
-      "month_key": "2026-03"
+      "month_key": "2026-03",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: The Agentic Reckoning. After a period of unrestrained expansion, the industry is now facing its first major wave of user-driven c",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok"
+      ]
     },
     {
       "date": "2026-03-20",
       "title": "The Great Unification",
       "path": "briefings/2026-03-the-agent-becomes-the-os/2026-03-20-the-great-unification.md",
       "month_theme": "The Agent Becomes The Os",
-      "month_key": "2026-03"
+      "month_key": "2026-03",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: The Great Unification. After a week of explosive new features and platforms, the industry is now moving to consolidate. The fragm",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot"
+      ]
     },
     {
       "date": "2026-03-19",
       "title": "Intent is the New Interface",
       "path": "briefings/2026-03-the-agent-becomes-the-os/2026-03-19-intent-is-the-new-interface.md",
       "month_theme": "The Agent Becomes The Os",
-      "month_key": "2026-03"
+      "month_key": "2026-03",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: Intent is the New Interface. A landmark report from JPMorgan Chase declares the era of app-switching is ending. The new UX paradi",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-03-18",
       "title": "The Great Rebundling",
       "path": "briefings/2026-03-the-agent-becomes-the-os/2026-03-18-the-great-rebundling.md",
       "month_theme": "The Agent Becomes The Os",
-      "month_key": "2026-03"
+      "month_key": "2026-03",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: The Great Rebundling. After a period of rapid, chaotic expansion, the industry is now simplifying and repackaging its offerings. ",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-03-17",
       "title": "The Agent Comes Home",
       "path": "briefings/2026-03-the-agent-becomes-the-os/2026-03-17-the-agent-comes-home.md",
       "month_theme": "The Agent Becomes The Os",
-      "month_key": "2026-03"
+      "month_key": "2026-03",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: The Agent Comes Home. After a week of rapid expansion, the agent is now moving from the cloud to your local machine. Manus and Pe",
+      "products": [
+        "Claude",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-03-16",
       "title": "The Agentic Workflow",
       "path": "briefings/2026-03-the-agent-becomes-the-os/2026-03-16-the-agentic-workflow.md",
       "month_theme": "The Agent Becomes The Os",
-      "month_key": "2026-03"
+      "month_key": "2026-03",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: The Agentic Workflow. The focus is shifting from single-shot commands to complex, multi-step task execution. New interaction patt",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-03-15",
       "title": "The Consolidation",
       "path": "briefings/2026-03-the-agent-becomes-the-os/2026-03-15-the-consolidation.md",
       "month_theme": "The Agent Becomes The Os",
-      "month_key": "2026-03"
+      "month_key": "2026-03",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: The Consolidation. The agentic era is no longer a niche experiment; it’s the new strategic high ground. Meta’s acquisition of Man",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-03-14",
       "title": "The Agent Is the New UI",
       "path": "briefings/2026-03-the-agent-becomes-the-os/2026-03-14-the-agent-is-the-new-ui.md",
       "month_theme": "The Agent Becomes The Os",
-      "month_key": "2026-03"
+      "month_key": "2026-03",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: The agent is the new UI. After a week of deep integrations, the focus is now shifting to how agents present themselves. From dyna",
+      "products": [
+        "Claude",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-03-13",
       "title": "The Agent Is the New OS",
       "path": "briefings/2026-03-the-agent-becomes-the-os/2026-03-13-the-agent-is-the-new-os.md",
       "month_theme": "The Agent Becomes The Os",
-      "month_key": "2026-03"
+      "month_key": "2026-03",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: the agent is the new OS. From your car to your code editor to your doctor’s office, agents are becoming the native intelligence l",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-03-12",
       "title": "The Great Integration",
       "path": "briefings/2026-03-the-agent-becomes-the-os/2026-03-12-the-great-integration.md",
       "month_theme": "The Agent Becomes The Os",
-      "month_key": "2026-03"
+      "month_key": "2026-03",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: the Great Integration. The agent is no longer a destination; it’s a collaborator that lives inside the tools you already use. Goo",
+      "products": [
+        "Claude",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-03-11",
       "title": "The Agentic Era Meets the Real World",
       "path": "briefings/2026-03-the-agent-becomes-the-os/2026-03-11-the-agentic-era-meets-the-real-world.md",
       "month_theme": "The Agent Becomes The Os",
-      "month_key": "2026-03"
+      "month_key": "2026-03",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: the agentic era meets the real world. A landmark court ruling against Perplexity’s agentic browser signals the first major legal ",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-03-10",
       "title": "The Agent as Coworker",
       "path": "briefings/2026-03-the-agent-becomes-the-os/2026-03-10-the-agent-as-coworker.md",
       "month_theme": "The Agent Becomes The Os",
-      "month_key": "2026-03"
+      "month_key": "2026-03",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: the agent as a “Coworker.” Both Microsoft and Anthropic have now launched flagship agentic products with this exact framing, sign",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-03-09",
       "title": "The Dawn of Intentional Agentic UI Design",
       "path": "briefings/2026-03-the-agent-becomes-the-os/2026-03-09-the-dawn-of-intentional-agentic-ui-design.md",
       "month_theme": "The Agent Becomes The Os",
-      "month_key": "2026-03"
+      "month_key": "2026-03",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: the dawn of intentional Agentic UI design. After a week dominated by the raw capability race, the focus is now shifting to the in",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-03-08",
       "title": "The Agent Is the New IDE",
       "path": "briefings/2026-03-the-agent-becomes-the-os/2026-03-08-the-agent-is-the-new-ide.md",
       "month_theme": "The Agent Becomes The Os",
-      "month_key": "2026-03"
+      "month_key": "2026-03",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: the agent is the new IDE. As platforms race to add agentic capabilities, they are simultaneously building out dedicated, integrat",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-03-07",
       "title": "The Agentic War Is Now a Two-Front War",
       "path": "briefings/2026-03-the-agent-becomes-the-os/2026-03-07-the-agentic-war-is-now-a-two-front-war.md",
       "month_theme": "The Agent Becomes The Os",
-      "month_key": "2026-03"
+      "month_key": "2026-03",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: the agentic war is now a two-front war. While the headline battle is about raw capability — who can use a computer? — a second, a",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-03-06",
       "title": "GPT-5.4 and the Agentic Arms Race",
       "path": "briefings/2026-03-the-agent-becomes-the-os/2026-03-06-gpt-54-and-the-agentic-arms-race.md",
       "month_theme": "The Agent Becomes The Os",
-      "month_key": "2026-03"
+      "month_key": "2026-03",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s briefing is led by a landmark announcement from OpenAI: GPT-5.4 is here, and it can use a computer. This move directly answers Anthropic",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok"
+      ]
     },
     {
       "date": "2026-03-05",
       "title": "The Five UX Crises of the Agentic Era",
       "path": "briefings/2026-03-the-agent-becomes-the-os/2026-03-05-the-five-ux-crises-of-the-agentic-era.md",
       "month_theme": "The Agent Becomes The Os",
-      "month_key": "2026-03"
+      "month_key": "2026-03",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s briefing is dominated by a viral post from a CEO running 30 AI agents in production, revealing the five biggest UX challenges of the age",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-03-04",
       "title": "Copilot Tasks and the Personal Agent",
       "path": "briefings/2026-03-the-agent-becomes-the-os/2026-03-04-copilot-tasks-and-the-personal-agent.md",
       "month_theme": "The Agent Becomes The Os",
-      "month_key": "2026-03"
+      "month_key": "2026-03",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s briefing is led by a major new product announcement from Microsoft: Copilot Tasks, a dedicated autonomous agent for your personal life. ",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok"
+      ]
     },
     {
       "date": "2026-03-03",
       "title": "The Switcher War Heats Up",
       "path": "briefings/2026-03-the-agent-becomes-the-os/2026-03-03-the-switcher-war-heats-up.md",
       "month_theme": "The Agent Becomes The Os",
-      "month_key": "2026-03"
+      "month_key": "2026-03",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s briefing is dominated by a major strategic move from Anthropic, which is making a direct play to win over users from its rivals with fre",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok"
+      ]
     },
     {
       "date": "2026-03-02",
       "title": "The Computer-Using Agent Arrives",
       "path": "briefings/2026-03-the-agent-becomes-the-os/2026-03-02-the-computer-using-agent-arrives.md",
       "month_theme": "The Agent Becomes The Os",
-      "month_key": "2026-03"
+      "month_key": "2026-03",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s briefing is led by a landmark announcement from Anthropic: Claude can now use a computer like a human. This, plus a leaked AI whiteboard",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-03-01",
       "title": "The Agent is the New App",
       "path": "briefings/2026-03-the-agent-becomes-the-os/2026-03-01-the-agent-is-the-new-app.md",
       "month_theme": "The Agent Becomes The Os",
-      "month_key": "2026-03"
+      "month_key": "2026-03",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s briefing covers Microsoft Copilot’s new ability to automatically resolve meeting conflicts, Claude’s expansion into a remote-controlled ",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-02-28",
       "title": "The Agent Designs in Figma",
       "path": "briefings/2026-02-operationalization-of-agentic-ai/2026-02-28-the-agent-designs-in-figma.md",
       "month_theme": "Operationalization Of Agentic Ai",
-      "month_key": "2026-02"
+      "month_key": "2026-02",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s briefing covers Claude’s new ability to design in Figma, Microsoft Copilot’s deeper integration with Google Contacts, and the ongoing de",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-02-27",
       "title": "Intent-Centric UX and Creative Tools",
       "path": "briefings/2026-02-operationalization-of-agentic-ai/2026-02-27-intent-centric-ux-and-creative-tools.md",
       "month_theme": "Operationalization Of Agentic Ai",
-      "month_key": "2026-02"
+      "month_key": "2026-02",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s briefing covers Google's new default image model, new agentic features in Microsoft Teams, and the ongoing strategic shifts as these pla",
+      "products": [
+        "Claude",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-02-26",
       "title": "On-Device Agency and Autonomous Workers",
       "path": "briefings/2026-02-operationalization-of-agentic-ai/2026-02-26-on-device-agency-and-autonomous-workers.md",
       "month_theme": "Operationalization Of Agentic Ai",
-      "month_key": "2026-02"
+      "month_key": "2026-02",
+      "excerpt": "A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s briefing covers major updates from Google, Perplexity, and Microsoft, highlighting a significant push towards on-device agentic automati",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     },
     {
       "date": "2026-02-25",
       "title": "The Operationalization of Agentic AI",
       "path": "briefings/2026-02-operationalization-of-agentic-ai/2026-02-25-the-operationalization-of-agentic-ai.md",
       "month_theme": "Operationalization Of Agentic Ai",
-      "month_key": "2026-02"
+      "month_key": "2026-02",
+      "excerpt": "A fresh, concise overview of the latest user experience developments, trends, and news in the AI agent landscape. This briefing covers key updates from major players like Claude, ChatGPT, Manus, Gemini, Microsoft Copilot, Perplexity, and Gr",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
     }
   ],
   "summaries": [
