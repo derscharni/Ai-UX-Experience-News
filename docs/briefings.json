@@ -1,6 +1,22 @@
 {
-  "updated": "2026-06-07T14:40:45Z",
+  "updated": "2026-06-07T14:57:11Z",
   "briefings": [
+    {
+      "date": "2026-06-07",
+      "title": "Agents Go Deeper Into Your Stack",
+      "path": "briefings/2026-06-the-art-of-the-interrupt/2026-06-07-agents-go-deeper-into-your-stack.md",
+      "month_theme": "The Art Of The Interrupt",
+      "month_key": "2026-06",
+      "excerpt": "Today's briefing is defined by a single directional force: AI agents are no longer living at the edge of your workflow — they are burrowing into its infrastructure. Perplexity is rethinking where computation itself happens with a hybrid loc",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
+    },
     {
       "date": "2026-04-30",
       "title": "Desktop Deepening and Cross-Platform Integration",
