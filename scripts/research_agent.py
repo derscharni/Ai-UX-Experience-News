@@ -190,7 +190,13 @@ def research_and_write(date: datetime, examples: str) -> tuple[str, str]:
         f'- "Perplexity AI {month_display}"\n\n'
         f"Focus: interface changes, interaction patterns, trust/safety UX, agentic workflows, multimodal UX.\n"
         f"Ignore: model benchmarks, pricing, financials unless they directly change UX.\n\n"
-        f"Write the complete briefing now. Use **{date_display}** as the date."
+        f"WORKFLOW (important):\n"
+        f"1. First, perform ALL your web searches. Do not write any part of the briefing yet.\n"
+        f"2. Only once research is complete, write the ENTIRE briefing in one continuous block, "
+        f"starting with the '# UX Briefing:' title line.\n"
+        f"3. Do not interleave commentary like 'let me search' with the briefing text — the final "
+        f"briefing must be one clean, uninterrupted markdown document.\n\n"
+        f"Use **{date_display}** as the date."
     )
 
     response = client.beta.messages.create(
@@ -221,18 +227,33 @@ def research_and_write(date: datetime, examples: str) -> tuple[str, str]:
         }],
     )
 
-    briefing = ""
-    for block in response.content:
-        if getattr(block, "type", None) == "text":
-            briefing = block.text.strip()
+    # With web search enabled the response is a sequence of text blocks
+    # interleaved with tool-use/tool-result blocks. Concatenate ALL text
+    # blocks in order — taking only the last one drops most of the briefing.
+    text_parts = [
+        block.text for block in response.content
+        if getattr(block, "type", None) == "text" and block.text.strip()
+    ]
+    briefing = "\n\n".join(text_parts).strip()
 
     if not briefing:
         raise RuntimeError("Claude returned an empty briefing — check API key and web search access")
 
-    # Strip any accidental preamble before the # header
+    # Strip any preamble before the title header.
     match = re.search(r"^# UX Briefing:", briefing, re.MULTILINE)
     if match:
-        briefing = briefing[match.start():]
+        briefing = briefing[match.start():].strip()
+
+    # Validate structure so a malformed run fails loudly instead of
+    # committing a truncated briefing.
+    required = ["# UX Briefing:", "## At a Glance", "## References"]
+    missing = [marker for marker in required if marker not in briefing]
+    if missing:
+        raise RuntimeError(
+            "Generated briefing is malformed — missing sections: "
+            f"{', '.join(missing)}.\n\n"
+            f"First 500 chars:\n{briefing[:500]}"
+        )
 
     title_match = re.search(r"^# UX Briefing: (.+)$", briefing, re.MULTILINE)
     title = title_match.group(1).strip() if title_match else "Daily UX Update"

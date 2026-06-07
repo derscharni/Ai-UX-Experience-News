@@ -4,11 +4,16 @@
 
 Welcome to the Ai-UX-Experience-News repository, curated by **Jens Scharnetzki**, Head of Experience Design & Journey Management at EnBW and a thought leader on Agent Experience (AX) and Temporal UX.
 
-This repository serves as a comprehensive collection of daily briefings tracking user experience (UX) developments across the rapidly evolving landscape of AI agents, including Claude, ChatGPT, Gemini, Copilot, Grok, Manus, and Perplexity.
+This repository serves as a comprehensive collection of daily briefings tracking user experience (UX) developments across the rapidly evolving landscape of AI agents, including Claude, ChatGPT, Gemini, Copilot, Grok, and Perplexity.
+
+> 📰 **[Read the briefings in the web reader →](https://derscharni.github.io/Ai-UX-Experience-News/)**
+> A clean, searchable newsletter-style interface. (Enable via *Settings → Pages → Source: `main` / `docs`*.)
+
+The briefings are produced **automatically every weekday** by a research agent (`scripts/research_agent.py`) that searches the web for the latest agent-UX developments and writes each briefing in the house style. See [Automation](#automation) below.
 
 ## Research Pattern & Our Lens
 
-These briefings are curated through a specific, focused lens: **Agent2Agent2Human Experience Design**. Rather than tracking general AI news or underlying model architectures (like parameter counts or training data), we consistently track the **UX and interaction design** of the leading AI agents (Claude, ChatGPT, Gemini, Copilot, Grok, Manus, Perplexity).
+These briefings are curated through a specific, focused lens: **Agent2Agent2Human Experience Design**. Rather than tracking general AI news or underlying model architectures (like parameter counts or training data), we consistently track the **UX and interaction design** of the leading AI agents (Claude, ChatGPT, Gemini, Copilot, Grok, Perplexity).
 
 Our methodology involves daily monitoring of product updates, interface changes, and industry discourse to identify macro trends in how humans interact with autonomous systems. Key areas of focus include:
 
@@ -108,6 +113,16 @@ To provide a high-level overview of the most significant themes and shifts in th
 *   [**February 2026 Summary**](summary-2026-02.md): Focuses on the operationalization of agentic AI, the shift from chat assistants to active workflow participants, and the emergence of new business models and multi-model orchestration.
 *   [**March 2026 Summary**](summary-2026-03.md): Highlights the migration of AI agents to the local desktop ("The Agent Comes Home"), the rise of generative UI ("Intent is the New Interface"), and the industry's response to user pushback against aggressive AI integration.
 *   [**April 2026 Summary**](summary-2026-04.md): Details the formalization of Agentic UX patterns, the fragmentation of generic chat windows into specialized workspaces, and the expansion of multimodal, multi-agent workflows.
+
+## Automation
+
+These briefings are generated automatically — no manual research required.
+
+*   **`scripts/research_agent.py`** runs every weekday at 07:00 UTC via [GitHub Actions](.github/workflows/daily_research.yml). It uses the Claude API with web search to research the latest agent-UX developments, writes the briefing in the house style, updates this README, and commits the result.
+*   **`scripts/generate_index.py`** rebuilds `docs/briefings.json`, the index powering the [web reader](https://derscharni.github.io/Ai-UX-Experience-News/).
+*   **`scripts/sync_to_obsidian.py`** is an optional local tool that mirrors the briefings into an Obsidian vault with YAML frontmatter (date, products, tags) for Dataview queries. Copy `scripts/obsidian_config.example.json` to `obsidian_config.json` and set your `vault_path`.
+
+**Setup:** add an `ANTHROPIC_API_KEY` repository secret (*Settings → Secrets and variables → Actions*) and enable Pages (*Settings → Pages → Source: `main` / `docs`*).
 
 ## About the Author
 
