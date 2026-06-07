@@ -2,5 +2,6 @@
   "vault_path": "/Users/yourname/Documents/MyObsidianVault",
   "briefings_folder": "AI-UX-News/Daily Briefings",
   "summaries_folder": "AI-UX-News/Monthly Summaries",
+  "research_folder": "AI-UX-News/Research",
   "dry_run": false
 }
