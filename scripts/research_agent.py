@@ -127,37 +127,60 @@ def research_and_write(date: datetime, examples: str) -> tuple[str, str]:
     date_display = date.strftime("%B %d, %Y")
     month_display = date.strftime("%B %Y")
 
-    # Cached block: examples don't change day-to-day → reuse across runs.
+    # Cached block: examples + format rules don't change day-to-day → cache across runs.
     # The date-specific instruction is a separate, non-cached block.
     cached_context = (
         f"Here are 2 recent example briefings showing the EXACT required format and editorial tone:\n\n"
         f"{examples}\n\n"
         f"---\n\n"
-        f"Format rules (follow precisely):\n"
+        f"REQUIRED FORMAT (reproduce exactly, including the --- separators):\n\n"
         f"# UX Briefing: [4–7 word title capturing today's macro UX theme]\n\n"
         f"**DATE**\n\n"
-        f"Good morning. Today's briefing [one sentence on the macro trend].\n\n"
-        f"## At a Glance\n\n"
-        f"| Product | Key Development |\n| --- | --- |\n"
+        f"[One paragraph opening that mentions 3–4 specific products/features covered today. "
+        f"Be concrete, not abstract.]\n\n"
+        f"---\n\n"
+        f"## At a Glance: [Month Day] Highlights\n\n"
+        f"[One sentence framing sentence about today's overall theme.]\n\n"
+        f"| Product | Key UX Developments |\n"
+        f"| :--- | :--- |\n"
         f"| **Claude** | [one sentence + [N]] |\n"
         f"| **ChatGPT** | [one sentence + [N]] |\n"
         f"| **Google Gemini** | [one sentence + [N]] |\n"
         f"| **Microsoft Copilot** | [one sentence + [N]] |\n"
         f"| **Grok (xAI)** | [one sentence + [N]] |\n"
-        f"| **Perplexity** | [one sentence + [N]] |\n\n"
+        f"| **Perplexity** | [one sentence + [N]] |\n"
+        f"[Add extra rows for Samsung, Apple, Meta, or other relevant platforms if they have news.]\n\n"
+        f"---\n\n"
         f"## Product Highlights\n\n"
-        f"### [Title] — 2–3 analysis paragraphs per section (2–3 sections total)\n\n"
+        f"### [Product Name]: [Subtitle — the UX angle]\n\n"
+        f"[2–3 paragraphs. Bold the key feature name. Analyse *why* it matters for UX, "
+        f"not just what it does. Use phrases like 'This shifts the UX from X to Y…', "
+        f"'This establishes a new pattern for…', 'The UX implication is…']\n\n"
+        f"### [Product Name]: [Subtitle]\n\n"
+        f"[2–3 paragraphs]\n\n"
+        f"### [Product Name]: [Subtitle]\n\n"
+        f"[2–3 paragraphs — include a 3rd section if the news warrants it]\n\n"
+        f"---\n\n"
+        f"## The Bigger Picture: [Repeat the briefing title]\n\n"
+        f"[One synthesising paragraph that connects the day's stories into a single macro trend. "
+        f"What does it mean together? What is the industry moving towards?]\n\n"
+        f"---\n\n"
         f"## References\n\n"
-        f"[N] Publisher. (Year, Month Day). *Title*. [url](url)\n\n"
-        f"Rules: only real URLs from web searches · analyse UX implications not just features · "
-        f"output ONLY the markdown, no preamble"
+        f"[N] Publisher Name. (Year). *Article Title*. [url](url)\n\n"
+        f"Rules:\n"
+        f"- Include ALL --- horizontal rules — they are part of the format\n"
+        f"- Use left-aligned table columns :---\n"
+        f"- Only real, working URLs from your web searches\n"
+        f"- Bold the key product feature name in each highlight section\n"
+        f"- The 'Bigger Picture' section must synthesise across products, not repeat individual items\n"
+        f"- Output ONLY the markdown — no preamble, no commentary, no code fences"
     )
 
     daily_instruction = (
         f"Today is {date_display}.\n\n"
         f"Research the last 48 hours for each product and write the briefing.\n\n"
-        f"Products: Claude (Anthropic) · ChatGPT/OpenAI · Google Gemini · "
-        f"Microsoft Copilot · Grok (xAI) · Perplexity\n\n"
+        f"Products to cover: Claude (Anthropic) · ChatGPT/OpenAI · Google Gemini · "
+        f"Microsoft Copilot · Grok (xAI) · Perplexity · plus any other platform with notable UX news\n\n"
         f"Search terms (adapt as needed):\n"
         f'- "Claude Anthropic update {month_display}"\n'
         f'- "ChatGPT OpenAI feature {month_display}"\n'
@@ -167,12 +190,12 @@ def research_and_write(date: datetime, examples: str) -> tuple[str, str]:
         f'- "Perplexity AI {month_display}"\n\n'
         f"Focus: interface changes, interaction patterns, trust/safety UX, agentic workflows, multimodal UX.\n"
         f"Ignore: model benchmarks, pricing, financials unless they directly change UX.\n\n"
-        f"Write the briefing now with **{date_display}** as the date."
+        f"Write the complete briefing now. Use **{date_display}** as the date."
     )
 
     response = client.beta.messages.create(
         model="claude-sonnet-4-6",
-        max_tokens=4000,
+        max_tokens=5000,
         system=[
             {
                 "type": "text",

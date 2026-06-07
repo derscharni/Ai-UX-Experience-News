@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI·UX Experience News</title>
+  <script src="https://cdn.jsdelivr.net/npm/marked@9/marked.min.js"></script>
+  <style>
+    :root {
+      --sidebar-w: 280px;
+      --sidebar-bg: #0f1117;
+      --sidebar-text: #c9d1d9;
+      --sidebar-muted: #484f58;
+      --sidebar-active-bg: rgba(99,102,241,0.15);
+      --sidebar-active-border: #6366f1;
+      --bg: #f6f8fa;
+      --content-bg: #ffffff;
+      --text: #1c1e21;
+      --muted: #6e7681;
+      --accent: #6366f1;
+      --accent-light: #eef2ff;
+      --border: #e1e4e8;
+      --table-head: #0f1117;
+      --radius: 6px;
+      --font-body: Georgia, 'Times New Roman', serif;
+      --font-ui: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      display: flex;
+      height: 100vh;
+      overflow: hidden;
+      background: var(--bg);
+      font-family: var(--font-ui);
+      color: var(--text);
+    }
+
+    /* ── Sidebar ────────────────────────────────────── */
+
+    #sidebar {
+      width: var(--sidebar-w);
+      flex-shrink: 0;
+      background: var(--sidebar-bg);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      border-right: 1px solid #21262d;
+    }
+
+    #sidebar-header {
+      padding: 20px 18px 14px;
+      border-bottom: 1px solid #21262d;
+    }
+
+    #sidebar-logo {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 4px;
+    }
+
+    #sidebar-logo .dot {
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      background: var(--accent);
+      flex-shrink: 0;
+    }
+
+    #sidebar-logo h1 {
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: #f0f6fc;
+    }
+
+    #sidebar-sub {
+      font-size: 10px;
+      color: var(--sidebar-muted);
+      padding-left: 16px;
+      line-height: 1.4;
+    }
+
+    #search-wrap {
+      padding: 10px 12px;
+      border-bottom: 1px solid #21262d;
+    }
+
+    #search {
+      width: 100%;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: var(--radius);
+      color: var(--sidebar-text);
+      font-size: 12px;
+      padding: 6px 10px;
+      outline: none;
+    }
+
+    #search::placeholder { color: var(--sidebar-muted); }
+    #search:focus { border-color: var(--accent); }
+
+    #briefing-list {
+      flex: 1;
+      overflow-y: auto;
+      padding: 6px 0 16px;
+    }
+
+    #briefing-list::-webkit-scrollbar { width: 4px; }
+    #briefing-list::-webkit-scrollbar-thumb { background: #30363d; border-radius: 2px; }
+
+    .month-group { margin-top: 4px; }
+
+    .month-label {
+      font-size: 9.5px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--sidebar-muted);
+      padding: 12px 18px 4px;
+    }
+
+    .briefing-item {
+      display: flex;
+      flex-direction: column;
+      padding: 7px 18px 7px 15px;
+      cursor: pointer;
+      border-left: 2px solid transparent;
+      transition: background 0.1s, border-color 0.1s;
+    }
+
+    .briefing-item:hover { background: rgba(255,255,255,0.04); }
+
+    .briefing-item.active {
+      background: var(--sidebar-active-bg);
+      border-left-color: var(--sidebar-active-border);
+    }
+
+    .briefing-item .bdate {
+      font-size: 10px;
+      color: var(--sidebar-muted);
+      font-variant-numeric: tabular-nums;
+    }
+
+    .briefing-item .btitle {
+      font-size: 12px;
+      color: var(--sidebar-text);
+      line-height: 1.35;
+      margin-top: 2px;
+    }
+
+    .briefing-item.active .btitle { color: #f0f6fc; }
+
+    /* ── Main area ──────────────────────────────────── */
+
+    #main {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      background: var(--bg);
+    }
+
+    #topbar {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 10px 32px;
+      background: var(--content-bg);
+      border-bottom: 1px solid var(--border);
+      min-height: 44px;
+    }
+
+    #topbar-date {
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--accent);
+      background: var(--accent-light);
+      padding: 3px 10px;
+      border-radius: 100px;
+      white-space: nowrap;
+    }
+
+    #topbar-title {
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--muted);
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    #content-scroll {
+      flex: 1;
+      overflow-y: auto;
+      padding: 40px 0 80px;
+    }
+
+    #content-scroll::-webkit-scrollbar { width: 5px; }
+    #content-scroll::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+
+    #content {
+      max-width: 740px;
+      margin: 0 auto;
+      padding: 0 32px;
+      background: var(--content-bg);
+      border-radius: var(--radius);
+      box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+      padding: 40px 48px 60px;
+    }
+
+    /* ── Markdown styles ────────────────────────────── */
+
+    #content h1 {
+      font-family: var(--font-body);
+      font-size: 1.9rem;
+      font-weight: 700;
+      line-height: 1.2;
+      color: #0d1117;
+      margin-bottom: 6px;
+    }
+
+    #content > p:first-of-type strong,
+    #content p strong { color: #0d1117; }
+
+    #content h2 {
+      font-family: var(--font-body);
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: #0d1117;
+      margin-top: 36px;
+      margin-bottom: 14px;
+      padding-bottom: 8px;
+      border-bottom: 2px solid var(--border);
+    }
+
+    #content h3 {
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--accent);
+      margin-top: 28px;
+      margin-bottom: 10px;
+    }
+
+    #content p {
+      font-family: var(--font-body);
+      font-size: 1.0rem;
+      line-height: 1.85;
+      color: #333;
+      margin-bottom: 14px;
+    }
+
+    #content hr {
+      border: none;
+      border-top: 1px solid var(--border);
+      margin: 28px 0;
+    }
+
+    #content table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.88rem;
+      margin: 20px 0 28px;
+      font-family: var(--font-ui);
+    }
+
+    #content thead th {
+      background: var(--table-head);
+      color: #f0f6fc;
+      padding: 9px 14px;
+      text-align: left;
+      font-size: 0.78rem;
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+      font-weight: 600;
+    }
+
+    #content tbody td {
+      padding: 9px 14px;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+      line-height: 1.5;
+      color: #333;
+    }
+
+    #content tbody tr:last-child td { border-bottom: none; }
+    #content tbody tr:hover td { background: #f9fafb; }
+
+    #content a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    #content a:hover { text-decoration: underline; }
+
+    /* Strip HTML comments (source verification tags) */
+    .ref-note { display: none; }
+
+    #loading-msg {
+      text-align: center;
+      padding: 80px 20px;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    /* ── Responsive ─────────────────────────────────── */
+
+    @media (max-width: 680px) {
+      #sidebar { display: none; }
+      #content { padding: 24px 20px 48px; }
+    }
+  </style>
+</head>
+<body>
+
+<nav id="sidebar">
+  <div id="sidebar-header">
+    <div id="sidebar-logo">
+      <span class="dot"></span>
+      <h1>AI·UX Experience News</h1>
+    </div>
+    <div id="sidebar-sub">Agent2Agent2Human Experience Design</div>
+  </div>
+  <div id="search-wrap">
+    <input id="search" type="search" placeholder="Search briefings…" autocomplete="off">
+  </div>
+  <div id="briefing-list"></div>
+</nav>
+
+<main id="main">
+  <div id="topbar">
+    <span id="topbar-date"></span>
+    <span id="topbar-title"></span>
+  </div>
+  <div id="content-scroll">
+    <div id="content">
+      <div id="loading-msg">Loading briefings…</div>
+    </div>
+  </div>
+</main>
+
+<script>
+  const REPO   = 'derscharni/Ai-UX-Experience-News';
+  const BRANCH = 'main';
+  const RAW    = `https://raw.githubusercontent.com/${REPO}/${BRANCH}`;
+
+  let allBriefings = [];
+  let activePath   = null;
+
+  // ── Fetch helpers ─────────────────────────────────────────────────────────
+
+  async function getText(url) {
+    const r = await fetch(url);
+    if (!r.ok) throw new Error(`HTTP ${r.status} — ${url}`);
+    return r.text();
+  }
+
+  async function getJSON(url) {
+    const r = await fetch(url);
+    if (!r.ok) throw new Error(`HTTP ${r.status} — ${url}`);
+    return r.json();
+  }
+
+  // ── Markdown cleanup ──────────────────────────────────────────────────────
+
+  function cleanMd(md) {
+    // Remove HTML comments (source verification tags from Manus era)
+    return md.replace(/<!--[\s\S]*?-->/g, '');
+  }
+
+  // ── Sidebar rendering ─────────────────────────────────────────────────────
+
+  function formatMonth(key) {
+    const [y, m] = key.split('-');
+    return new Date(+y, +m - 1, 1)
+      .toLocaleDateString('en-US', { month: 'long', year: 'numeric' });
+  }
+
+  function renderList(briefings) {
+    const list = document.getElementById('briefing-list');
+    const groups = {};
+    for (const b of briefings) {
+      (groups[b.month_key] = groups[b.month_key] || []).push(b);
+    }
+
+    list.innerHTML = Object.entries(groups)
+      .sort(([a], [b]) => b.localeCompare(a))
+      .map(([month, items]) => `
+        <div class="month-group">
+          <div class="month-label">${formatMonth(month)}</div>
+          ${items.map(b => `
+            <div class="briefing-item" data-path="${b.path}" data-date="${b.date}" data-title="${b.title.replace(/"/g,'&quot;')}">
+              <span class="bdate">${b.date}</span>
+              <span class="btitle">${b.title}</span>
+            </div>
+          `).join('')}
+        </div>`)
+      .join('');
+
+    list.querySelectorAll('.briefing-item').forEach(el => {
+      el.addEventListener('click', () => openBriefing(el.dataset.path, el));
+    });
+  }
+
+  // ── Load briefing ─────────────────────────────────────────────────────────
+
+  async function openBriefing(path, el) {
+    if (activePath === path) return;
+    activePath = path;
+
+    document.querySelectorAll('.briefing-item').forEach(i => i.classList.remove('active'));
+    if (el) el.classList.add('active');
+
+    const dateVal  = el?.dataset.date  || '';
+    const titleVal = el?.dataset.title || '';
+    document.getElementById('topbar-date').textContent  = dateVal;
+    document.getElementById('topbar-title').textContent = titleVal;
+
+    const content = document.getElementById('content');
+    content.innerHTML = '<div id="loading-msg">Loading…</div>';
+
+    try {
+      const md   = await getText(`${RAW}/${path}`);
+      const html = marked.parse(cleanMd(md));
+      content.innerHTML = html;
+    } catch (e) {
+      content.innerHTML = `<p style="color:red">Error: ${e.message}</p>`;
+    }
+
+    document.getElementById('content-scroll').scrollTop = 0;
+    history.replaceState(null, '', '#' + encodeURIComponent(path));
+  }
+
+  // ── Search ────────────────────────────────────────────────────────────────
+
+  document.getElementById('search').addEventListener('input', function () {
+    const q = this.value.trim().toLowerCase();
+    const filtered = q
+      ? allBriefings.filter(b => b.title.toLowerCase().includes(q) || b.date.includes(q))
+      : allBriefings;
+    renderList(filtered);
+    // Re-mark active
+    const active = document.querySelector(`[data-path="${activePath}"]`);
+    if (active) active.classList.add('active');
+  });
+
+  // ── Init ──────────────────────────────────────────────────────────────────
+
+  async function init() {
+    try {
+      const index  = await getJSON(`${RAW}/docs/briefings.json`);
+      allBriefings = index.briefings;
+      renderList(allBriefings);
+
+      // Load from URL hash or latest briefing
+      const hash   = window.location.hash.slice(1);
+      const target = hash ? decodeURIComponent(hash) : allBriefings[0]?.path;
+
+      if (target) {
+        const el = document.querySelector(`[data-path="${target}"]`);
+        await openBriefing(target, el);
+      } else {
+        document.getElementById('content').innerHTML =
+          '<div id="loading-msg">No briefings found.</div>';
+      }
+    } catch (e) {
+      document.getElementById('content').innerHTML =
+        `<div id="loading-msg">Could not load index: ${e.message}<br>
+         <small>Make sure the repo is public and docs/briefings.json exists.</small></div>`;
+    }
+  }
+
+  init();
+</script>
+</body>
+</html>

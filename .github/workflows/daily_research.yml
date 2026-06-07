@@ -52,3 +52,16 @@ jobs:
             python scripts/research_agent.py
           fi
 
+      - name: Update HTML reader index
+        run: python scripts/generate_index.py
+
+      - name: Commit index update (if changed)
+        run: |
+          git add docs/briefings.json
+          if git diff --cached --quiet; then
+            echo "Index unchanged."
+          else
+            git commit -m "Update briefings index for HTML reader"
+            git push origin main
+          fi
+
