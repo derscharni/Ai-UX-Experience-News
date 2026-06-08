@@ -1,6 +1,22 @@
 {
-  "updated": "2026-06-07T14:57:11Z",
+  "updated": "2026-06-08T12:06:22Z",
   "briefings": [
+    {
+      "date": "2026-06-08",
+      "title": "Trust Surfaces, Session Security, and the Agentic Memory Layer",
+      "path": "briefings/2026-06-the-art-of-the-interrupt/2026-06-08-trust-surfaces-session-security-and-the-agentic-memory-layer.md",
+      "month_theme": "The Art Of The Interrupt",
+      "month_key": "2026-06",
+      "excerpt": "Today's briefing is defined by a quiet but consequential theme: as agents become the persistent operating layer of daily work, the UX problem shifts from getting agents to act to trusting that they acted safely, remembered correctly, and st",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
+    },
     {
       "date": "2026-06-07",
       "title": "Agents Go Deeper Into Your Stack",
