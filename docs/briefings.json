@@ -1,6 +1,22 @@
 {
-  "updated": "2026-06-08T12:06:22Z",
+  "updated": "2026-06-09T10:39:22Z",
   "briefings": [
+    {
+      "date": "2026-06-09",
+      "title": "The Agent-Native Workspace Takes Shape",
+      "path": "briefings/2026-06-the-art-of-the-interrupt/2026-06-09-the-agent-native-workspace-takes-shape.md",
+      "month_theme": "The Art Of The Interrupt",
+      "month_key": "2026-06",
+      "excerpt": "Today's briefing is defined by a single structural shift: AI products are stop being add-ons and starting to become the primary workspace. Claude Code ships Dynamic Workflows — a research preview that lets a single session orchestrate hundr",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
+    },
     {
       "date": "2026-06-08",
       "title": "Trust Surfaces, Session Security, and the Agentic Memory Layer",
