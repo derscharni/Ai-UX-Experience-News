@@ -102,6 +102,7 @@ _Briefings are added automatically as they are generated._
 *   [2026-06-07 - Agents Go Deeper Into Your Stack](briefings/2026-06-the-art-of-the-interrupt/2026-06-07-agents-go-deeper-into-your-stack.md)
 *   [2026-06-08 - Trust Surfaces, Session Security, and the Agentic Memory Layer](briefings/2026-06-the-art-of-the-interrupt/2026-06-08-trust-surfaces-session-security-and-the-agentic-memory-layer.md)
 *   [2026-06-09 - The Agent-Native Workspace Takes Shape](briefings/2026-06-the-art-of-the-interrupt/2026-06-09-the-agent-native-workspace-takes-shape.md)
+*   [2026-06-10 - Guardrails Go Public, Assistants Go Native](briefings/2026-06-the-art-of-the-interrupt/2026-06-10-guardrails-go-public-assistants-go-native.md)
 — *The Art of the Interrupt* (`briefings/2026-06-the-art-of-the-interrupt/`)
 _Briefings are added automatically as they are generated._
 
