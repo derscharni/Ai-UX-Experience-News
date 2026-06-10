@@ -1,6 +1,22 @@
 {
-  "updated": "2026-06-09T10:39:22Z",
+  "updated": "2026-06-10T11:02:46Z",
   "briefings": [
+    {
+      "date": "2026-06-10",
+      "title": "Guardrails Go Public, Assistants Go Native",
+      "path": "briefings/2026-06-the-art-of-the-interrupt/2026-06-10-guardrails-go-public-assistants-go-native.md",
+      "month_theme": "The Art Of The Interrupt",
+      "month_key": "2026-06",
+      "excerpt": "Today's briefing is defined by a single, clarifying moment: the safety boundary is now a product feature, not a footnote.",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
+    },
     {
       "date": "2026-06-09",
       "title": "The Agent-Native Workspace Takes Shape",
