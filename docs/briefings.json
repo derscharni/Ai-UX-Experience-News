@@ -1,6 +1,22 @@
 {
-  "updated": "2026-06-10T11:02:46Z",
+  "updated": "2026-06-11T11:28:48Z",
   "briefings": [
+    {
+      "date": "2026-06-11",
+      "title": "Memory, Oversight, and the Agent Safety Layer",
+      "path": "briefings/2026-06-the-art-of-the-interrupt/2026-06-11-memory-oversight-and-the-agent-safety-layer.md",
+      "month_theme": "The Art Of The Interrupt",
+      "month_key": "2026-06",
+      "excerpt": "Today's briefing is defined by a quiet but consequential pivot: every major platform shipped at least one feature in the last 48 hours that is explicitly designed to tell users more about what their AI knows, what it has done, and what it i",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
+    },
     {
       "date": "2026-06-10",
       "title": "Guardrails Go Public, Assistants Go Native",
