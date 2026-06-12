@@ -1,6 +1,22 @@
 {
-  "updated": "2026-06-11T11:28:48Z",
+  "updated": "2026-06-12T11:08:05Z",
   "briefings": [
+    {
+      "date": "2026-06-12",
+      "title": "Agents Go Deeper, Orchestration Gets Observable",
+      "path": "briefings/2026-06-the-art-of-the-interrupt/2026-06-12-agents-go-deeper-orchestration-gets-observable.md",
+      "month_theme": "The Art Of The Interrupt",
+      "month_key": "2026-06",
+      "excerpt": "Today's briefing is defined by a single architectural shift arriving simultaneously on every platform: the agent is no longer a single thread. Claude Code's newly shipped ultracode mode and recursive nested sub-agents let one prompt fan out",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
+    },
     {
       "date": "2026-06-11",
       "title": "Memory, Oversight, and the Agent Safety Layer",
