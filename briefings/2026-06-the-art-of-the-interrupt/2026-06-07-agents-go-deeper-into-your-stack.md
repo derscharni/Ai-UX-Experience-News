@@ -121,26 +121,26 @@ This week's releases collectively describe the same architectural shift: AI agen
 
 ## References
 
-[1] Releasebot. (2026). *Claude Code Updates by Anthropic — June 2026*. [https://releasebot.io/updates/anthropic/claude-code](https://releasebot.io/updates/anthropic/claude-code)
+[1] Releasebot. (2026). *Claude Code Updates by Anthropic — June 2026*. [https://releasebot.io/updates/anthropic/claude-code](https://releasebot.io/updates/anthropic/claude-code) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[2] Anthropic Claude Platform Docs. (2026). *Claude Platform Release Notes*. [https://platform.claude.com/docs/en/release-notes/overview](https://platform.claude.com/docs/en/release-notes/overview)
+[2] Anthropic Claude Platform Docs. (2026). *Claude Platform Release Notes*. [https://platform.claude.com/docs/en/release-notes/overview](https://platform.claude.com/docs/en/release-notes/overview) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[3] OpenAI Research. (2026, June 4). *Dreaming: Better memory for a more helpful ChatGPT*. [https://openai.com/research/index/release/](https://openai.com/research/index/release/)
+[3] OpenAI Research. (2026, June 4). *Dreaming: Better memory for a more helpful ChatGPT*. [https://openai.com/research/index/release/](https://openai.com/research/index/release/) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[4] Releasebot. (2026). *ChatGPT Updates by OpenAI — June 2026*. [https://releasebot.io/updates/openai/chatgpt](https://releasebot.io/updates/openai/chatgpt)
+[4] Releasebot. (2026). *ChatGPT Updates by OpenAI — June 2026*. [https://releasebot.io/updates/openai/chatgpt](https://releasebot.io/updates/openai/chatgpt) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[5] Gemini Apps Release Notes. (2026). *Visual Layout and Dynamic View*. [https://gemini.google/release-notes/](https://gemini.google/release-notes/)
+[5] Gemini Apps Release Notes. (2026). *Visual Layout and Dynamic View*. [https://gemini.google/release-notes/](https://gemini.google/release-notes/) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[6] TechCrunch. (2026, May 19). *Google updates its Gemini app to take on ChatGPT and Claude at IO 2026*. [https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/](https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/)
+[6] TechCrunch. (2026, May 19). *Google updates its Gemini app to take on ChatGPT and Claude at IO 2026*. [https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/](https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[7] Microsoft 365 Blog. (2026, May 28). *Introducing a new design for Microsoft 365 Copilot*. [https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-a-new-design-for-microsoft-365-copilot/](https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-a-new-design-for-microsoft-365-copilot/)
+[7] Microsoft 365 Blog. (2026, May 28). *Introducing a new design for Microsoft 365 Copilot*. [https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-a-new-design-for-microsoft-365-copilot/](https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-a-new-design-for-microsoft-365-copilot/) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[8] GitHub Changelog. (2026, June 2). *Copilot CLI: Improved UI, rubber duck, prompt scheduling, and voice input*. [https://github.blog/changelog/2026-06-02-copilot-cli-improved-ui-rubber-duck-prompt-scheduling-and-voice-input/](https://github.blog/changelog/2026-06-02-copilot-cli-improved-ui-rubber-duck-prompt-scheduling-and-voice-input/)
+[8] GitHub Changelog. (2026, June 2). *Copilot CLI: Improved UI, rubber duck, prompt scheduling, and voice input*. [https://github.blog/changelog/2026-06-02-copilot-cli-improved-ui-rubber-duck-prompt-scheduling-and-voice-input/](https://github.blog/changelog/2026-06-02-copilot-cli-improved-ui-rubber-duck-prompt-scheduling-and-voice-input/) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[9] xAI Release Notes. (2026). *xAI Latest Updates — June 2026*. [https://releasebot.io/updates/xai](https://releasebot.io/updates/xai)
+[9] xAI Release Notes. (2026). *xAI Latest Updates — June 2026*. [https://releasebot.io/updates/xai](https://releasebot.io/updates/xai) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[10] xAI Grok Build Changelog. (2026). *Grok Build Changelog*. [https://x.ai/build/changelog](https://x.ai/build/changelog)
+[10] xAI Grok Build Changelog. (2026). *Grok Build Changelog*. [https://x.ai/build/changelog](https://x.ai/build/changelog) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[11] BigGo Finance. (2026, June 2). *Perplexity Unveils Feature That Automatically Distributes AI Processing Between Devices and Cloud*. [https://finance.biggo.com/news/N7OWjJ4B-PfaobXfmrrz](https://finance.biggo.com/news/N7OWjJ4B-PfaobXfmrrz)
+[11] BigGo Finance. (2026, June 2). *Perplexity Unveils Feature That Automatically Distributes AI Processing Between Devices and Cloud*. [https://finance.biggo.com/news/N7OWjJ4B-PfaobXfmrrz](https://finance.biggo.com/news/N7OWjJ4B-PfaobXfmrrz) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[12] VentureBeat. (2026). *Perplexity AI unveils hybrid local-cloud inference system at Computex 2026*. [https://venturebeat.com/technology/perplexity-ai-unveils-hybrid-local-cloud-inference-system-at-computex-2026](https://venturebeat.com/technology/perplexity-ai-unveils-hybrid-local-cloud-inference-system-at-computex-2026)
+[12] VentureBeat. (2026). *Perplexity AI unveils hybrid local-cloud inference system at Computex 2026*. [https://venturebeat.com/technology/perplexity-ai-unveils-hybrid-local-cloud-inference-system-at-computex-2026](https://venturebeat.com/technology/perplexity-ai-unveils-hybrid-local-cloud-inference-system-at-computex-2026) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->

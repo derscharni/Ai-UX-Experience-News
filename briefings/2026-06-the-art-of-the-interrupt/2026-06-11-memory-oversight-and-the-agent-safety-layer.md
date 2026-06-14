@@ -161,16 +161,16 @@ This week's releases, read together, describe the same underlying design challen
 
 ## References
 
-[1] Releasebot. (2026). *Claude Updates by Anthropic — June 2026*. [https://releasebot.io/updates/anthropic/claude](https://releasebot.io/updates/anthropic/claude)
+[1] Releasebot. (2026). *Claude Updates by Anthropic — June 2026*. [https://releasebot.io/updates/anthropic/claude](https://releasebot.io/updates/anthropic/claude) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[2] Claude.com Blog. (2026). *Claude for the legal industry*. [https://claude.com/blog/claude-for-the-legal-industry](https://claude.com/blog/claude-for-the-legal-industry)
+[2] Claude.com Blog. (2026). *Claude for the legal industry*. [https://claude.com/blog/claude-for-the-legal-industry](https://claude.com/blog/claude-for-the-legal-industry) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[3] OpenAI Help Center. (2026). *ChatGPT — Release Notes*. [https://help.openai.com/en/articles/6825453-chatgpt-release-notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+[3] OpenAI Help Center. (2026). *ChatGPT — Release Notes*. [https://help.openai.com/en/articles/6825453-chatgpt-release-notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[4] OpenAI. (2026). *Introducing Trusted Contact in ChatGPT*. [https://openai.com/index/introducing-trusted-contact-in-chatgpt/](https://openai.com/index/introducing-trusted-contact-in-chatgpt/)
+[4] OpenAI. (2026). *Introducing Trusted Contact in ChatGPT*. [https://openai.com/index/introducing-trusted-contact-in-chatgpt/](https://openai.com/index/introducing-trusted-contact-in-chatgpt/) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[5] Google Developers Blog. (2026). *An important update: Transitioning Gemini CLI to Antigravity CLI*. [https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/](https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/)
+[5] Google Developers Blog. (2026). *An important update: Transitioning Gemini CLI to Antigravity CLI*. [https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/](https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[6] Chrome for Developers Blog. (2026). *15 updates from Google I/O 2026: Powering the agentic web*. [https://developer.chrome.com/blog/chrome-at-io26](https://developer.chrome.com/blog/chrome-at-io26)
+[6] Chrome for Developers Blog. (2026). *15 updates from Google I/O 2026: Powering the agentic web*. [https://developer.chrome.com/blog/chrome-at-io26](https://developer.chrome.com/blog/chrome-at-io26) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
 [7] Microsoft 365 Blog. (2026, May 28). *Introducing a new design for Microsoft

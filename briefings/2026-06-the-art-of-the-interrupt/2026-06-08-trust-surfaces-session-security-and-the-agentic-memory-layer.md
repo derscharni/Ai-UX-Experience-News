@@ -135,24 +135,24 @@ This week's releases, taken together, tell a single story: the agentic era's cen
 
 ## References
 
-[1] Releasebot. (2026). *Claude Updates by Anthropic — June 2026*. [https://releasebot.io/updates/anthropic/claude](https://releasebot.io/updates/anthropic/claude)
+[1] Releasebot. (2026). *Claude Updates by Anthropic — June 2026*. [https://releasebot.io/updates/anthropic/claude](https://releasebot.io/updates/anthropic/claude) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[2] Anthropic Claude Platform Docs. (2026). *Claude Platform Release Notes*. [https://platform.claude.com/docs/en/release-notes/overview](https://platform.claude.com/docs/en/release-notes/overview)
+[2] Anthropic Claude Platform Docs. (2026). *Claude Platform Release Notes*. [https://platform.claude.com/docs/en/release-notes/overview](https://platform.claude.com/docs/en/release-notes/overview) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[3] OpenAI Research. (2026, June 4). *Dreaming: Better memory for a more helpful ChatGPT*. [https://openai.com/research/index/release/](https://openai.com/research/index/release/)
+[3] OpenAI Research. (2026, June 4). *Dreaming: Better memory for a more helpful ChatGPT*. [https://openai.com/research/index/release/](https://openai.com/research/index/release/) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[4] Releasebot. (2026). *ChatGPT Updates by OpenAI — June 2026*. [https://releasebot.io/updates/openai/chatgpt](https://releasebot.io/updates/openai/chatgpt)
+[4] Releasebot. (2026). *ChatGPT Updates by OpenAI — June 2026*. [https://releasebot.io/updates/openai/chatgpt](https://releasebot.io/updates/openai/chatgpt) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[5] Google Cloud Documentation. (2026). *Gemini Enterprise Release Notes*. [https://docs.cloud.google.com/gemini/enterprise/docs/release-notes](https://docs.cloud.google.com/gemini/enterprise/docs/release-notes)
+[5] Google Cloud Documentation. (2026). *Gemini Enterprise Release Notes*. [https://docs.cloud.google.com/gemini/enterprise/docs/release-notes](https://docs.cloud.google.com/gemini/enterprise/docs/release-notes) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[6] Chrome for Developers Blog. (2026). *15 updates from Google I/O 2026: Powering the agentic web*. [https://developer.chrome.com/blog/chrome-at-io26](https://developer.chrome.com/blog/chrome-at-io26)
+[6] Chrome for Developers Blog. (2026). *15 updates from Google I/O 2026: Powering the agentic web*. [https://developer.chrome.com/blog/chrome-at-io26](https://developer.chrome.com/blog/chrome-at-io26) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[7] Microsoft Copilot Blog. (2026, May). *What's new in Copilot Studio: May 2026 updates and features*. [https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-computer-using-agents-a-new-workflows-experience-and-real-time-voice-experiences/](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-computer-using-agents-a-new-workflows-experience-and-real-time-voice-experiences/)
+[7] Microsoft Copilot Blog. (2026, May). *What's new in Copilot Studio: May 2026 updates and features*. [https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-computer-using-agents-a-new-workflows-experience-and-real-time-voice-experiences/](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-computer-using-agents-a-new-workflows-experience-and-real-time-voice-experiences/) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[8] Releasebot. (2026). *Microsoft Copilot Updates — June 2026*. [https://releasebot.io/updates/microsoft/microsoft-copilot](https://releasebot.io/updates/microsoft/microsoft-copilot)
+[8] Releasebot. (2026). *Microsoft Copilot Updates — June 2026*. [https://releasebot.io/updates/microsoft/microsoft-copilot](https://releasebot.io/updates/microsoft/microsoft-copilot) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[9] xAI Grok Build Changelog. (2026). *Grok Build Changelog — v0.2.20*. [https://x.ai/build/changelog](https://x.ai/build/changelog)
+[9] xAI Grok Build Changelog. (2026). *Grok Build Changelog — v0.2.20*. [https://x.ai/build/changelog](https://x.ai/build/changelog) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[10] BigGo Finance. (2026, June 2). *Perplexity Unveils Feature That Automatically Distributes AI Processing Between Devices and Cloud*. [https://finance.biggo.com/news/N7OWjJ4B-PfaobXfmrrz](https://finance.biggo.com/news/N7OWjJ4B-PfaobXfmrrz)
+[10] BigGo Finance. (2026, June 2). *Perplexity Unveils Feature That Automatically Distributes AI Processing Between Devices and Cloud*. [https://finance.biggo.com/news/N7OWjJ4B-PfaobXfmrrz](https://finance.biggo.com/news/N7OWjJ4B-PfaobXfmrrz) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[11] VentureBeat. (2026). *Perplexity AI unveils hybrid local-cloud inference system at Computex 2026*. [https://venturebeat.com/technology/perplexity-ai-unveils-hybrid-local-cloud-inference-system-at-computex-2026](https://venturebeat.com/technology/perplexity-ai-unveils-hybrid-local-cloud-inference-system-at-computex-2026)
+[11] VentureBeat. (2026). *Perplexity AI unveils hybrid local-cloud inference system at Computex 2026*. [https://venturebeat.com/technology/perplexity-ai-unveils-hybrid-local-cloud-inference-system-at-computex-2026](https://venturebeat.com/technology/perplexity-ai-unveils-hybrid-local-cloud-inference-system-at-computex-2026) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->

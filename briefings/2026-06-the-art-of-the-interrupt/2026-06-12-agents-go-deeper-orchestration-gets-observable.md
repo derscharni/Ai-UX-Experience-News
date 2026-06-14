@@ -179,10 +179,10 @@ This week's releases, read together, describe a single architectural inflection 
 
 ## References
 
-[1] Releasebot. (2026). *Claude Code Updates by Anthropic — June 2026*. [https://releasebot.io/updates/anthropic/claude-code](https://releasebot.io/updates/anthropic/claude-code)
+[1] Releasebot. (2026). *Claude Code Updates by Anthropic — June 2026*. [https://releasebot.io/updates/anthropic/claude-code](https://releasebot.io/updates/anthropic/claude-code) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[2] Claude Code Docs. (2026). *Orchestrate subagents at scale with dynamic workflows*. [https://code.claude.com/docs/en/workflows](https://code.claude.com/docs/en/workflows)
+[2] Claude Code Docs. (2026). *Orchestrate subagents at scale with dynamic workflows*. [https://code.claude.com/docs/en/workflows](https://code.claude.com/docs/en/workflows) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
-[3] Releasebot. (2026). *Claude Updates by Anthropic — June 2026*. [https://releasebot.io/updates/anthropic/claude](https://releasebot.io/updates/anthropic/claude)
+[3] Releasebot. (2026). *Claude Updates by Anthropic — June 2026*. [https://releasebot.io/updates/anthropic/claude](https://releasebot.io/updates/anthropic/claude) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
 
 [4] Neowin. (2026). *OpenAI is making Codex more useful in Chrome and the cloud*. [https
