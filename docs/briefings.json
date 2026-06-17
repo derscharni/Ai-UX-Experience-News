@@ -1,6 +1,22 @@
 {
-  "updated": "2026-06-12T11:08:05Z",
+  "updated": "2026-06-17T11:57:56Z",
   "briefings": [
+    {
+      "date": "2026-06-17",
+      "title": "Permission, Delegation, and the Governance of Ambient Agents",
+      "path": "briefings/2026-06-the-art-of-the-interrupt/2026-06-17-permission-delegation-and-the-governance-of-ambient-agents.md",
+      "month_theme": "The Art Of The Interrupt",
+      "month_key": "2026-06",
+      "excerpt": "Today's briefing is dominated by four simultaneous moves on the governance frontier: Copilot Cowork reached worldwide general availability yesterday — June 16 — bringing a fully agentic, task-executing workspace to every Microsoft 365 Copil",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
+    },
     {
       "date": "2026-06-12",
       "title": "Agents Go Deeper, Orchestration Gets Observable",
