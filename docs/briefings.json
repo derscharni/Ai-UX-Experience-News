@@ -1,6 +1,22 @@
 {
-  "updated": "2026-06-17T11:57:56Z",
+  "updated": "2026-06-23T10:41:27Z",
   "briefings": [
+    {
+      "date": "2026-06-23",
+      "title": "Demonstration Teaches, Identity Governs, Research Forks",
+      "path": "briefings/2026-06-the-art-of-the-interrupt/2026-06-23-demonstration-teaches-identity-governs-research-forks.md",
+      "month_theme": "The Art Of The Interrupt",
+      "month_key": "2026-06",
+      "excerpt": "The last 48 hours are defined by four interlocking stories that each advance the same underlying shift: agents are no longer configured by writing instructions — they are taught, identified, governed, and forked in real time. OpenAI Codex s",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
+    },
     {
       "date": "2026-06-17",
       "title": "Permission, Delegation, and the Governance of Ambient Agents",
