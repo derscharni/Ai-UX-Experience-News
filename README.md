@@ -106,6 +106,7 @@ _Briefings are added automatically as they are generated._
 *   [2026-06-11 - Memory, Oversight, and the Agent Safety Layer](briefings/2026-06-the-art-of-the-interrupt/2026-06-11-memory-oversight-and-the-agent-safety-layer.md)
 *   [2026-06-12 - Agents Go Deeper, Orchestration Gets Observable](briefings/2026-06-the-art-of-the-interrupt/2026-06-12-agents-go-deeper-orchestration-gets-observable.md)
 *   [2026-06-17 - Permission, Delegation, and the Governance of Ambient Agents](briefings/2026-06-the-art-of-the-interrupt/2026-06-17-permission-delegation-and-the-governance-of-ambient-agents.md)
+*   [2026-06-23 - Demonstration Teaches, Identity Governs, Research Forks](briefings/2026-06-the-art-of-the-interrupt/2026-06-23-demonstration-teaches-identity-governs-research-forks.md)
 — *The Art of the Interrupt* (`briefings/2026-06-the-art-of-the-interrupt/`)
 _Briefings are added automatically as they are generated._
 
