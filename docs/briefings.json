@@ -1,6 +1,22 @@
 {
-  "updated": "2026-06-23T10:41:27Z",
+  "updated": "2026-06-24T10:28:30Z",
   "briefings": [
+    {
+      "date": "2026-06-24",
+      "title": "Design Canvases, Identity Layers, and the Browser as Agent Surface",
+      "path": "briefings/2026-06-the-art-of-the-interrupt/2026-06-24-design-canvases-identity-layers-and-the-browser-as-agent-sur.md",
+      "month_theme": "The Art Of The Interrupt",
+      "month_key": "2026-06",
+      "excerpt": "The last 48 hours resolve into four interlocking design fronts. Claude Design shipped a major June 17 overhaul that turns the conversational canvas into a brand-governed, two-way workspace: imported design systems, direct WYSIWYG canvas edi",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ]
+    },
     {
       "date": "2026-06-23",
       "title": "Demonstration Teaches, Identity Governs, Research Forks",
