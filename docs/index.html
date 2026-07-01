@@ -290,7 +290,7 @@
     .article h1 { font-family: var(--font-serif); font-size: 2.2rem; line-height: 1.18; font-weight: 700; letter-spacing: -.6px; margin-bottom: 10px; }
     .article > p:first-of-type, .article p strong { color: var(--text); }
     .article h2 { font-family: var(--font-serif); font-size: 1.4rem; font-weight: 700; margin: 40px 0 16px; padding-bottom: 10px; border-bottom: 2px solid var(--divider); }
-    .article h3 { font-size: 1.12rem; font-weight: 700; color: var(--primary); margin: 30px 0 12px; }
+    .article h3 { font-size: 1.12rem; font-weight: 700; color: var(--text); margin: 30px 0 12px; padding-left: 12px; border-left: 3px solid var(--primary); }
     .article p { font-family: var(--font-serif); font-size: 1.06rem; line-height: 1.8; color: #3c4043; margin-bottom: 16px; }
     .article hr { border: none; border-top: 1px solid var(--divider); margin: 30px 0; }
     .article table { width: 100%; border-collapse: collapse; font-family: var(--font-ui); font-size: .9rem; margin: 22px 0 30px; border-radius: var(--radius-sm); overflow: hidden; box-shadow: var(--elev-1); }
@@ -300,6 +300,8 @@
     .article tbody tr:nth-child(even) td { background: #f8f9fa; }
     .article a { color: var(--primary); }
     .article a:hover { text-decoration: underline; }
+    .article a.cite { font-size: .78em; font-weight: 700; text-decoration: none; padding: 0 1px; }
+    .article a.cite:hover { text-decoration: underline; }
     .article ul, .article ol { margin: 0 0 16px 22px; }
     .article li { font-family: var(--font-serif); line-height: 1.7; margin-bottom: 6px; color: #3c4043; }
 
@@ -405,6 +407,52 @@
   async function getText(url) { const r = await fetch(url); if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.text(); }
   async function getJSON(url) { const r = await fetch(url); if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }
   function cleanMd(md) { return md.replace(/<!--[\s\S]*?-->/g, ''); }
+
+  // Every link in a briefing points off-site (sources) — open in a new tab
+  // so the reader doesn't lose their place in the SPA. Numeric [N] citation
+  // links get a distinct "cite" class for compact styling.
+  (function initRenderer() {
+    const renderer = new marked.Renderer();
+    renderer.link = (href, title, text) => {
+      const isCite = /^\[\d+\]$/.test(text);
+      const cls = isCite ? ' class="cite"' : '';
+      const t = title ? ` title="${title}"` : '';
+      return `<a href="${href}"${t}${cls} target="_blank" rel="noopener noreferrer">${text}</a>`;
+    };
+    marked.use({ renderer });
+  })();
+
+  // Turns "## References" into cleanly separated entries (source briefings
+  // sometimes pack them onto consecutive lines with no blank line, which
+  // makes marked collapse them into one run-on paragraph) and turns every
+  // inline [N] citation marker in the body into a clickable link straight
+  // to that reference's source URL — falls back to plain text if a marker
+  // has no resolvable reference (e.g. an older briefing with a truncated
+  // reference list).
+  function linkifyBriefing(md) {
+    md = cleanMd(md);
+    const m = md.match(/^##\s*References\s*$/m);
+    if (!m) return md;
+
+    const headEnd = m.index + m[0].length;
+    const body = md.slice(0, m.index);
+    const refsBlock = md.slice(headEnd);
+
+    const entries = refsBlock.split(/\n(?=\[\d+\])/).map(e => e.trim()).filter(Boolean);
+    const urlByNum = {};
+    entries.forEach(entry => {
+      const num = entry.match(/^\[(\d+)\]/);
+      const url = entry.match(/\((https?:\/\/[^)\s]+)\)/);
+      if (num && url) urlByNum[num[1]] = url[1];
+    });
+
+    const linkedBody = body.replace(/\[(\d+)\](?!\()/g, (full, n) =>
+      urlByNum[n] ? `[${full}](${urlByNum[n]})` : full);
+
+    const refsMd = entries.map(e => e.replace(/^\[(\d+)\]/, '**[$1]**')).join('\n\n');
+
+    return `${linkedBody}## References\n\n${refsMd}\n`;
+  }
 
   function fmtDate(d) {
     const [y,m,day] = d.split('-');
@@ -532,7 +580,7 @@
     history.replaceState(null,'','#'+encodeURIComponent(path));
     try {
       const md = await loadMd(path);
-      article.innerHTML = marked.parse(cleanMd(md));
+      article.innerHTML = marked.parse(linkifyBriefing(md));
       renderArticleNav(path);
     } catch (e) {
       article.innerHTML = `<div class="empty">Couldn't load this briefing.<br><small>${e.message}</small></div>`;
@@ -548,7 +596,7 @@
     history.replaceState(null,'','#'+encodeURIComponent(path));
     try {
       const md = await getText(`${RAW}/${path}`);
-      article.innerHTML = marked.parse(cleanMd(md));
+      article.innerHTML = marked.parse(linkifyBriefing(md));
     } catch (e) {
       article.innerHTML = `<div class="empty">Couldn't load this document.<br><small>${e.message}</small></div>`;
     }

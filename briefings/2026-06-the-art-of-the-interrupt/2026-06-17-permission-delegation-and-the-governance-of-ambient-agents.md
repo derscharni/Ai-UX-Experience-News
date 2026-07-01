@@ -184,5 +184,3 @@ Yesterday's Copilot Cowork GA launch, read alongside Grok Build's Agent Dashboar
 ## References
 
 [1] Releasebot. (2026). *Claude Code Updates by Anthropic — June 2026*. [https://releasebot.io/updates/anthropic/claude-code](https://releasebot.io/updates/anthropic/claude-code)
-
-[2] Vantagepoint.io. (2026). *Claude Code Admin Settings Guide 2026: Permissions, Auto Mode*. [https://vant

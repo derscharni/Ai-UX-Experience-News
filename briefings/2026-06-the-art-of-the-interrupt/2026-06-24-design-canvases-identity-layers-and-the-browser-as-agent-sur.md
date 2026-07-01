@@ -184,5 +184,3 @@ The week ending June 24, 2026 marks the moment when three previously separate de
 [4] OpenAI Developers. (2026). *Codex Changelog — June 2026*. [https://developers.openai.com/codex/changelog](https://developers.openai.com/codex/changelog)
 
 [5] Releasebot. (2026). *OpenAI Release Notes — June 2026*. [https://releasebot.io/updates/openai](https://releasebot.io/updates/openai)
-
-[6] OpenAI Help Center. (2026). *ChatGPT Enterprise/EDU Release Notes*. [https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes](https://help.openai.com/en/

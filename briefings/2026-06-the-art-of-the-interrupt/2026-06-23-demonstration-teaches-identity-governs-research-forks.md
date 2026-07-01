@@ -188,5 +188,3 @@ This week's releases, read together, describe a quiet but decisive transition in
 [3] Releasebot. (2026). *Anthropic Release Notes — June 2026*. [https://releasebot.io/updates/anthropic](https://releasebot.io/updates/anthropic)
 
 [4] OpenAI Developers. (2026). *Record & Replay – Codex*. [https://developers.openai.com/codex/record-and-replay](https://developers.openai.com/codex/record-and-replay)
-
-[5] The Decoder. (2026). *OpenAI's Codex can now watch you work once and repeat the task forever*. [https://the-decoder.com/openais-codex-can-now-watch-you-work-once-and-repeat-the-task-

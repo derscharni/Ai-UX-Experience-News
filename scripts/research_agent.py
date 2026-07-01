@@ -256,6 +256,26 @@ def research_and_write(date: datetime, examples: str) -> tuple[str, str]:
             f"First 500 chars:\n{briefing[:500]}"
         )
 
+    # The "## References" heading can be present while the list itself was
+    # cut off mid-entry (same root cause as above, just later in the
+    # response) — check every reference entry actually has a URL, so a
+    # dangling last citation fails loudly instead of shipping silently.
+    refs_start = briefing.index("## References")
+    refs_block = briefing[refs_start + len("## References"):].strip()
+    entries = re.split(r"\n(?=\[\d+\])", refs_block) if refs_block else []
+    if not entries:
+        raise RuntimeError(
+            f"Generated briefing has an empty References section. "
+            f"stop_reason={response.stop_reason!r}"
+        )
+    dangling = [e.strip()[:80] for e in entries if not re.search(r"\(https?://[^)\s]+\)", e)]
+    if dangling:
+        raise RuntimeError(
+            "Generated briefing has a truncated References entry (no URL): "
+            f"{dangling[-1]!r}. stop_reason={response.stop_reason!r} "
+            f"(max_tokens likely too low if 'max_tokens')."
+        )
+
     title_match = re.search(r"^# UX Briefing: (.+)$", briefing, re.MULTILINE)
     title = title_match.group(1).strip() if title_match else "Daily UX Update"
 

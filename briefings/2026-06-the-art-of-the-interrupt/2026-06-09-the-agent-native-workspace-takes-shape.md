@@ -197,22 +197,20 @@ This week's releases, read together, describe the same architectural transition 
 
 ## References
 
-[1] Anthropic Claude Blog. (2026, June 2). *Introducing dynamic workflows in Claude Code*. [https://claude.com/blog/introducing-dynamic-workflows-in-claude-code](https://claude.com/blog/introducing-dynamic-workflows-in-claude-code) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
+[1] Anthropic Claude Blog. (2026, June 2). *Introducing dynamic workflows in Claude Code*. [https://claude.com/blog/introducing-dynamic-workflows-in-claude-code](https://claude.com/blog/introducing-dynamic-workflows-in-claude-code)
 
-[2] Claude Code Docs. (2026). *Orchestrate subagents at scale with dynamic workflows*. [https://code.claude.com/docs/en/workflows](https://code.claude.com/docs/en/workflows) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
+[2] Claude Code Docs. (2026). *Orchestrate subagents at scale with dynamic workflows*. [https://code.claude.com/docs/en/workflows](https://code.claude.com/docs/en/workflows)
 
-[3] Releasebot. (2026). *Codex Updates by OpenAI — June 2026*. [https://releasebot.io/updates/openai/codex](https://releasebot.io/updates/openai/codex) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
+[3] Releasebot. (2026). *Codex Updates by OpenAI — June 2026*. [https://releasebot.io/updates/openai/codex](https://releasebot.io/updates/openai/codex)
 
-[4] OpenAI Developers. (2026). *Codex Changelog*. [https://developers.openai.com/codex/changelog](https://developers.openai.com/codex/changelog) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
+[4] OpenAI Developers. (2026). *Codex Changelog*. [https://developers.openai.com/codex/changelog](https://developers.openai.com/codex/changelog)
 
-[5] Google Cloud Documentation. (2026). *Gemini Enterprise Release Notes*. [https://docs.cloud.google.com/gemini/enterprise/docs/release-notes](https://docs.cloud.google.com/gemini/enterprise/docs/release-notes) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
+[5] Google Cloud Documentation. (2026). *Gemini Enterprise Release Notes*. [https://docs.cloud.google.com/gemini/enterprise/docs/release-notes](https://docs.cloud.google.com/gemini/enterprise/docs/release-notes)
 
-[6] Chrome for Developers Blog. (2026). *15 updates from Google I/O 2026: Powering the agentic web*. [https://developer.chrome.com/blog/chrome-at-io26](https://developer.chrome.com/blog/chrome-at-io26) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
+[6] Chrome for Developers Blog. (2026). *15 updates from Google I/O 2026: Powering the agentic web*. [https://developer.chrome.com/blog/chrome-at-io26](https://developer.chrome.com/blog/chrome-at-io26)
 
-[7] GitHub Blog. (2026, June 2). *GitHub Copilot app: The agent-native desktop experience*. [https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/](https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
+[7] GitHub Blog. (2026, June 2). *GitHub Copilot app: The agent-native desktop experience*. [https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/](https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/)
 
-[8] GitHub Changelog. (2026, June 2). *Expanded technical preview availability for the GitHub Copilot app*. [https://github.blog/changelog/2026-06-02-expanded-technical-preview-availability-for-the-github-copilot-app/](https://github.blog/changelog/2026-06-02-expanded-technical-preview-availability-for-the-github-copilot-app/) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
+[8] GitHub Changelog. (2026, June 2). *Expanded technical preview availability for the GitHub Copilot app*. [https://github.blog/changelog/2026-06-02-expanded-technical-preview-availability-for-the-github-copilot-app/](https://github.blog/changelog/2026-06-02-expanded-technical-preview-availability-for-the-github-copilot-app/)
 
-[9] xAI Grok Build Changelog. (2026). *Grok Build Changelog — v0.2.20*. [https://x.ai/build/changelog](https://x.ai/build/changelog) <!-- verified: 2026-06-14 | status: ✅ accessible & matches | checker: source-verification-agent -->
-
-[10] Perplexity Hub. (2026). *Computer comes to Excel, Word, PowerPoint, and Outlook*. [https://www.perplexity.ai/hub/blog
+[9] xAI Grok Build Changelog. (2026). *Grok Build Changelog — v0.2.20*. [https://x.ai/build/changelog](https://x.ai/build/changelog)
