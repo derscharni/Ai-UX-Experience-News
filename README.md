@@ -113,6 +113,7 @@ _Briefings are added automatically as they are generated._
 *   [2026-06-24 - Design Canvases, Identity Layers, and the Browser as Agent Surface](briefings/2026-06-the-art-of-the-interrupt/2026-06-24-design-canvases-identity-layers-and-the-browser-as-agent-sur.md)
 *   [2026-06-25 - Keyless Agents, Generative UI, and the Mobile Approval Surface](briefings/2026-06-the-art-of-the-interrupt/2026-06-25-keyless-agents-generative-ui-and-the-mobile-approval-surface.md)
 *   [2026-06-26 - Autopilots, Security Surfaces, and the Canvas Retirement](briefings/2026-06-the-art-of-the-interrupt/2026-06-26-autopilots-security-surfaces-and-the-canvas-retirement.md)
+*   [2026-06-29 - Desktop Agents, Scheduled Tasks, and the Session Observatory](briefings/2026-06-the-art-of-the-interrupt/2026-06-29-desktop-agents-scheduled-tasks-and-the-session-observatory.md)
 — *The Art of the Interrupt* (`briefings/2026-06-the-art-of-the-interrupt/`)
 _Briefings are added automatically as they are generated._
 
