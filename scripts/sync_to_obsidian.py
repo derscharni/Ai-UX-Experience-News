@@ -32,7 +32,7 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
-from generate_index import extract_excerpt
+from generate_index import extract_excerpt, detect_themes
 
 # ── Paths ──────────────────────────────────────────────────────────────────────
 
@@ -121,6 +121,12 @@ def briefing_to_obsidian(path: Path) -> str:
     month_theme = month_theme_title_from_folder(path.parent)
     products     = detect_products(content)
     product_tags = [f"product/{p}" for p in products]
+    # UX themes (Trust & Safety, Agentic Workflows, ...), ranked by keyword
+    # hit count so tags actually differentiate — a daily roundup mentions
+    # nearly every product every day, so `product/*` tags alone barely
+    # narrow anything down in a Dataview query either.
+    ux_themes  = detect_themes(content)
+    theme_tags = [f"theme/{t.lower().replace(' & ', '-').replace(' ', '-')}" for t in ux_themes]
     resource     = f"{RAW_BASE}/{path.relative_to(REPO_ROOT).as_posix()}"
 
     # ── Build YAML frontmatter ──────────────────────────────────────────────────
@@ -137,12 +143,18 @@ def briefing_to_obsidian(path: Path) -> str:
     ]
     lines.append("tags:")
     lines += ["  - ai-ux", "  - briefing"]
+    for t in theme_tags:
+        lines.append(f"  - {t}")
     for t in product_tags:
         lines.append(f"  - {t}")
     lines.append(f"timestamp: {date_str}T00:00:00Z")
     lines.append(f"date: {date_str}")
     if month_theme:
         lines.append(f'month-theme: "{yaml_escape(month_theme)}"')
+    if ux_themes:
+        lines.append("themes:")
+        for t in ux_themes:
+            lines.append(f"  - {t}")
     if products:
         lines.append("products:")
         for p in products:

@@ -124,7 +124,9 @@
     @keyframes fade { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
 
     /* ── Topic filter chips ─────────────────────────────────────────── */
-    .chips { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 26px; }
+    .filter-bar { margin-bottom: 26px; }
+    .chips { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 10px; }
+    .chips:last-child { margin-bottom: 0; }
     .chip {
       display: inline-flex; align-items: center; gap: 7px;
       height: 36px; padding: 0 16px;
@@ -136,6 +138,10 @@
       cursor: pointer; user-select: none;
       transition: all .15s;
     }
+    /* Second row: product tags barely differentiate (a briefing covers
+       nearly every product every day) — themes actually do, so they're
+       styled as a visually distinct, slightly lower-emphasis secondary row. */
+    .chips-theme .chip { height: 30px; padding: 0 13px; font-size: 12.5px; border-style: dashed; }
     .chip:hover { background: var(--bg); box-shadow: var(--elev-1); }
     .chip .dot { width: 9px; height: 9px; border-radius: 50%; }
     .chip.active {
@@ -237,6 +243,7 @@
       background: var(--bg); color: var(--text-secondary);
     }
     .ptag .dot { width: 7px; height: 7px; border-radius: 50%; }
+    .ptag-theme { background: transparent; border: 1px solid var(--divider); }
 
     /* ── Archive (monthly summaries) ───────────────────────────────── */
     .summary-row {
@@ -357,7 +364,10 @@
 <main>
   <!-- HOME -->
   <section id="home" class="view">
-    <div class="chips" id="chips"></div>
+    <div class="filter-bar">
+      <div class="chips" id="chips"></div>
+      <div class="chips chips-theme" id="theme-chips"></div>
+    </div>
     <div id="hero-slot"></div>
     <div class="section-head"><h3 id="latest-title">Latest briefings</h3><span class="count" id="latest-count"></span></div>
     <div class="grid" id="grid"></div>
@@ -401,7 +411,8 @@
 
   let allBriefings = [];
   let summaries = [];
-  let activeFilter = 'All';
+  let activeProduct = 'All';
+  let activeTheme = 'All';
   let searchQuery = '';
   let mdCache = {};
 
@@ -470,33 +481,55 @@
   function productTag(p) {
     return `<span class="ptag"><span class="dot" style="background:${PRODUCT_COLORS[p]||'#999'}"></span>${p}</span>`;
   }
+  function themeTag(t) {
+    return `<span class="ptag ptag-theme">${t}</span>`;
+  }
 
   // ── Filtering ───────────────────────────────────────────────────────────
+  // Product tags barely differentiate on their own — a daily roundup
+  // mentions nearly every product nearly every day — so filtering combines
+  // the product row (row 1) with the theme row (row 2, AND logic) to
+  // actually narrow results down to something meaningful.
   function filtered() {
     let list = allBriefings;
-    if (activeFilter !== 'All') list = list.filter(b => (b.products||[]).includes(activeFilter));
+    if (activeProduct !== 'All') list = list.filter(b => (b.products||[]).includes(activeProduct));
+    if (activeTheme !== 'All') list = list.filter(b => (b.themes||[]).includes(activeTheme));
     if (searchQuery) {
       const q = searchQuery.toLowerCase();
       list = list.filter(b =>
         b.title.toLowerCase().includes(q) ||
         (b.excerpt||'').toLowerCase().includes(q) ||
         b.date.includes(q) ||
-        (b.products||[]).some(p => p.toLowerCase().includes(q)));
+        (b.products||[]).some(p => p.toLowerCase().includes(q)) ||
+        (b.themes||[]).some(t => t.toLowerCase().includes(q)));
     }
     return list;
   }
 
   // ── Chips ───────────────────────────────────────────────────────────────
   function renderChips() {
-    const counts = { All: allBriefings.length };
-    PRODUCT_ORDER.forEach(p => counts[p] = allBriefings.filter(b => (b.products||[]).includes(p)).length);
-    const items = ['All', ...PRODUCT_ORDER.filter(p => counts[p] > 0)];
-    document.getElementById('chips').innerHTML = items.map(p => {
+    const pCounts = { All: allBriefings.length };
+    PRODUCT_ORDER.forEach(p => pCounts[p] = allBriefings.filter(b => (b.products||[]).includes(p)).length);
+    const pItems = ['All', ...PRODUCT_ORDER.filter(p => pCounts[p] > 0)];
+    document.getElementById('chips').innerHTML = pItems.map(p => {
       const dot = p === 'All' ? '' : `<span class="dot" style="background:${PRODUCT_COLORS[p]}"></span>`;
-      return `<div class="chip ${p===activeFilter?'active':''}" data-filter="${p}">${dot}${p}</div>`;
+      return `<div class="chip ${p===activeProduct?'active':''}" data-filter="${p}">${dot}${p}</div>`;
     }).join('');
-    document.querySelectorAll('.chip').forEach(c => c.onclick = () => {
-      activeFilter = c.dataset.filter; renderChips(); renderHome();
+    document.querySelectorAll('#chips .chip').forEach(c => c.onclick = () => {
+      activeProduct = c.dataset.filter; renderChips(); renderHome();
+    });
+
+    // Theme order: most-common-first, derived from the data rather than a
+    // hardcoded list, so it stays in sync with scripts/generate_index.py.
+    const tCounts = {};
+    allBriefings.forEach(b => (b.themes||[]).forEach(t => tCounts[t] = (tCounts[t]||0) + 1));
+    const tOrder = Object.keys(tCounts).sort((a,b) => tCounts[b] - tCounts[a]);
+    const tItems = ['All', ...tOrder];
+    document.getElementById('theme-chips').innerHTML = tItems.map(t =>
+      `<div class="chip ${t===activeTheme?'active':''}" data-filter="${t}">${t}</div>`
+    ).join('');
+    document.querySelectorAll('#theme-chips .chip').forEach(c => c.onclick = () => {
+      activeTheme = c.dataset.filter; renderChips(); renderHome();
     });
   }
 
@@ -508,8 +541,9 @@
     const archive = document.getElementById('archive-block');
 
     // Hero only when no search/filter and there's at least one briefing.
-    const showHero = !searchQuery && activeFilter === 'All' && list.length;
-    archive.style.display = (searchQuery || activeFilter !== 'All') ? 'none' : 'block';
+    const anyFilterActive = activeProduct !== 'All' || activeTheme !== 'All';
+    const showHero = !searchQuery && !anyFilterActive && list.length;
+    archive.style.display = (searchQuery || anyFilterActive) ? 'none' : 'block';
 
     if (showHero) {
       const b = list[0];
@@ -534,9 +568,10 @@
     }
 
     const cards = showHero ? list.slice(1) : list;
+    const filterLabel = [activeProduct, activeTheme].filter(f => f !== 'All').join(' · ');
     document.getElementById('latest-title').textContent =
       searchQuery ? `Results for “${searchQuery}”` :
-      activeFilter !== 'All' ? `${activeFilter} briefings` : 'Latest briefings';
+      filterLabel ? `${filterLabel} briefings` : 'Latest briefings';
     document.getElementById('latest-count').textContent = `${list.length} briefing${list.length!==1?'s':''}`;
 
     if (!cards.length && !showHero) {
@@ -549,7 +584,7 @@
             <div class="card-date">${fmtDate(b.date)}</div>
             <h4>${b.title}</h4>
             <p>${b.excerpt || ''}</p>
-            <div class="card-tags">${(b.products||[]).map(productTag).join('')}</div>
+            <div class="card-tags">${(b.themes||[]).map(themeTag).join('')}${(b.products||[]).map(productTag).join('')}</div>
           </div>
         </div>`).join('');
     }

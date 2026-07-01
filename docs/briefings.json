@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T10:28:30Z",
+  "updated": "2026-07-01T20:13:12Z",
   "briefings": [
     {
       "date": "2026-06-24",
@@ -15,6 +15,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Browser & Computer Use"
       ]
     },
     {
@@ -31,6 +35,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
       ]
     },
     {
@@ -47,6 +55,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
       ]
     },
     {
@@ -63,6 +75,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows",
+        "Trust & Safety"
       ]
     },
     {
@@ -79,6 +95,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
       ]
     },
     {
@@ -95,6 +115,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Generative UI"
       ]
     },
     {
@@ -111,6 +135,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows",
+        "Trust & Safety"
       ]
     },
     {
@@ -127,6 +155,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Memory & Context"
       ]
     },
     {
@@ -143,6 +175,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Generative UI",
+        "Trust & Safety"
       ]
     },
     {
@@ -159,6 +195,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Multimodal",
+        "Agentic Workflows"
       ]
     },
     {
@@ -175,6 +215,9 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows"
       ]
     },
     {
@@ -190,6 +233,10 @@
         "Gemini",
         "Copilot",
         "Grok"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
       ]
     },
     {
@@ -206,6 +253,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Generative UI",
+        "Agentic Workflows"
       ]
     },
     {
@@ -221,6 +272,10 @@
         "Gemini",
         "Copilot",
         "Grok"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
       ]
     },
     {
@@ -236,6 +291,10 @@
         "Gemini",
         "Copilot",
         "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows",
+        "Multimodal"
       ]
     },
     {
@@ -251,6 +310,10 @@
         "Gemini",
         "Copilot",
         "Grok"
+      ],
+      "themes": [
+        "Agentic Workflows",
+        "Enterprise & Governance"
       ]
     },
     {
@@ -267,6 +330,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Enterprise & Governance",
+        "Agentic Workflows"
       ]
     },
     {
@@ -283,6 +350,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows",
+        "Enterprise & Governance"
       ]
     },
     {
@@ -298,6 +369,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
       ]
     },
     {
@@ -314,6 +389,9 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Browser & Computer Use"
       ]
     },
     {
@@ -329,6 +407,10 @@
         "Gemini",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows",
+        "Generative UI"
       ]
     },
     {
@@ -345,6 +427,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Browser & Computer Use",
+        "Agentic Workflows"
       ]
     },
     {
@@ -361,6 +447,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows",
+        "Multimodal"
       ]
     },
     {
@@ -377,6 +467,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows",
+        "Enterprise & Governance"
       ]
     },
     {
@@ -392,6 +486,10 @@
         "Gemini",
         "Copilot",
         "Grok"
+      ],
+      "themes": [
+        "Enterprise & Governance",
+        "Generative UI"
       ]
     },
     {
@@ -407,6 +505,10 @@
         "Gemini",
         "Copilot",
         "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows",
+        "Trust & Safety"
       ]
     },
     {
@@ -423,6 +525,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Generative UI",
+        "Agentic Workflows"
       ]
     },
     {
@@ -439,6 +545,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows",
+        "Trust & Safety"
       ]
     },
     {
@@ -455,6 +565,9 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows"
       ]
     },
     {
@@ -470,6 +583,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Generative UI"
       ]
     },
     {
@@ -485,6 +602,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows",
+        "Multimodal"
       ]
     },
     {
@@ -500,6 +621,10 @@
         "Gemini",
         "Copilot",
         "Grok"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
       ]
     },
     {
@@ -516,6 +641,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows",
+        "Trust & Safety"
       ]
     },
     {
@@ -531,6 +660,10 @@
         "Gemini",
         "Copilot",
         "Grok"
+      ],
+      "themes": [
+        "Agentic Workflows",
+        "Trust & Safety"
       ]
     },
     {
@@ -547,6 +680,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
       ]
     },
     {
@@ -563,6 +700,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Memory & Context",
+        "Agentic Workflows"
       ]
     },
     {
@@ -579,6 +720,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows",
+        "Browser & Computer Use"
       ]
     },
     {
@@ -595,6 +740,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows",
+        "Browser & Computer Use"
       ]
     },
     {
@@ -610,6 +759,10 @@
         "Gemini",
         "Copilot",
         "Grok"
+      ],
+      "themes": [
+        "Memory & Context",
+        "Agentic Workflows"
       ]
     },
     {
@@ -626,6 +779,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
       ]
     },
     {
@@ -641,6 +798,9 @@
         "Gemini",
         "Copilot",
         "Perplexity"
+      ],
+      "themes": [
+        "Browser & Computer Use"
       ]
     },
     {
@@ -656,6 +816,9 @@
         "Gemini",
         "Copilot",
         "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows"
       ]
     },
     {
@@ -672,7 +835,8 @@
         "Copilot",
         "Grok",
         "Perplexity"
-      ]
+      ],
+      "themes": []
     },
     {
       "date": "2026-03-22",
@@ -688,6 +852,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Generative UI",
+        "Browser & Computer Use"
       ]
     },
     {
@@ -703,6 +871,10 @@
         "Gemini",
         "Copilot",
         "Grok"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Generative UI"
       ]
     },
     {
@@ -717,6 +889,10 @@
         "ChatGPT",
         "Gemini",
         "Copilot"
+      ],
+      "themes": [
+        "Generative UI",
+        "Trust & Safety"
       ]
     },
     {
@@ -732,6 +908,10 @@
         "Gemini",
         "Copilot",
         "Perplexity"
+      ],
+      "themes": [
+        "Browser & Computer Use",
+        "Enterprise & Governance"
       ]
     },
     {
@@ -747,6 +927,9 @@
         "Gemini",
         "Copilot",
         "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows"
       ]
     },
     {
@@ -762,6 +945,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
       ]
     },
     {
@@ -776,6 +963,10 @@
         "ChatGPT",
         "Gemini",
         "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows",
+        "Generative UI"
       ]
     },
     {
@@ -791,6 +982,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
       ]
     },
     {
@@ -806,6 +1001,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Generative UI",
+        "Browser & Computer Use"
       ]
     },
     {
@@ -822,6 +1021,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows",
+        "Enterprise & Governance"
       ]
     },
     {
@@ -837,6 +1040,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Generative UI",
+        "Trust & Safety"
       ]
     },
     {
@@ -852,6 +1059,10 @@
         "Gemini",
         "Copilot",
         "Perplexity"
+      ],
+      "themes": [
+        "Browser & Computer Use",
+        "Generative UI"
       ]
     },
     {
@@ -867,6 +1078,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
       ]
     },
     {
@@ -883,6 +1098,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Generative UI"
       ]
     },
     {
@@ -899,6 +1118,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows",
+        "Generative UI"
       ]
     },
     {
@@ -915,6 +1138,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows",
+        "Memory & Context"
       ]
     },
     {
@@ -930,6 +1157,10 @@
         "Gemini",
         "Copilot",
         "Grok"
+      ],
+      "themes": [
+        "Browser & Computer Use",
+        "Multimodal"
       ]
     },
     {
@@ -946,6 +1177,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Browser & Computer Use",
+        "Generative UI"
       ]
     },
     {
@@ -961,6 +1196,10 @@
         "Gemini",
         "Copilot",
         "Grok"
+      ],
+      "themes": [
+        "Multimodal",
+        "Trust & Safety"
       ]
     },
     {
@@ -976,6 +1215,10 @@
         "Gemini",
         "Copilot",
         "Grok"
+      ],
+      "themes": [
+        "Generative UI",
+        "Memory & Context"
       ]
     },
     {
@@ -992,6 +1235,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Generative UI",
+        "Identity & Security"
       ]
     },
     {
@@ -1008,6 +1255,9 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows"
       ]
     },
     {
@@ -1024,6 +1274,9 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows"
       ]
     },
     {
@@ -1039,6 +1292,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows",
+        "Multimodal"
       ]
     },
     {
@@ -1055,6 +1312,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows",
+        "Enterprise & Governance"
       ]
     },
     {
@@ -1071,6 +1332,10 @@
         "Copilot",
         "Grok",
         "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Generative UI"
       ]
     }
   ],

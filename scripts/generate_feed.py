@@ -30,7 +30,10 @@ def rfc822(date_str: str) -> str:
 
 def item_xml(b: dict) -> str:
     link = f"{SITE_URL}#{quote(b['path'], safe='')}"
-    products = ", ".join(b.get("products", []))
+    # One <category> per tag (products + themes) — the RSS-correct way to
+    # emit multiple discrete tags, rather than one comma-joined string.
+    categories = list(b.get("products", [])) + list(b.get("themes", []))
+    category_xml = "".join(f"    <category>{escape(c)}</category>\n" for c in categories)
     return (
         "  <item>\n"
         f"    <title>{escape(b['title'])}</title>\n"
@@ -38,7 +41,7 @@ def item_xml(b: dict) -> str:
         f"    <guid isPermaLink=\"true\">{escape(link)}</guid>\n"
         f"    <pubDate>{rfc822(b['date'])}</pubDate>\n"
         f"    <description>{escape(b.get('excerpt', ''))}</description>\n"
-        + (f"    <category>{escape(products)}</category>\n" if products else "")
+        + category_xml
         + "  </item>"
     )
 

@@ -25,6 +25,37 @@ PRODUCTS = {
     "Perplexity": ["perplexity", "comet"],
 }
 
+# UX themes, with detection keywords. Every briefing mentions nearly every
+# product (it's a daily roundup), so the product chips above barely narrow
+# anything down — see docs/index.html's second filter row. Themes are meant
+# to actually differentiate: instead of "any keyword present" (which suffers
+# the same problem once a corpus is even lightly topical — everything ends up
+# tagged with everything), we rank themes by keyword *hit count* per article
+# and keep only the top 2 that clear a minimum count, so tags reflect an
+# article's dominant focus rather than everything it briefly touches.
+THEMES = {
+    "Trust & Safety": ["trust", "safety", "guardrail", "permission", "governance", "audit",
+                        "transparen", "refusal", "consent", "safeguard", "oversight", "verif",
+                        "confidence signal", "accountab"],
+    "Generative UI": ["generative ui", "canvas", "visual layout", "dynamic view", "interactive",
+                       "rendered interface", "design system", "custom-coded", "bespoke"],
+    "Agentic Workflows": ["workflow", "orchestrat", "subagent", "sub-agent", "background agent",
+                           "multi-step", "parallel", "autonomous task", "delegat", "task queue"],
+    "Memory & Context": ["memory", "personalizat", "context window", "recall", "carry-forward",
+                          "compaction", "long-horizon"],
+    "Browser & Computer Use": ["browser", "browsing agent", "computer use", "navigate websit",
+                                "agentic browsing", "auto browse"],
+    "Multimodal": ["multimodal", "voice mode", "voice input", "voice assistant", "voice command",
+                    "voice cloning", "voice chat", "voice interface", "image generat", "video generat",
+                    "vision model", "speech-to-text", "text-to-speech"],
+    "Enterprise & Governance": ["enterprise", "admin console", "workspace admin", "compliance",
+                                 "deployment", "business tier", "edu admin"],
+    "Identity & Security": ["identity", "authenticat", "session securit", "credential", "password",
+                             "sso", "oauth"],
+}
+THEME_TOP_N = 2
+THEME_MIN_HITS = 2
+
 
 def strip_md(text: str) -> str:
     """Remove markdown emphasis/links/comments for a clean excerpt."""
@@ -64,6 +95,19 @@ def detect_products(content: str) -> list[str]:
     return found
 
 
+def detect_themes(content: str) -> list[str]:
+    """The 1-2 UX themes this briefing is actually about, ranked by keyword
+    hit count so tags stay differentiating instead of "present in everything"."""
+    lower = re.sub(r"<!--.*?-->", "", content, flags=re.DOTALL).lower()
+    scores = {}
+    for theme, kws in THEMES.items():
+        c = sum(lower.count(kw) for kw in kws)
+        if c > 0:
+            scores[theme] = c
+    ranked = sorted(scores.items(), key=lambda kv: -kv[1])[:THEME_TOP_N]
+    return [t for t, c in ranked if c >= THEME_MIN_HITS]
+
+
 def main() -> None:
     DOCS_DIR.mkdir(exist_ok=True)
 
@@ -89,6 +133,7 @@ def main() -> None:
             "month_key": date_str[:7],     # "2026-04"
             "excerpt": extract_excerpt(content),
             "products": detect_products(content),
+            "themes": detect_themes(content),
         })
 
     summaries = []
