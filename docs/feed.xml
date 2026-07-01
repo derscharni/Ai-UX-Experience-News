@@ -5,8 +5,83 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Wed, 01 Jul 2026 20:13:12 GMT</lastBuildDate>
-  <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Wed, 01 Jul 2026 22:29:23 GMT</lastBuildDate>
+  <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Safeguards, Classifiers, and the No-Code Voice Frontier</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-01-safeguards-classifiers-and-the-no-code-voice-frontier.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-01-safeguards-classifiers-and-the-no-code-voice-frontier.md</guid>
+    <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending July 1 are defined by a convergence of four design stories that together mark the first day of a new phase in agentic AI: access is being restored, safety architectures are being visibly surfaced to users, and the builde</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Generative UI</category>
+  </item>
+  <item>
+    <title>Remote Agents, Biometric Gates, and the Desktop Frontier</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-06-the-art-of-the-interrupt%2F2026-06-30-remote-agents-biometric-gates-and-the-desktop-frontier.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-06-the-art-of-the-interrupt%2F2026-06-30-remote-agents-biometric-gates-and-the-desktop-frontier.md</guid>
+    <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending June 30 are defined by a single competitive race: every major platform is landing its first or most mature desktop-native agent, and every trust layer is being hardened to match the expanded attack surface that remote, l</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Agentic Workflows</category>
+  </item>
+  <item>
+    <title>Desktop Agents, Scheduled Tasks, and the Session Observatory</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-06-the-art-of-the-interrupt%2F2026-06-29-desktop-agents-scheduled-tasks-and-the-session-observatory.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-06-the-art-of-the-interrupt%2F2026-06-29-desktop-agents-scheduled-tasks-and-the-session-observatory.md</guid>
+    <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
+    <description>The last 48 hours land on four stories that together describe a single shift in agentic UX: the locus of agent control is moving from cloud tab to local desktop and phone, and the interfaces that manage that expansion are maturing fast. Goo</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Agentic Workflows</category>
+  </item>
+  <item>
+    <title>Autopilots, Security Surfaces, and the Canvas Retirement</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-06-the-art-of-the-interrupt%2F2026-06-26-autopilots-security-surfaces-and-the-canvas-retirement.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-06-the-art-of-the-interrupt%2F2026-06-26-autopilots-security-surfaces-and-the-canvas-retirement.md</guid>
+    <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+    <description>The last 48 hours consolidate around four stories that together mark a new phase in agentic maturity. Claude/Anthropic reaches a distribution milestone with the GA of Claude in Microsoft Foundry, making Azure the first cloud to host both Cl</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Agentic Workflows</category>
+  </item>
+  <item>
+    <title>Keyless Agents, Generative UI, and the Mobile Approval Surface</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-06-the-art-of-the-interrupt%2F2026-06-25-keyless-agents-generative-ui-and-the-mobile-approval-surface.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-06-the-art-of-the-interrupt%2F2026-06-25-keyless-agents-generative-ui-and-the-mobile-approval-surface.md</guid>
+    <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+    <description>The last 48 hours crystallise around four stories that together define the week's deepest shift in agentic UX infrastructure. Anthropic Claude reached a milestone in agentic authentication, making Workload Identity Federation generally avai</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Generative UI</category>
+    <category>Identity &amp; Security</category>
+  </item>
   <item>
     <title>Design Canvases, Identity Layers, and the Browser as Agent Surface</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-06-the-art-of-the-interrupt%2F2026-06-24-design-canvases-identity-layers-and-the-browser-as-agent-sur.md</link>
@@ -796,79 +871,6 @@
     <category>Perplexity</category>
     <category>Browser &amp; Computer Use</category>
     <category>Generative UI</category>
-  </item>
-  <item>
-    <title>The Agent as Coworker</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-10-the-agent-as-coworker.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-10-the-agent-as-coworker.md</guid>
-    <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
-    <description>A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: the agent as a “Coworker.” Both Microsoft and Anthropic have now launched flagship agentic products with this exact framing, sign</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Trust &amp; Safety</category>
-    <category>Agentic Workflows</category>
-  </item>
-  <item>
-    <title>The Dawn of Intentional Agentic UI Design</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-09-the-dawn-of-intentional-agentic-ui-design.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-09-the-dawn-of-intentional-agentic-ui-design.md</guid>
-    <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
-    <description>A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: the dawn of intentional Agentic UI design. After a week dominated by the raw capability race, the focus is now shifting to the in</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Trust &amp; Safety</category>
-    <category>Generative UI</category>
-  </item>
-  <item>
-    <title>The Agent Is the New IDE</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-08-the-agent-is-the-new-ide.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-08-the-agent-is-the-new-ide.md</guid>
-    <pubDate>Sun, 08 Mar 2026 00:00:00 GMT</pubDate>
-    <description>A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: the agent is the new IDE. As platforms race to add agentic capabilities, they are simultaneously building out dedicated, integrat</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Agentic Workflows</category>
-    <category>Generative UI</category>
-  </item>
-  <item>
-    <title>The Agentic War Is Now a Two-Front War</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-07-the-agentic-war-is-now-a-two-front-war.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-07-the-agentic-war-is-now-a-two-front-war.md</guid>
-    <pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
-    <description>A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: the agentic war is now a two-front war. While the headline battle is about raw capability — who can use a computer? — a second, a</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Agentic Workflows</category>
-    <category>Memory &amp; Context</category>
-  </item>
-  <item>
-    <title>GPT-5.4 and the Agentic Arms Race</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-06-gpt-54-and-the-agentic-arms-race.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-06-gpt-54-and-the-agentic-arms-race.md</guid>
-    <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
-    <description>A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s briefing is led by a landmark announcement from OpenAI: GPT-5.4 is here, and it can use a computer. This move directly answers Anthropic</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Browser &amp; Computer Use</category>
-    <category>Multimodal</category>
   </item>
 </channel>
 </rss>

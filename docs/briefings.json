@@ -1,6 +1,106 @@
 {
-  "updated": "2026-07-01T20:13:12Z",
+  "updated": "2026-07-01T22:29:23Z",
   "briefings": [
+    {
+      "date": "2026-07-01",
+      "title": "Safeguards, Classifiers, and the No-Code Voice Frontier",
+      "path": "briefings/2026-07-the-visible-safety-layer/2026-07-01-safeguards-classifiers-and-the-no-code-voice-frontier.md",
+      "month_theme": "The Visible Safety Layer",
+      "month_key": "2026-07",
+      "excerpt": "The 48 hours ending July 1 are defined by a convergence of four design stories that together mark the first day of a new phase in agentic AI: access is being restored, safety architectures are being visibly surfaced to users, and the builde",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Generative UI"
+      ]
+    },
+    {
+      "date": "2026-06-30",
+      "title": "Remote Agents, Biometric Gates, and the Desktop Frontier",
+      "path": "briefings/2026-06-the-art-of-the-interrupt/2026-06-30-remote-agents-biometric-gates-and-the-desktop-frontier.md",
+      "month_theme": "The Art Of The Interrupt",
+      "month_key": "2026-06",
+      "excerpt": "The 48 hours ending June 30 are defined by a single competitive race: every major platform is landing its first or most mature desktop-native agent, and every trust layer is being hardened to match the expanded attack surface that remote, l",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "title": "Desktop Agents, Scheduled Tasks, and the Session Observatory",
+      "path": "briefings/2026-06-the-art-of-the-interrupt/2026-06-29-desktop-agents-scheduled-tasks-and-the-session-observatory.md",
+      "month_theme": "The Art Of The Interrupt",
+      "month_key": "2026-06",
+      "excerpt": "The last 48 hours land on four stories that together describe a single shift in agentic UX: the locus of agent control is moving from cloud tab to local desktop and phone, and the interfaces that manage that expansion are maturing fast. Goo",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
+      ]
+    },
+    {
+      "date": "2026-06-26",
+      "title": "Autopilots, Security Surfaces, and the Canvas Retirement",
+      "path": "briefings/2026-06-the-art-of-the-interrupt/2026-06-26-autopilots-security-surfaces-and-the-canvas-retirement.md",
+      "month_theme": "The Art Of The Interrupt",
+      "month_key": "2026-06",
+      "excerpt": "The last 48 hours consolidate around four stories that together mark a new phase in agentic maturity. Claude/Anthropic reaches a distribution milestone with the GA of Claude in Microsoft Foundry, making Azure the first cloud to host both Cl",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "title": "Keyless Agents, Generative UI, and the Mobile Approval Surface",
+      "path": "briefings/2026-06-the-art-of-the-interrupt/2026-06-25-keyless-agents-generative-ui-and-the-mobile-approval-surface.md",
+      "month_theme": "The Art Of The Interrupt",
+      "month_key": "2026-06",
+      "excerpt": "The last 48 hours crystallise around four stories that together define the week's deepest shift in agentic UX infrastructure. Anthropic Claude reached a milestone in agentic authentication, making Workload Identity Federation generally avai",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Generative UI",
+        "Identity & Security"
+      ]
+    },
     {
       "date": "2026-06-24",
       "title": "Design Canvases, Identity Layers, and the Browser as Agent Surface",
