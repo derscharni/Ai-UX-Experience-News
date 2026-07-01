@@ -8,6 +8,9 @@ This repository serves as a comprehensive collection of daily briefings tracking
 
 > 📰 **[Read the briefings in the web reader →](https://derscharni.github.io/Ai-UX-Experience-News/)**
 > A clean, searchable newsletter-style interface. (Enable via *Settings → Pages → Source: `main` / `docs`*.)
+>
+> 📡 **[Subscribe via RSS →](https://derscharni.github.io/Ai-UX-Experience-News/feed.xml)**
+> Pipe new briefings straight into an RSS-ingestion plugin (Obsidian, Logseq, Readwise Reader, Zapier, …).
 
 The briefings are produced **automatically every weekday** by a research agent (`scripts/research_agent.py`) that searches the web for the latest agent-UX developments and writes each briefing in the house style. See [Automation](#automation) below.
 
@@ -125,8 +128,10 @@ These briefings are generated automatically — no manual research required.
 
 *   **`scripts/research_agent.py`** runs every weekday at 07:00 UTC via [GitHub Actions](.github/workflows/daily_research.yml). It uses the Claude API with web search to research the latest agent-UX developments, writes the briefing in the house style, updates this README, and commits the result.
 *   **`scripts/generate_index.py`** rebuilds `docs/briefings.json`, the index powering the [web reader](https://derscharni.github.io/Ai-UX-Experience-News/).
-*   **`scripts/sync_to_obsidian.py`** is an optional local tool that mirrors the briefings into an Obsidian vault with YAML frontmatter (date, products, tags) for Dataview queries. Copy `scripts/obsidian_config.example.json` to `obsidian_config.json` and set your `vault_path`.
+*   **`scripts/generate_feed.py`** rebuilds `docs/feed.xml`, an RSS 2.0 feed of every briefing — the "live update into a second brain" channel. Any RSS-ingestion plugin (Obsidian, Logseq, Readwise Reader, Zapier/IFTTT, …) can subscribe directly; no polling or scraping needed. Auto-discoverable via the `<link rel="alternate">` tag on the web reader.
+*   **`scripts/sync_to_obsidian.py`** is an optional local tool that mirrors the briefings into an Obsidian vault. Frontmatter follows Google's [Open Knowledge Format](https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf) (OKF) v0.1 core fields (`type`/`title`/`description`/`resource`/`tags`/`timestamp`), plus our own richer domain fields (`products`, `month-theme`) kept as OKF-permitted extensions — so notes are both Dataview-queryable *and* readable by any OKF-aware tool. Copy `scripts/obsidian_config.example.json` to `obsidian_config.json` and set your `vault_path`.
 *   **`scripts/archivist.py`** is the *Archivist* — an optional local tool that cross-links every note in the vault. It scans the synced daily briefings, monthly summaries, and any on-demand research notes (e.g. files saved by the [`/last30days`](https://github.com/mvanhorn/last30days-skill) skill into the configured `research_folder`), computes TF-IDF similarity between them, and appends a `## Related Notes` section of Obsidian `[[wikilinks]]` to each — annotated with the shared products and keywords. It is idempotent, so run it after each sync or research session. Preview with `python scripts/archivist.py --dry-run`.
+*   **`scripts/okf_watch.py`** runs weekly via [GitHub Actions](.github/workflows/okf_watch.yml). It diffs Google's upstream OKF spec against the snapshot in `scripts/okf/` and, when it changed, asks Claude to write a short note to [`docs/okf-alignment-log.md`](docs/okf-alignment-log.md) on what changed and whether our schema should track it. It never edits code itself — schema changes stay a reviewed, human decision, so we can mix in our richer fields now and converge further toward the standard as it matures.
 
 **Setup:** add an `ANTHROPIC_API_KEY` repository secret (*Settings → Secrets and variables → Actions*) and enable Pages (*Settings → Pages → Source: `main` / `docs`*).
 

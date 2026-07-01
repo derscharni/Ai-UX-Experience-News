@@ -32,6 +32,8 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
+from generate_index import extract_excerpt
+
 # ── Paths ──────────────────────────────────────────────────────────────────────
 
 REPO_ROOT    = Path(__file__).parent.parent
@@ -39,6 +41,7 @@ BRIEFINGS_DIR = REPO_ROOT / "briefings"
 SUMMARIES    = sorted(REPO_ROOT.glob("summary-*.md"))
 CONFIG_PATH  = Path(__file__).parent / "obsidian_config.json"
 EXAMPLE_PATH = Path(__file__).parent / "obsidian_config.example.json"
+RAW_BASE     = "https://raw.githubusercontent.com/derscharni/Ai-UX-Experience-News/main"
 
 # ── Product detection ──────────────────────────────────────────────────────────
 
@@ -68,6 +71,11 @@ def detect_products(content: str) -> list[str]:
         if any(kw in lower for kw in keywords):
             found.append(product)
     return found
+
+
+def yaml_escape(text: str) -> str:
+    """Make text safe inside a double-quoted YAML scalar."""
+    return text.replace("\\", "\\\\").replace('"', '\\"')
 
 
 # ── Monthly theme lookup ───────────────────────────────────────────────────────
@@ -108,31 +116,37 @@ def briefing_to_obsidian(path: Path) -> str:
 
     title_match = re.search(r"^# UX Briefing: (.+)$", content, re.MULTILINE)
     title = title_match.group(1).strip() if title_match else path.stem
+    description = extract_excerpt(content)
 
     month_theme = month_theme_title_from_folder(path.parent)
     products     = detect_products(content)
     product_tags = [f"product/{p}" for p in products]
+    resource     = f"{RAW_BASE}/{path.relative_to(REPO_ROOT).as_posix()}"
 
-    # ── Build YAML frontmatter ─────────────────────────────────────────────────
+    # ── Build YAML frontmatter ──────────────────────────────────────────────────
+    # Core fields follow Open Knowledge Format v0.1 (type/title/description/
+    # resource/tags/timestamp — github.com/GoogleCloudPlatform/knowledge-catalog),
+    # so any OKF-aware tool can read these notes too. Everything past `tags` is
+    # a domain-specific extension — OKF explicitly allows and preserves those.
     lines = [
         "---",
-        f"date: {date_str}",
-        f'title: "UX Briefing: {title}"',
-        "type: daily-briefing",
+        "type: Daily Briefing",
+        f'title: "UX Briefing: {yaml_escape(title)}"',
+        f'description: "{yaml_escape(description)}"',
+        f"resource: {resource}",
     ]
+    lines.append("tags:")
+    lines += ["  - ai-ux", "  - briefing"]
+    for t in product_tags:
+        lines.append(f"  - {t}")
+    lines.append(f"timestamp: {date_str}T00:00:00Z")
+    lines.append(f"date: {date_str}")
     if month_theme:
-        lines.append(f'month-theme: "{month_theme}"')
+        lines.append(f'month-theme: "{yaml_escape(month_theme)}"')
     if products:
         lines.append("products:")
         for p in products:
             lines.append(f"  - {PRODUCT_DISPLAY[p]}")
-    lines += [
-        "tags:",
-        "  - ai-ux",
-        "  - briefing",
-    ]
-    for t in product_tags:
-        lines.append(f"  - {t}")
     lines += [
         "source: https://github.com/derscharni/Ai-UX-Experience-News",
         "---",
@@ -160,15 +174,20 @@ def summary_to_obsidian(path: Path) -> str:
 
     title_match = re.search(r"^# (.+)$", content, re.MULTILINE)
     title = title_match.group(1).strip() if title_match else path.stem
+    description = extract_excerpt(content)
+    resource = f"{RAW_BASE}/{path.relative_to(REPO_ROOT).as_posix()}"
 
     lines = [
         "---",
-        f"date: {date_str}",
-        f'title: "{title}"',
-        "type: monthly-summary",
+        "type: Monthly Summary",
+        f'title: "{yaml_escape(title)}"',
+        f'description: "{yaml_escape(description)}"',
+        f"resource: {resource}",
         "tags:",
         "  - ai-ux",
         "  - monthly-summary",
+        f"timestamp: {date_str}T00:00:00Z",
+        f"date: {date_str}",
         "source: https://github.com/derscharni/Ai-UX-Experience-News",
         "---",
         "",

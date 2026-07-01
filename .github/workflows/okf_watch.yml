@@ -1,0 +1,45 @@
+name: OKF Spec Watch
+
+# Watches Google's Open Knowledge Format spec (github.com/GoogleCloudPlatform/
+# knowledge-catalog/tree/main/okf) for changes and logs an alignment note to
+# docs/okf-alignment-log.md when it moves. Runs weekly — the spec doesn't
+# change often, and prompt cost is a full Claude call only when it does.
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  okf-watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install --quiet anthropic
+
+      - name: Configure git identity
+        run: |
+          git config user.name  "AI UX Research Agent"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Check OKF spec for changes
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/okf_watch.py

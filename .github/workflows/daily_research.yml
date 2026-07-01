@@ -63,13 +63,16 @@ jobs:
       - name: Update HTML reader index
         run: python scripts/generate_index.py
 
+      - name: Update RSS feed
+        run: python scripts/generate_feed.py
+
       - name: Commit index update (if changed)
         run: |
-          git add docs/briefings.json
+          git add docs/briefings.json docs/feed.xml
           if git diff --cached --quiet; then
             echo "Index unchanged."
           else
-            git commit -m "Update briefings index for HTML reader"
+            git commit -m "Update briefings index and RSS feed"
             git push origin main
           fi
 
