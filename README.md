@@ -118,6 +118,9 @@ _Briefings are added automatically as they are generated._
 — *The Art of the Interrupt* (`briefings/2026-06-the-art-of-the-interrupt/`)
 _Briefings are added automatically as they are generated._
 
+### July 2026 — *The Visible Safety Layer* (`briefings/2026-07-the-visible-safety-layer/`)
+*   [2026-07-01 - Safeguards, Classifiers, and the No-Code Voice Frontier](briefings/2026-07-the-visible-safety-layer/2026-07-01-safeguards-classifiers-and-the-no-code-voice-frontier.md)
+
 ## Monthly Management Summaries
 
 To provide a high-level overview of the most significant themes and shifts in the agentic ecosystem, concise management summaries (1-2 pages) are available at the top level of this repository. These documents synthesize the daily briefings to highlight the macro trends shaping the future of human-computer interaction.
