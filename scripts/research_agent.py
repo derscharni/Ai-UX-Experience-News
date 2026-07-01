@@ -201,7 +201,7 @@ def research_and_write(date: datetime, examples: str) -> tuple[str, str]:
 
     response = client.beta.messages.create(
         model="claude-sonnet-4-6",
-        max_tokens=5000,
+        max_tokens=8000,
         system=[
             {
                 "type": "text",
@@ -251,7 +251,8 @@ def research_and_write(date: datetime, examples: str) -> tuple[str, str]:
     if missing:
         raise RuntimeError(
             "Generated briefing is malformed — missing sections: "
-            f"{', '.join(missing)}.\n\n"
+            f"{', '.join(missing)}. stop_reason={response.stop_reason!r} "
+            f"(max_tokens likely too low if 'max_tokens').\n\n"
             f"First 500 chars:\n{briefing[:500]}"
         )
 
