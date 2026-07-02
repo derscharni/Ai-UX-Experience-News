@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-01T22:29:23Z",
+  "updated": "2026-07-02T10:16:12Z",
   "briefings": [
+    {
+      "date": "2026-07-02",
+      "title": "Agentic Defaults, Dynamic Workflows, and the Fleet Control Layer",
+      "path": "briefings/2026-07-the-visible-safety-layer/2026-07-02-agentic-defaults-dynamic-workflows-and-the-fleet-control-lay.md",
+      "month_theme": "The Visible Safety Layer",
+      "month_key": "2026-07",
+      "excerpt": "The 48 hours ending July 2 are defined by a decisive shift in where agentic capability lives on the cost and control spectrum: every major platform is racing to make its most powerful agent-grade behaviours the default experience rather tha",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows",
+        "Trust & Safety"
+      ]
+    },
     {
       "date": "2026-07-01",
       "title": "Safeguards, Classifiers, and the No-Code Voice Frontier",

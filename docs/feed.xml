@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Wed, 01 Jul 2026 22:29:23 GMT</lastBuildDate>
-  <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Thu, 02 Jul 2026 10:16:13 GMT</lastBuildDate>
+  <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Agentic Defaults, Dynamic Workflows, and the Fleet Control Layer</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-02-agentic-defaults-dynamic-workflows-and-the-fleet-control-lay.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-02-agentic-defaults-dynamic-workflows-and-the-fleet-control-lay.md</guid>
+    <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending July 2 are defined by a decisive shift in where agentic capability lives on the cost and control spectrum: every major platform is racing to make its most powerful agent-grade behaviours the default experience rather tha</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Agentic Workflows</category>
+    <category>Trust &amp; Safety</category>
+  </item>
   <item>
     <title>Safeguards, Classifiers, and the No-Code Voice Frontier</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-01-safeguards-classifiers-and-the-no-code-voice-frontier.md</link>
@@ -857,20 +872,6 @@
     <category>Perplexity</category>
     <category>Generative UI</category>
     <category>Trust &amp; Safety</category>
-  </item>
-  <item>
-    <title>The Agentic Era Meets the Real World</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-11-the-agentic-era-meets-the-real-world.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-11-the-agentic-era-meets-the-real-world.md</guid>
-    <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
-    <description>A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: the agentic era meets the real world. A landmark court ruling against Perplexity’s agentic browser signals the first major legal </description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Perplexity</category>
-    <category>Browser &amp; Computer Use</category>
-    <category>Generative UI</category>
   </item>
 </channel>
 </rss>
