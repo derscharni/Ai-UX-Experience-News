@@ -120,6 +120,7 @@ _Briefings are added automatically as they are generated._
 
 ### July 2026 — *The Visible Safety Layer* (`briefings/2026-07-the-visible-safety-layer/`)
 *   [2026-07-01 - Safeguards, Classifiers, and the No-Code Voice Frontier](briefings/2026-07-the-visible-safety-layer/2026-07-01-safeguards-classifiers-and-the-no-code-voice-frontier.md)
+*   [2026-07-02 - Agentic Defaults, Dynamic Workflows, and the Fleet Control Layer](briefings/2026-07-the-visible-safety-layer/2026-07-02-agentic-defaults-dynamic-workflows-and-the-fleet-control-lay.md)
 
 ## Monthly Management Summaries
 
