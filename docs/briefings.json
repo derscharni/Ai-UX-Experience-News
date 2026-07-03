@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-02T10:16:12Z",
+  "updated": "2026-07-03T10:12:20Z",
   "briefings": [
+    {
+      "date": "2026-07-03",
+      "title": "The Admin Intelligence Layer and the Browser-Native Agent",
+      "path": "briefings/2026-07-the-visible-safety-layer/2026-07-03-the-admin-intelligence-layer-and-the-browser-native-agent.md",
+      "month_theme": "The Visible Safety Layer",
+      "month_key": "2026-07",
+      "excerpt": "The 48 hours ending July 3 are defined by a decisive pivot from agentic capability rollout to agentic fleet governance — every major platform shipping the monitoring, alerting, auditing, and browser-native control surfaces that make large-s",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Enterprise & Governance"
+      ]
+    },
     {
       "date": "2026-07-02",
       "title": "Agentic Defaults, Dynamic Workflows, and the Fleet Control Layer",
