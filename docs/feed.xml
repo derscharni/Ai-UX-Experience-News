@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Fri, 03 Jul 2026 10:12:20 GMT</lastBuildDate>
-  <pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Mon, 06 Jul 2026 11:05:00 GMT</lastBuildDate>
+  <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>The Governance Reckoning and the Desktop Agent Race</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-06-the-governance-reckoning-and-the-desktop-agent-race.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-06-the-governance-reckoning-and-the-desktop-agent-race.md</guid>
+    <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending July 6 are defined by two simultaneous and intertwined dynamics: the industry-wide arrival of the desktop as the new primary agentic battleground, and the emergence of trust-design infrastructure — classifier disclosures</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Enterprise &amp; Governance</category>
+  </item>
   <item>
     <title>The Admin Intelligence Layer and the Browser-Native Agent</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-03-the-admin-intelligence-layer-and-the-browser-native-agent.md</link>
@@ -858,21 +873,6 @@
     <category>Perplexity</category>
     <category>Generative UI</category>
     <category>Browser &amp; Computer Use</category>
-  </item>
-  <item>
-    <title>The Agent Is the New OS</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-13-the-agent-is-the-new-os.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-13-the-agent-is-the-new-os.md</guid>
-    <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
-    <description>A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: the agent is the new OS. From your car to your code editor to your doctor’s office, agents are becoming the native intelligence l</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Agentic Workflows</category>
-    <category>Enterprise &amp; Governance</category>
   </item>
 </channel>
 </rss>
