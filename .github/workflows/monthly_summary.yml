@@ -1,0 +1,62 @@
+name: Monthly Management Summary
+
+# Runs at 08:00 UTC on the 1st of each month, summarizing the *previous*
+# calendar month's daily briefings. Can also be triggered manually to
+# backfill a specific month via the "Run workflow" button.
+on:
+  schedule:
+    - cron: "0 8 1 * *"
+  workflow_dispatch:
+    inputs:
+      month:
+        description: "Month YYYY-MM to summarize. Empty = previous calendar month."
+        required: false
+        default: ""
+      force:
+        description: "Overwrite an existing summary for the given month."
+        type: boolean
+        required: false
+        default: false
+
+permissions:
+  contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  monthly-summary:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install --quiet anthropic
+
+      - name: Configure git identity
+        run: |
+          git config user.name  "AI UX Research Agent"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Run summary generator
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          ARGS=""
+          if [ -n "${{ github.event.inputs.month }}" ]; then
+            ARGS="--month ${{ github.event.inputs.month }}"
+          fi
+          if [ "${{ github.event.inputs.force }}" = "true" ]; then
+            ARGS="$ARGS --force"
+          fi
+          python scripts/generate_summary.py $ARGS
