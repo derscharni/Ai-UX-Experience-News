@@ -123,6 +123,7 @@ _Briefings are added automatically as they are generated._
 *   [2026-07-02 - Agentic Defaults, Dynamic Workflows, and the Fleet Control Layer](briefings/2026-07-the-visible-safety-layer/2026-07-02-agentic-defaults-dynamic-workflows-and-the-fleet-control-lay.md)
 *   [2026-07-03 - The Admin Intelligence Layer and the Browser-Native Agent](briefings/2026-07-the-visible-safety-layer/2026-07-03-the-admin-intelligence-layer-and-the-browser-native-agent.md)
 *   [2026-07-06 - The Governance Reckoning and the Desktop Agent Race](briefings/2026-07-the-visible-safety-layer/2026-07-06-the-governance-reckoning-and-the-desktop-agent-race.md)
+*   [2026-07-07 - Agentic Defaults, Demonstration Learning, and the Gemini UI Pivot](briefings/2026-07-the-visible-safety-layer/2026-07-07-agentic-defaults-demonstration-learning-and-the-gemini-ui-pi.md)
 
 ## Monthly Management Summaries
 
