@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-06T11:41:34Z",
+  "updated": "2026-07-07T10:32:13Z",
   "briefings": [
+    {
+      "date": "2026-07-07",
+      "title": "Agentic Defaults, Demonstration Learning, and the Gemini UI Pivot",
+      "path": "briefings/2026-07-the-visible-safety-layer/2026-07-07-agentic-defaults-demonstration-learning-and-the-gemini-ui-pi.md",
+      "month_theme": "The Visible Safety Layer",
+      "month_key": "2026-07",
+      "excerpt": "The 48 hours ending July 7 are defined by a decisive shift in how the industry thinks about the default agentic experience — who gets agent-class capability by default, how agents learn new skills without code, and how interfaces must evolv",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows",
+        "Trust & Safety"
+      ]
+    },
     {
       "date": "2026-07-06",
       "title": "The Governance Reckoning and the Desktop Agent Race",
