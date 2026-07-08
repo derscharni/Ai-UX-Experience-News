@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Tue, 07 Jul 2026 10:32:13 GMT</lastBuildDate>
-  <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Wed, 08 Jul 2026 09:33:03 GMT</lastBuildDate>
+  <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>The Cross-Device Agent and the Asynchronous Delegation Moment</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-08-the-cross-device-agent-and-the-asynchronous-delegation-momen.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-08-the-cross-device-agent-and-the-asynchronous-delegation-momen.md</guid>
+    <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending July 8 are defined by the industry's decisive shift to asynchronous, cross-device agent delegation — the moment when persistent AI agents stopped requiring a device to be online and started running in the cloud, sending </description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Agentic Workflows</category>
+  </item>
   <item>
     <title>Agentic Defaults, Demonstration Learning, and the Gemini UI Pivot</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-07-agentic-defaults-demonstration-learning-and-the-gemini-ui-pi.md</link>
@@ -860,20 +875,6 @@
     <category>Perplexity</category>
     <category>Agentic Workflows</category>
     <category>Generative UI</category>
-  </item>
-  <item>
-    <title>The Consolidation</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-15-the-consolidation.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-15-the-consolidation.md</guid>
-    <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
-    <description>A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: The Consolidation. The agentic era is no longer a niche experiment; it’s the new strategic high ground. Meta’s acquisition of Man</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Trust &amp; Safety</category>
-    <category>Agentic Workflows</category>
   </item>
 </channel>
 </rss>
