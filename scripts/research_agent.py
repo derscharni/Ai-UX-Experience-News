@@ -201,7 +201,7 @@ def research_and_write(date: datetime, examples: str) -> tuple[str, str]:
 
     response = client.beta.messages.create(
         model="claude-sonnet-4-6",
-        max_tokens=8000,
+        max_tokens=16000,
         system=[
             {
                 "type": "text",
