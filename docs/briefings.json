@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-08T09:33:03Z",
+  "updated": "2026-07-13T10:36:11Z",
   "briefings": [
+    {
+      "date": "2026-07-13",
+      "title": "The Unified Agent Desktop and the Workspace Execution Race",
+      "path": "briefings/2026-07-the-visible-safety-layer/2026-07-13-the-unified-agent-desktop-and-the-workspace-execution-race.md",
+      "month_theme": "The Visible Safety Layer",
+      "month_key": "2026-07",
+      "excerpt": "The 48 hours ending July 13 are defined by the industry's convergent bet on a single, unified agent desktop — a surface where chat, autonomous execution, and browser control collapse into one app — and by the parallel race to make long-hori",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Browser & Computer Use"
+      ]
+    },
     {
       "date": "2026-07-08",
       "title": "The Cross-Device Agent and the Asynchronous Delegation Moment",
