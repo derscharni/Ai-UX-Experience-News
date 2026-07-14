@@ -126,6 +126,7 @@ _Briefings are added automatically as they are generated._
 *   [2026-07-07 - Agentic Defaults, Demonstration Learning, and the Gemini UI Pivot](briefings/2026-07-the-visible-safety-layer/2026-07-07-agentic-defaults-demonstration-learning-and-the-gemini-ui-pi.md)
 *   [2026-07-08 - The Cross-Device Agent and the Asynchronous Delegation Moment](briefings/2026-07-the-visible-safety-layer/2026-07-08-the-cross-device-agent-and-the-asynchronous-delegation-momen.md)
 *   [2026-07-13 - The Unified Agent Desktop and the Workspace Execution Race](briefings/2026-07-the-visible-safety-layer/2026-07-13-the-unified-agent-desktop-and-the-workspace-execution-race.md)
+*   [2026-07-14 - Generative UI, Messaging Surfaces, and the Accessibility Turn](briefings/2026-07-the-visible-safety-layer/2026-07-14-generative-ui-messaging-surfaces-and-the-accessibility-turn.md)
 
 ## Monthly Management Summaries
 
