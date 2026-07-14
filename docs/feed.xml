@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Mon, 13 Jul 2026 10:36:12 GMT</lastBuildDate>
-  <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Tue, 14 Jul 2026 09:13:11 GMT</lastBuildDate>
+  <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Generative UI, Messaging Surfaces, and the Accessibility Turn</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-14-generative-ui-messaging-surfaces-and-the-accessibility-turn.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-14-generative-ui-messaging-surfaces-and-the-accessibility-turn.md</guid>
+    <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending July 14 are shaped by three simultaneous forces: the generative UI race reaching the consumer Gemini app and Google Search with on-the-fly interactive interfaces; the ambient platform expansion of ChatGPT back onto Whats</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Generative UI</category>
+  </item>
   <item>
     <title>The Unified Agent Desktop and the Workspace Execution Race</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-13-the-unified-agent-desktop-and-the-workspace-execution-race.md</link>
@@ -862,20 +877,6 @@
     <category>Gemini</category>
     <category>Copilot</category>
     <category>Perplexity</category>
-    <category>Agentic Workflows</category>
-  </item>
-  <item>
-    <title>The Agent Comes Home</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-17-the-agent-comes-home.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-17-the-agent-comes-home.md</guid>
-    <pubDate>Tue, 17 Mar 2026 00:00:00 GMT</pubDate>
-    <description>A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: The Agent Comes Home. After a week of rapid expansion, the agent is now moving from the cloud to your local machine. Manus and Pe</description>
-    <category>Claude</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Trust &amp; Safety</category>
     <category>Agentic Workflows</category>
   </item>
 </channel>

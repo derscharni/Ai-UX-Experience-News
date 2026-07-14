@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-13T10:36:11Z",
+  "updated": "2026-07-14T09:13:11Z",
   "briefings": [
+    {
+      "date": "2026-07-14",
+      "title": "Generative UI, Messaging Surfaces, and the Accessibility Turn",
+      "path": "briefings/2026-07-the-visible-safety-layer/2026-07-14-generative-ui-messaging-surfaces-and-the-accessibility-turn.md",
+      "month_theme": "The Visible Safety Layer",
+      "month_key": "2026-07",
+      "excerpt": "The 48 hours ending July 14 are shaped by three simultaneous forces: the generative UI race reaching the consumer Gemini app and Google Search with on-the-fly interactive interfaces; the ambient platform expansion of ChatGPT back onto Whats",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Generative UI"
+      ]
+    },
     {
       "date": "2026-07-13",
       "title": "The Unified Agent Desktop and the Workspace Execution Race",
