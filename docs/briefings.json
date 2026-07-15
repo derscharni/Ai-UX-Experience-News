@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-14T09:13:11Z",
+  "updated": "2026-07-15T09:19:15Z",
   "briefings": [
+    {
+      "date": "2026-07-15",
+      "title": "Voice as Interface, Skills as Memory, and the Browser Expansion",
+      "path": "briefings/2026-07-the-visible-safety-layer/2026-07-15-voice-as-interface-skills-as-memory-and-the-browser-expansio.md",
+      "month_theme": "The Visible Safety Layer",
+      "month_key": "2026-07",
+      "excerpt": "The 48 hours ending July 15 are defined by four simultaneous pressures reshaping the interaction layer of every major AI platform: the arrival of full-duplex voice as a genuine ambient interface primitive, the emergence of domain-specific s",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
+      ]
+    },
     {
       "date": "2026-07-14",
       "title": "Generative UI, Messaging Surfaces, and the Accessibility Turn",

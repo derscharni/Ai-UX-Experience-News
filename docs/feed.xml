@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Tue, 14 Jul 2026 09:13:11 GMT</lastBuildDate>
-  <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Wed, 15 Jul 2026 09:19:15 GMT</lastBuildDate>
+  <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Voice as Interface, Skills as Memory, and the Browser Expansion</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-15-voice-as-interface-skills-as-memory-and-the-browser-expansio.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-15-voice-as-interface-skills-as-memory-and-the-browser-expansio.md</guid>
+    <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending July 15 are defined by four simultaneous pressures reshaping the interaction layer of every major AI platform: the arrival of full-duplex voice as a genuine ambient interface primitive, the emergence of domain-specific s</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Agentic Workflows</category>
+  </item>
   <item>
     <title>Generative UI, Messaging Surfaces, and the Accessibility Turn</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-14-generative-ui-messaging-surfaces-and-the-accessibility-turn.md</link>
@@ -865,19 +880,6 @@
     <category>Perplexity</category>
     <category>Browser &amp; Computer Use</category>
     <category>Enterprise &amp; Governance</category>
-  </item>
-  <item>
-    <title>The Great Rebundling</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-18-the-great-rebundling.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-18-the-great-rebundling.md</guid>
-    <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
-    <description>A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: The Great Rebundling. After a period of rapid, chaotic expansion, the industry is now simplifying and repackaging its offerings. </description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Perplexity</category>
-    <category>Agentic Workflows</category>
   </item>
 </channel>
 </rss>
