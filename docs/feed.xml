@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Wed, 15 Jul 2026 09:19:15 GMT</lastBuildDate>
-  <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Thu, 16 Jul 2026 09:23:20 GMT</lastBuildDate>
+  <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Compliance Surfaces, Sandbox Trust, and the Personalisation Layer</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-16-compliance-surfaces-sandbox-trust-and-the-personalisation-la.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-16-compliance-surfaces-sandbox-trust-and-the-personalisation-la.md</guid>
+    <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending July 16 are defined by four concurrent forces reshaping what "trusted agentic AI" means at the product layer: Claude's self-serve HIPAA configuration landing as a one-step admin flow that eliminates the compliance sales </description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Enterprise &amp; Governance</category>
+    <category>Trust &amp; Safety</category>
+  </item>
   <item>
     <title>Voice as Interface, Skills as Memory, and the Browser Expansion</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-15-voice-as-interface-skills-as-memory-and-the-browser-expansio.md</link>
@@ -866,20 +881,6 @@
     <category>Copilot</category>
     <category>Generative UI</category>
     <category>Trust &amp; Safety</category>
-  </item>
-  <item>
-    <title>Intent is the New Interface</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-19-intent-is-the-new-interface.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-19-intent-is-the-new-interface.md</guid>
-    <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
-    <description>A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: Intent is the New Interface. A landmark report from JPMorgan Chase declares the era of app-switching is ending. The new UX paradi</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Perplexity</category>
-    <category>Browser &amp; Computer Use</category>
-    <category>Enterprise &amp; Governance</category>
   </item>
 </channel>
 </rss>

@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-15T09:19:15Z",
+  "updated": "2026-07-16T09:23:20Z",
   "briefings": [
+    {
+      "date": "2026-07-16",
+      "title": "Compliance Surfaces, Sandbox Trust, and the Personalisation Layer",
+      "path": "briefings/2026-07-the-visible-safety-layer/2026-07-16-compliance-surfaces-sandbox-trust-and-the-personalisation-la.md",
+      "month_theme": "The Visible Safety Layer",
+      "month_key": "2026-07",
+      "excerpt": "The 48 hours ending July 16 are defined by four concurrent forces reshaping what \"trusted agentic AI\" means at the product layer: Claude's self-serve HIPAA configuration landing as a one-step admin flow that eliminates the compliance sales ",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Enterprise & Governance",
+        "Trust & Safety"
+      ]
+    },
     {
       "date": "2026-07-15",
       "title": "Voice as Interface, Skills as Memory, and the Browser Expansion",
