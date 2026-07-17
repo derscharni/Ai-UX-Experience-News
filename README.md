@@ -129,6 +129,7 @@ _Briefings are added automatically as they are generated._
 *   [2026-07-14 - Generative UI, Messaging Surfaces, and the Accessibility Turn](briefings/2026-07-the-visible-safety-layer/2026-07-14-generative-ui-messaging-surfaces-and-the-accessibility-turn.md)
 *   [2026-07-15 - Voice as Interface, Skills as Memory, and the Browser Expansion](briefings/2026-07-the-visible-safety-layer/2026-07-15-voice-as-interface-skills-as-memory-and-the-browser-expansio.md)
 *   [2026-07-16 - Compliance Surfaces, Sandbox Trust, and the Personalisation Layer](briefings/2026-07-the-visible-safety-layer/2026-07-16-compliance-surfaces-sandbox-trust-and-the-personalisation-la.md)
+*   [2026-07-17 - Open Source as Trust Signal, Agentic Memory, and the New Tasks Layer](briefings/2026-07-the-visible-safety-layer/2026-07-17-open-source-as-trust-signal-agentic-memory-and-the-new-tasks.md)
 
 ## Monthly Management Summaries
 
