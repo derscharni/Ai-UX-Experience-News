@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-16T09:23:20Z",
+  "updated": "2026-07-17T09:17:47Z",
   "briefings": [
+    {
+      "date": "2026-07-17",
+      "title": "Open Source as Trust Signal, Agentic Memory, and the New Tasks Layer",
+      "path": "briefings/2026-07-the-visible-safety-layer/2026-07-17-open-source-as-trust-signal-agentic-memory-and-the-new-tasks.md",
+      "month_theme": "The Visible Safety Layer",
+      "month_key": "2026-07",
+      "excerpt": "The 48 hours ending July 17 are defined by a trust crisis and a trust response — both originating from the same product — that make this one of the most consequential windows for agent-safety UX the industry has produced this year. Grok Bui",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Enterprise & Governance"
+      ]
+    },
     {
       "date": "2026-07-16",
       "title": "Compliance Surfaces, Sandbox Trust, and the Personalisation Layer",

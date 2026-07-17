@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Thu, 16 Jul 2026 09:23:20 GMT</lastBuildDate>
-  <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Fri, 17 Jul 2026 09:17:48 GMT</lastBuildDate>
+  <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Open Source as Trust Signal, Agentic Memory, and the New Tasks Layer</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-17-open-source-as-trust-signal-agentic-memory-and-the-new-tasks.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-17-open-source-as-trust-signal-agentic-memory-and-the-new-tasks.md</guid>
+    <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending July 17 are defined by a trust crisis and a trust response — both originating from the same product — that make this one of the most consequential windows for agent-safety UX the industry has produced this year. Grok Bui</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Enterprise &amp; Governance</category>
+  </item>
   <item>
     <title>Compliance Surfaces, Sandbox Trust, and the Personalisation Layer</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-16-compliance-surfaces-sandbox-trust-and-the-personalisation-la.md</link>
@@ -868,19 +883,6 @@
     <category>Grok</category>
     <category>Trust &amp; Safety</category>
     <category>Generative UI</category>
-  </item>
-  <item>
-    <title>The Great Unification</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-20-the-great-unification.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-20-the-great-unification.md</guid>
-    <pubDate>Fri, 20 Mar 2026 00:00:00 GMT</pubDate>
-    <description>A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: The Great Unification. After a week of explosive new features and platforms, the industry is now moving to consolidate. The fragm</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Generative UI</category>
-    <category>Trust &amp; Safety</category>
   </item>
 </channel>
 </rss>
