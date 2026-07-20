@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Fri, 17 Jul 2026 09:17:48 GMT</lastBuildDate>
-  <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Mon, 20 Jul 2026 10:20:50 GMT</lastBuildDate>
+  <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Demonstration-to-Skill, Agent Memory, and the Automation Layer</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-20-demonstration-to-skill-agent-memory-and-the-automation-layer.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-20-demonstration-to-skill-agent-memory-and-the-automation-layer.md</guid>
+    <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending July 20 are defined by the industry's collective bet on a single design premise: agents should be taught by demonstration, not just described by instruction. Grok (xAI/SpaceXAI) ships Automations on July 16 — a first-par</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Memory &amp; Context</category>
+  </item>
   <item>
     <title>Open Source as Trust Signal, Agentic Memory, and the New Tasks Layer</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-17-open-source-as-trust-signal-agentic-memory-and-the-new-tasks.md</link>
@@ -869,20 +884,6 @@
     <category>Perplexity</category>
     <category>Generative UI</category>
     <category>Browser &amp; Computer Use</category>
-  </item>
-  <item>
-    <title>The Agentic Reckoning</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-21-the-agentic-reckoning.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-21-the-agentic-reckoning.md</guid>
-    <pubDate>Sat, 21 Mar 2026 00:00:00 GMT</pubDate>
-    <description>A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: The Agentic Reckoning. After a period of unrestrained expansion, the industry is now facing its first major wave of user-driven c</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Trust &amp; Safety</category>
-    <category>Generative UI</category>
   </item>
 </channel>
 </rss>

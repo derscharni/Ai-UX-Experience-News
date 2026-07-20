@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-17T09:17:47Z",
+  "updated": "2026-07-20T10:20:50Z",
   "briefings": [
+    {
+      "date": "2026-07-20",
+      "title": "Demonstration-to-Skill, Agent Memory, and the Automation Layer",
+      "path": "briefings/2026-07-the-visible-safety-layer/2026-07-20-demonstration-to-skill-agent-memory-and-the-automation-layer.md",
+      "month_theme": "The Visible Safety Layer",
+      "month_key": "2026-07",
+      "excerpt": "The 48 hours ending July 20 are defined by the industry's collective bet on a single design premise: agents should be taught by demonstration, not just described by instruction. Grok (xAI/SpaceXAI) ships Automations on July 16 — a first-par",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Memory & Context"
+      ]
+    },
     {
       "date": "2026-07-17",
       "title": "Open Source as Trust Signal, Agentic Memory, and the New Tasks Layer",
