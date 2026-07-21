@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-20T10:20:50Z",
+  "updated": "2026-07-21T09:35:59Z",
   "briefings": [
+    {
+      "date": "2026-07-21",
+      "title": "Agent Governance, Desktop Locals, and the Bigger Work Surface",
+      "path": "briefings/2026-07-the-visible-safety-layer/2026-07-21-agent-governance-desktop-locals-and-the-bigger-work-surface.md",
+      "month_theme": "The Visible Safety Layer",
+      "month_key": "2026-07",
+      "excerpt": "The 48 hours ending July 21 are shaped by a single structural impulse across the entire industry: the race to plant agent surfaces inside every workspace a user already occupies, while simultaneously hardening the governance layer that make",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Memory & Context"
+      ]
+    },
     {
       "date": "2026-07-20",
       "title": "Demonstration-to-Skill, Agent Memory, and the Automation Layer",

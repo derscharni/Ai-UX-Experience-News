@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Mon, 20 Jul 2026 10:20:50 GMT</lastBuildDate>
-  <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Tue, 21 Jul 2026 09:35:59 GMT</lastBuildDate>
+  <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Agent Governance, Desktop Locals, and the Bigger Work Surface</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-21-agent-governance-desktop-locals-and-the-bigger-work-surface.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-21-agent-governance-desktop-locals-and-the-bigger-work-surface.md</guid>
+    <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending July 21 are shaped by a single structural impulse across the entire industry: the race to plant agent surfaces inside every workspace a user already occupies, while simultaneously hardening the governance layer that make</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Memory &amp; Context</category>
+  </item>
   <item>
     <title>Demonstration-to-Skill, Agent Memory, and the Automation Layer</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-20-demonstration-to-skill-agent-memory-and-the-automation-layer.md</link>
@@ -869,21 +884,6 @@
     <category>Copilot</category>
     <category>Grok</category>
     <category>Perplexity</category>
-  </item>
-  <item>
-    <title>The Agent Comes Home</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-22-the-agent-comes-home.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-22-the-agent-comes-home.md</guid>
-    <pubDate>Sun, 22 Mar 2026 00:00:00 GMT</pubDate>
-    <description>A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: The Agent Comes Home. The frontier of agentic AI is moving from the cloud to your local machine. A new class of desktop agents is</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Generative UI</category>
-    <category>Browser &amp; Computer Use</category>
   </item>
 </channel>
 </rss>
