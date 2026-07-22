@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-21T09:35:59Z",
+  "updated": "2026-07-22T09:35:09Z",
   "briefings": [
+    {
+      "date": "2026-07-22",
+      "title": "Source Transparency, Ambient Agents, and the Open Harness",
+      "path": "briefings/2026-07-the-visible-safety-layer/2026-07-22-source-transparency-ambient-agents-and-the-open-harness.md",
+      "month_theme": "The Visible Safety Layer",
+      "month_key": "2026-07",
+      "excerpt": "The 48 hours ending July 22 are defined by a simultaneous push on two fronts: making agentic work more transparent to the users who authorise it, and expanding the surfaces where ambient agents operate without being asked. Claude Code (Anth",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows",
+        "Trust & Safety"
+      ]
+    },
     {
       "date": "2026-07-21",
       "title": "Agent Governance, Desktop Locals, and the Bigger Work Surface",

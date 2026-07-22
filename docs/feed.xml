@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Tue, 21 Jul 2026 09:35:59 GMT</lastBuildDate>
-  <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Wed, 22 Jul 2026 09:35:09 GMT</lastBuildDate>
+  <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Source Transparency, Ambient Agents, and the Open Harness</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-22-source-transparency-ambient-agents-and-the-open-harness.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-22-source-transparency-ambient-agents-and-the-open-harness.md</guid>
+    <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending July 22 are defined by a simultaneous push on two fronts: making agentic work more transparent to the users who authorise it, and expanding the surfaces where ambient agents operate without being asked. Claude Code (Anth</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Agentic Workflows</category>
+    <category>Trust &amp; Safety</category>
+  </item>
   <item>
     <title>Agent Governance, Desktop Locals, and the Bigger Work Surface</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-21-agent-governance-desktop-locals-and-the-bigger-work-surface.md</link>
@@ -871,19 +886,6 @@
     <category>Copilot</category>
     <category>Perplexity</category>
     <category>Agentic Workflows</category>
-  </item>
-  <item>
-    <title>The Remote Control</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-23-the-remote-control.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-23-the-remote-control.md</guid>
-    <pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
-    <description>A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: The Remote Control. The agent is no longer tethered to a single machine. A new interaction paradigm is emerging where your phone </description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
   </item>
 </channel>
 </rss>
