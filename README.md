@@ -133,6 +133,7 @@ _Briefings are added automatically as they are generated._
 *   [2026-07-20 - Demonstration-to-Skill, Agent Memory, and the Automation Layer](briefings/2026-07-the-visible-safety-layer/2026-07-20-demonstration-to-skill-agent-memory-and-the-automation-layer.md)
 *   [2026-07-21 - Agent Governance, Desktop Locals, and the Bigger Work Surface](briefings/2026-07-the-visible-safety-layer/2026-07-21-agent-governance-desktop-locals-and-the-bigger-work-surface.md)
 *   [2026-07-22 - Source Transparency, Ambient Agents, and the Open Harness](briefings/2026-07-the-visible-safety-layer/2026-07-22-source-transparency-ambient-agents-and-the-open-harness.md)
+*   [2026-07-23 - Voice Choice, Agentic Foldables, and the Workbench Sunset](briefings/2026-07-the-visible-safety-layer/2026-07-23-voice-choice-agentic-foldables-and-the-workbench-sunset.md)
 
 ## Monthly Management Summaries
 
