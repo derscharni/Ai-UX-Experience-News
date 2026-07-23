@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Wed, 22 Jul 2026 09:35:09 GMT</lastBuildDate>
-  <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Thu, 23 Jul 2026 09:32:22 GMT</lastBuildDate>
+  <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Voice Choice, Agentic Foldables, and the Workbench Sunset</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-23-voice-choice-agentic-foldables-and-the-workbench-sunset.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-23-voice-choice-agentic-foldables-and-the-workbench-sunset.md</guid>
+    <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending July 23 are shaped by three distinct design impulses arriving simultaneously: the expansion of model-level choice into interaction modalities that have historically been locked to a single model, the arrival of agentic A</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Memory &amp; Context</category>
+    <category>Trust &amp; Safety</category>
+  </item>
   <item>
     <title>Source Transparency, Ambient Agents, and the Open Harness</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-22-source-transparency-ambient-agents-and-the-open-harness.md</link>
@@ -873,19 +888,6 @@
     <category>Copilot</category>
     <category>Perplexity</category>
     <category>Browser &amp; Computer Use</category>
-  </item>
-  <item>
-    <title>The Agent as the Execution Layer</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-24-the-agent-as-the-execution-layer.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-24-the-agent-as-the-execution-layer.md</guid>
-    <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
-    <description>A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: The Agent as the Execution Layer. The AI is no longer just a chat partner; it’s becoming a true digital worker. New features from</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Perplexity</category>
-    <category>Agentic Workflows</category>
   </item>
 </channel>
 </rss>

@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-22T09:35:09Z",
+  "updated": "2026-07-23T09:32:22Z",
   "briefings": [
+    {
+      "date": "2026-07-23",
+      "title": "Voice Choice, Agentic Foldables, and the Workbench Sunset",
+      "path": "briefings/2026-07-the-visible-safety-layer/2026-07-23-voice-choice-agentic-foldables-and-the-workbench-sunset.md",
+      "month_theme": "The Visible Safety Layer",
+      "month_key": "2026-07",
+      "excerpt": "The 48 hours ending July 23 are shaped by three distinct design impulses arriving simultaneously: the expansion of model-level choice into interaction modalities that have historically been locked to a single model, the arrival of agentic A",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Memory & Context",
+        "Trust & Safety"
+      ]
+    },
     {
       "date": "2026-07-22",
       "title": "Source Transparency, Ambient Agents, and the Open Harness",
