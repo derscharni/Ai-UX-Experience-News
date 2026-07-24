@@ -134,6 +134,7 @@ _Briefings are added automatically as they are generated._
 *   [2026-07-21 - Agent Governance, Desktop Locals, and the Bigger Work Surface](briefings/2026-07-the-visible-safety-layer/2026-07-21-agent-governance-desktop-locals-and-the-bigger-work-surface.md)
 *   [2026-07-22 - Source Transparency, Ambient Agents, and the Open Harness](briefings/2026-07-the-visible-safety-layer/2026-07-22-source-transparency-ambient-agents-and-the-open-harness.md)
 *   [2026-07-23 - Voice Choice, Agentic Foldables, and the Workbench Sunset](briefings/2026-07-the-visible-safety-layer/2026-07-23-voice-choice-agentic-foldables-and-the-workbench-sunset.md)
+*   [2026-07-24 - Voice Model Choice, Health Context, and the Ambient Ambient Surface Expansion](briefings/2026-07-the-visible-safety-layer/2026-07-24-voice-model-choice-health-context-and-the-ambient-ambient-su.md)
 
 ## Monthly Management Summaries
 
