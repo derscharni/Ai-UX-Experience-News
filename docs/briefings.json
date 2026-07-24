@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-23T09:32:22Z",
+  "updated": "2026-07-24T09:29:28Z",
   "briefings": [
+    {
+      "date": "2026-07-24",
+      "title": "Voice Model Choice, Health Context, and the Ambient Ambient Surface Expansion",
+      "path": "briefings/2026-07-the-visible-safety-layer/2026-07-24-voice-model-choice-health-context-and-the-ambient-ambient-su.md",
+      "month_theme": "The Visible Safety Layer",
+      "month_key": "2026-07",
+      "excerpt": "The 48 hours ending July 24 are defined by a simultaneous push across three registers: voice interaction growing up from a convenience feature into a serious work modality, personal health data becoming the newest context layer in AI conver",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Enterprise & Governance"
+      ]
+    },
     {
       "date": "2026-07-23",
       "title": "Voice Choice, Agentic Foldables, and the Workbench Sunset",
