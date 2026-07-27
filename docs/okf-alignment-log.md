@@ -8,6 +8,44 @@ the upstream spec against the snapshot in `scripts/okf/`, and asks Claude to
 summarize what changed and whether it's worth adopting — informational only,
 it never edits code itself.
 
+## 2026-07-27
+
+### `okf/SPEC.md` changed
+
+## What changed
+
+- OKF bumped from v0.1 to v0.2; `timestamp` is superseded by `generated: { by, at }` and the body `# Citations` list is superseded by a `sources` frontmatter block with per-source credibility signals (`author`, `usage_count`, `last_modified`).
+- New optional frontmatter families added: `sources`, `generated`, `verified`, `status`, `stale_after`, plus an actor convention (`human:`, `process:`, `agent/version`).
+- A new concept type `Attested Computation` introduced with `runtime`, `parameters`, `executor`, and `attester` fields.
+- Per-claim attribution moves from numbered body citations to markdown footnotes keyed to `sources[].id`.
+
+## Relevance to our schema
+
+- Our `timestamp` field maps directly to the now-deprecated `generated.at`; §13.1 explicitly names this as a breaking change.
+- Our `## References` body section is structurally analogous to the retired `# Citations` list — both are now superseded by `sources` frontmatter. Our numbering convention differs from OKF's footnote-keyed approach.
+- Our other fields (`type`, `title`, `description`, `resource`, `tags`, `date`, `month-theme`, `products`, `source`) are unaffected.
+
+## Recommendation
+
+**Adopt gradually** — the breaking changes touch `timestamp` and citations but OKF is still pre-1.0 with limited adoption signal.
+
+### `okf/README.md` changed
+
+## OKF README Update: v0.1 → v0.2
+
+**What changed**
+- Spec version bumped from **v0.1 to v0.2** (link now points to SPEC.md v0.2).
+- A new **"Trust, provenance, and freshness"** bullet in Why OKF introduces three new frontmatter fields: `sources` (with credibility signals), `generated`/`verified` (producer/confirmer), and `status`/`stale_after` (currency).
+- The "Mixes structured and unstructured data" bullet now lists `generated` and `status` as example queryable frontmatter keys, replacing the previous generic examples `resource` and `tags`.
+- A fourth sample bundle, **`bundles/acme_retail/`**, was added to the intro and samples sections.
+
+**Relevance to our schema**
+- The new `generated`, `verified`, `status`, and `stale_after` fields don't conflict with our current frontmatter but overlap in intent with our `timestamp` and `date` fields — worth watching.
+- Our citation convention (`## References` h2, numbered with full publisher detail) remains unaffected; OKF's `# Citations` h1 style was not changed.
+
+**Recommendation**
+No action needed — the README documents intent from SPEC.md v0.2, which we haven't reviewed; defer any schema changes until the spec diff is assessed.
+
 ## 2026-07-01 — Baseline: adopted OKF v0.1 core fields
 
 Read OKF v0.1 in full and aligned `scripts/sync_to_obsidian.py`'s frontmatter
