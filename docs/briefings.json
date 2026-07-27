@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-24T09:29:28Z",
+  "updated": "2026-07-27T10:52:20Z",
   "briefings": [
+    {
+      "date": "2026-07-27",
+      "title": "Progressive Tool Access, Parallel Agent Fleets, and the Productivity Workspace Land Grab",
+      "path": "briefings/2026-07-the-visible-safety-layer/2026-07-27-progressive-tool-access-parallel-agent-fleets-and-the-produc.md",
+      "month_theme": "The Visible Safety Layer",
+      "month_key": "2026-07",
+      "excerpt": "The 48 hours ending July 27 are defined by three overlapping design moves arriving in rapid succession: Anthropic shipping its most significant developer-facing agent primitive in months alongside a new consumer default, xAI completing an a",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows",
+        "Trust & Safety"
+      ]
+    },
     {
       "date": "2026-07-24",
       "title": "Voice Model Choice, Health Context, and the Ambient Ambient Surface Expansion",

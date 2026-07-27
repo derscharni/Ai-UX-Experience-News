@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Fri, 24 Jul 2026 09:29:28 GMT</lastBuildDate>
-  <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Mon, 27 Jul 2026 10:52:21 GMT</lastBuildDate>
+  <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Progressive Tool Access, Parallel Agent Fleets, and the Productivity Workspace Land Grab</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-27-progressive-tool-access-parallel-agent-fleets-and-the-produc.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-27-progressive-tool-access-parallel-agent-fleets-and-the-produc.md</guid>
+    <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending July 27 are defined by three overlapping design moves arriving in rapid succession: Anthropic shipping its most significant developer-facing agent primitive in months alongside a new consumer default, xAI completing an a</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Agentic Workflows</category>
+    <category>Trust &amp; Safety</category>
+  </item>
   <item>
     <title>Voice Model Choice, Health Context, and the Ambient Ambient Surface Expansion</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-24-voice-model-choice-health-context-and-the-ambient-ambient-su.md</link>
@@ -874,21 +889,6 @@
     <category>Copilot</category>
     <category>Grok</category>
     <category>Memory &amp; Context</category>
-    <category>Agentic Workflows</category>
-  </item>
-  <item>
-    <title>The Agentic Ecosystem</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-26-the-agentic-ecosystem.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-26-the-agentic-ecosystem.md</guid>
-    <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-    <description>A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: The Agentic Ecosystem. The focus is shifting from standalone chat interfaces to deeply integrated ecosystems. Agents are being em</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Trust &amp; Safety</category>
     <category>Agentic Workflows</category>
   </item>
 </channel>
