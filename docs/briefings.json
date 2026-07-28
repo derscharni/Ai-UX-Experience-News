@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-27T10:52:20Z",
+  "updated": "2026-07-28T09:43:34Z",
   "briefings": [
+    {
+      "date": "2026-07-28",
+      "title": "Subagent Guardrails, Vehicle Agent Expansion, and the AI Watermark Layer",
+      "path": "briefings/2026-07-the-visible-safety-layer/2026-07-28-subagent-guardrails-vehicle-agent-expansion-and-the-ai-water.md",
+      "month_theme": "The Visible Safety Layer",
+      "month_key": "2026-07",
+      "excerpt": "The 48 hours ending July 28 are defined by a wave of trust-design corrections landing simultaneously across very different surfaces: Anthropic shipping a four-day re-tuning of Claude Code's subagent fan-out limits — capping, disabling, and ",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
+      ]
+    },
     {
       "date": "2026-07-27",
       "title": "Progressive Tool Access, Parallel Agent Fleets, and the Productivity Workspace Land Grab",

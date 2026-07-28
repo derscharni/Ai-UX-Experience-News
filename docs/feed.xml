@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Mon, 27 Jul 2026 10:52:21 GMT</lastBuildDate>
-  <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Tue, 28 Jul 2026 09:43:34 GMT</lastBuildDate>
+  <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Subagent Guardrails, Vehicle Agent Expansion, and the AI Watermark Layer</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-28-subagent-guardrails-vehicle-agent-expansion-and-the-ai-water.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-28-subagent-guardrails-vehicle-agent-expansion-and-the-ai-water.md</guid>
+    <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending July 28 are defined by a wave of trust-design corrections landing simultaneously across very different surfaces: Anthropic shipping a four-day re-tuning of Claude Code's subagent fan-out limits — capping, disabling, and </description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Agentic Workflows</category>
+  </item>
   <item>
     <title>Progressive Tool Access, Parallel Agent Fleets, and the Productivity Workspace Land Grab</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-27-progressive-tool-access-parallel-agent-fleets-and-the-produc.md</link>
@@ -876,20 +891,6 @@
     <category>Perplexity</category>
     <category>Agentic Workflows</category>
     <category>Browser &amp; Computer Use</category>
-  </item>
-  <item>
-    <title>The Great Migration</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-27-the-great-migration.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-27-the-great-migration.md</guid>
-    <pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
-    <description>A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: The Great Migration. The focus is shifting from attracting new users to capturing existing ones. Google is rolling out tools to i</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Memory &amp; Context</category>
-    <category>Agentic Workflows</category>
   </item>
 </channel>
 </rss>
