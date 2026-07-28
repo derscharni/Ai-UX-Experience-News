@@ -136,6 +136,7 @@ _Briefings are added automatically as they are generated._
 *   [2026-07-23 - Voice Choice, Agentic Foldables, and the Workbench Sunset](briefings/2026-07-the-visible-safety-layer/2026-07-23-voice-choice-agentic-foldables-and-the-workbench-sunset.md)
 *   [2026-07-24 - Voice Model Choice, Health Context, and the Ambient Ambient Surface Expansion](briefings/2026-07-the-visible-safety-layer/2026-07-24-voice-model-choice-health-context-and-the-ambient-ambient-su.md)
 *   [2026-07-27 - Progressive Tool Access, Parallel Agent Fleets, and the Productivity Workspace Land Grab](briefings/2026-07-the-visible-safety-layer/2026-07-27-progressive-tool-access-parallel-agent-fleets-and-the-produc.md)
+*   [2026-07-28 - Subagent Guardrails, Vehicle Agent Expansion, and the AI Watermark Layer](briefings/2026-07-the-visible-safety-layer/2026-07-28-subagent-guardrails-vehicle-agent-expansion-and-the-ai-water.md)
 
 ## Monthly Management Summaries
 
