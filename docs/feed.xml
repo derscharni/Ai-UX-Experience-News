@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Tue, 28 Jul 2026 09:43:34 GMT</lastBuildDate>
-  <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Wed, 29 Jul 2026 09:46:41 GMT</lastBuildDate>
+  <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Stateless Protocol Infrastructure, Desktop Agent Expansion, and the Governed Voice Layer</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-29-stateless-protocol-infrastructure-desktop-agent-expansion-an.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-29-stateless-protocol-infrastructure-desktop-agent-expansion-an.md</guid>
+    <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending July 29 are shaped by a quartet of structural moves that each resolve a different infrastructure gap in how AI agents connect to, remember, and act within the surfaces users inhabit: Anthropic shipping the MCP 2026-07-28</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Enterprise &amp; Governance</category>
+    <category>Trust &amp; Safety</category>
+  </item>
   <item>
     <title>Subagent Guardrails, Vehicle Agent Expansion, and the AI Watermark Layer</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-28-subagent-guardrails-vehicle-agent-expansion-and-the-ai-water.md</link>
@@ -868,21 +883,6 @@
     <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-29-the-great-unbundling-and-rebundling.md</guid>
     <pubDate>Sun, 29 Mar 2026 00:00:00 GMT</pubDate>
     <description>A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: The Great Unbundling and Rebundling. As Microsoft pulls back on its aggressive, OS-level Copilot integrations in response to user</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Agentic Workflows</category>
-    <category>Browser &amp; Computer Use</category>
-  </item>
-  <item>
-    <title>The Agent is the OS</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-28-the-agent-is-the-os.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-28-the-agent-is-the-os.md</guid>
-    <pubDate>Sat, 28 Mar 2026 00:00:00 GMT</pubDate>
-    <description>A fresh, concise overview of the latest user experience developments in the AI agent landscape. Today’s theme: The Agent is the OS. The race is on to become the primary execution layer for your digital life. Perplexity has launched "Compute</description>
     <category>Claude</category>
     <category>ChatGPT</category>
     <category>Gemini</category>

@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-28T09:43:34Z",
+  "updated": "2026-07-29T09:46:41Z",
   "briefings": [
+    {
+      "date": "2026-07-29",
+      "title": "Stateless Protocol Infrastructure, Desktop Agent Expansion, and the Governed Voice Layer",
+      "path": "briefings/2026-07-the-visible-safety-layer/2026-07-29-stateless-protocol-infrastructure-desktop-agent-expansion-an.md",
+      "month_theme": "The Visible Safety Layer",
+      "month_key": "2026-07",
+      "excerpt": "The 48 hours ending July 29 are shaped by a quartet of structural moves that each resolve a different infrastructure gap in how AI agents connect to, remember, and act within the surfaces users inhabit: Anthropic shipping the MCP 2026-07-28",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Enterprise & Governance",
+        "Trust & Safety"
+      ]
+    },
     {
       "date": "2026-07-28",
       "title": "Subagent Guardrails, Vehicle Agent Expansion, and the AI Watermark Layer",
