@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-29T09:46:41Z",
+  "updated": "2026-07-30T09:37:59Z",
   "briefings": [
+    {
+      "date": "2026-07-30",
+      "title": "Voice Mode Upgrades, Desktop Redesign Reckonings, and the Multi-Model Workspace",
+      "path": "briefings/2026-07-the-visible-safety-layer/2026-07-30-voice-mode-upgrades-desktop-redesign-reckonings-and-the-mult.md",
+      "month_theme": "The Visible Safety Layer",
+      "month_key": "2026-07",
+      "excerpt": "The 48 hours ending July 30 are dominated by four interlocking design stories that share a single uncomfortable thesis: shipping agentic capability fast and correcting the UX in public is now the industry's operating mode, not its exception",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
+      ]
+    },
     {
       "date": "2026-07-29",
       "title": "Stateless Protocol Infrastructure, Desktop Agent Expansion, and the Governed Voice Layer",
