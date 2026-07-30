@@ -138,6 +138,7 @@ _Briefings are added automatically as they are generated._
 *   [2026-07-27 - Progressive Tool Access, Parallel Agent Fleets, and the Productivity Workspace Land Grab](briefings/2026-07-the-visible-safety-layer/2026-07-27-progressive-tool-access-parallel-agent-fleets-and-the-produc.md)
 *   [2026-07-28 - Subagent Guardrails, Vehicle Agent Expansion, and the AI Watermark Layer](briefings/2026-07-the-visible-safety-layer/2026-07-28-subagent-guardrails-vehicle-agent-expansion-and-the-ai-water.md)
 *   [2026-07-29 - Stateless Protocol Infrastructure, Desktop Agent Expansion, and the Governed Voice Layer](briefings/2026-07-the-visible-safety-layer/2026-07-29-stateless-protocol-infrastructure-desktop-agent-expansion-an.md)
+*   [2026-07-30 - Voice Mode Upgrades, Desktop Redesign Reckonings, and the Multi-Model Workspace](briefings/2026-07-the-visible-safety-layer/2026-07-30-voice-mode-upgrades-desktop-redesign-reckonings-and-the-mult.md)
 
 ## Monthly Management Summaries
 
