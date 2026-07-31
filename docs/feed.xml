@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Thu, 30 Jul 2026 09:37:59 GMT</lastBuildDate>
-  <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Fri, 31 Jul 2026 09:53:24 GMT</lastBuildDate>
+  <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Infrastructure Outages, Generative UI Canvases, and the Hardware Agent Frontier</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-31-infrastructure-outages-generative-ui-canvases-and-the-hardwa.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-31-infrastructure-outages-generative-ui-canvases-and-the-hardwa.md</guid>
+    <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending July 31 are shaped by four stories that each expose a different seam in the agent-to-human interface stack: Anthropic is recovering from back-to-back network failures on July 29–30 that produced the industry's most conce</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Identity &amp; Security</category>
+  </item>
   <item>
     <title>Voice Mode Upgrades, Desktop Redesign Reckonings, and the Multi-Model Workspace</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-30-voice-mode-upgrades-desktop-redesign-reckonings-and-the-mult.md</link>
@@ -875,21 +890,6 @@
     <category>Grok</category>
     <category>Perplexity</category>
     <category>Trust &amp; Safety</category>
-    <category>Agentic Workflows</category>
-  </item>
-  <item>
-    <title>The Agent Becomes the OS</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-31-the-agent-becomes-the-os.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-03-the-agent-becomes-the-os%2F2026-03-31-the-agent-becomes-the-os.md</guid>
-    <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
-    <description>Today's briefing focuses on a significant strategic shift: the AI agent moving from a cloud-based assistant to a locally-integrated operating system. Major updates from Manus, Google, and Apple signal a future where agents interact directly</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Memory &amp; Context</category>
     <category>Agentic Workflows</category>
   </item>
 </channel>

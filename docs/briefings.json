@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-30T09:37:59Z",
+  "updated": "2026-07-31T09:53:24Z",
   "briefings": [
+    {
+      "date": "2026-07-31",
+      "title": "Infrastructure Outages, Generative UI Canvases, and the Hardware Agent Frontier",
+      "path": "briefings/2026-07-the-visible-safety-layer/2026-07-31-infrastructure-outages-generative-ui-canvases-and-the-hardwa.md",
+      "month_theme": "The Visible Safety Layer",
+      "month_key": "2026-07",
+      "excerpt": "The 48 hours ending July 31 are shaped by four stories that each expose a different seam in the agent-to-human interface stack: Anthropic is recovering from back-to-back network failures on July 29–30 that produced the industry's most conce",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Identity & Security"
+      ]
+    },
     {
       "date": "2026-07-30",
       "title": "Voice Mode Upgrades, Desktop Redesign Reckonings, and the Multi-Model Workspace",
