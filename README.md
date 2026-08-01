@@ -148,6 +148,8 @@ To provide a high-level overview of the most significant themes and shifts in th
 *   [**February 2026 Summary**](summary-2026-02.md): Focuses on the operationalization of agentic AI, the shift from chat assistants to active workflow participants, and the emergence of new business models and multi-model orchestration.
 *   [**March 2026 Summary**](summary-2026-03.md): Highlights the migration of AI agents to the local desktop ("The Agent Comes Home"), the rise of generative UI ("Intent is the New Interface"), and the industry's response to user pushback against aggressive AI integration.
 *   [**April 2026 Summary**](summary-2026-04.md): Details the formalization of Agentic UX patterns, the fragmentation of generic chat windows into specialized workspaces, and the expansion of multimodal, multi-agent workflows.
+*   [**July 2026 Summary**](summary-2026-07.md): Details the industry's simultaneous scaling of agentic AI into ambient, always-present infrastructure and the urgent construction of the governance, transparency, and auditability layers required to make that expanded autonomy deployable and trustworthy at organisational scale.
+
 
 ## Automation
 
