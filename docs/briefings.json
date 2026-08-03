@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-31T09:53:24Z",
+  "updated": "2026-08-03T10:52:51Z",
   "briefings": [
+    {
+      "date": "2026-08-03",
+      "title": "Surface Consolidations, Ambient Overlay Redesigns, and the Voice Agent Threshold",
+      "path": "briefings/2026-08-the-ambient-surface-takes-over/2026-08-03-surface-consolidations-ambient-overlay-redesigns-and-the-voi.md",
+      "month_theme": "The Ambient Surface Takes Over",
+      "month_key": "2026-08",
+      "excerpt": "The 48 hours ending August 3 are defined by a single structural thesis playing out across four separate platforms simultaneously: the standalone AI product surface is dying, and the ambient-embedded surface is winning. Google delivers the m",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Browser & Computer Use"
+      ]
+    },
     {
       "date": "2026-07-31",
       "title": "Infrastructure Outages, Generative UI Canvases, and the Hardware Agent Frontier",
@@ -1840,6 +1860,10 @@
     }
   ],
   "summaries": [
+    {
+      "month": "2026-07",
+      "path": "summary-2026-07.md"
+    },
     {
       "month": "2026-04",
       "path": "summary-2026-04.md"
