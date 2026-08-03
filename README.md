@@ -141,6 +141,9 @@ _Briefings are added automatically as they are generated._
 *   [2026-07-30 - Voice Mode Upgrades, Desktop Redesign Reckonings, and the Multi-Model Workspace](briefings/2026-07-the-visible-safety-layer/2026-07-30-voice-mode-upgrades-desktop-redesign-reckonings-and-the-mult.md)
 *   [2026-07-31 - Infrastructure Outages, Generative UI Canvases, and the Hardware Agent Frontier](briefings/2026-07-the-visible-safety-layer/2026-07-31-infrastructure-outages-generative-ui-canvases-and-the-hardwa.md)
 
+### August 2026 — *The Ambient Surface Takes Over* (`briefings/2026-08-the-ambient-surface-takes-over/`)
+*   [2026-08-03 - Surface Consolidations, Ambient Overlay Redesigns, and the Voice Agent Threshold](briefings/2026-08-the-ambient-surface-takes-over/2026-08-03-surface-consolidations-ambient-overlay-redesigns-and-the-voi.md)
+
 ## Monthly Management Summaries
 
 To provide a high-level overview of the most significant themes and shifts in the agentic ecosystem, concise management summaries (1-2 pages) are available at the top level of this repository. These documents synthesize the daily briefings to highlight the macro trends shaping the future of human-computer interaction.
