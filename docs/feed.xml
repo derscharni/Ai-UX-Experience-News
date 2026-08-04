@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Mon, 03 Aug 2026 10:52:51 GMT</lastBuildDate>
-  <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Tue, 04 Aug 2026 09:45:48 GMT</lastBuildDate>
+  <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Voice-as-Agent-Controller, Inline Visuals, and the Compliance-First Recap</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-08-the-ambient-surface-takes-over%2F2026-08-04-voice-as-agent-controller-inline-visuals-and-the-compliance.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-08-the-ambient-surface-takes-over%2F2026-08-04-voice-as-agent-controller-inline-visuals-and-the-compliance.md</guid>
+    <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending August 4 are shaped by four interaction-design inflection points happening simultaneously across the industry's major platforms: OpenAI has put voice directly inside the ChatGPT desktop app as a multi-agent controller — </description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Enterprise &amp; Governance</category>
+  </item>
   <item>
     <title>Surface Consolidations, Ambient Overlay Redesigns, and the Voice Agent Threshold</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-08-the-ambient-surface-takes-over%2F2026-08-03-surface-consolidations-ambient-overlay-redesigns-and-the-voi.md</link>
@@ -875,20 +890,6 @@
     <category>Copilot</category>
     <category>Grok</category>
     <category>Perplexity</category>
-    <category>Agentic Workflows</category>
-    <category>Trust &amp; Safety</category>
-  </item>
-  <item>
-    <title>The Push for Precision and Desktop Control</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-03-the-push-for-precision-and-desktop-control.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-03-the-push-for-precision-and-desktop-control.md</guid>
-    <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
-    <description>Today's briefing highlights a significant shift in AI agent interaction: moving beyond simple chat interfaces to deep desktop integration and multi-agent precision. As products like Claude and Grok introduce direct computer control and coll</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
     <category>Agentic Workflows</category>
     <category>Trust &amp; Safety</category>
   </item>
