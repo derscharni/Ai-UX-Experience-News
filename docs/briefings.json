@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-04T09:45:48Z",
+  "updated": "2026-08-10T08:47:42Z",
   "briefings": [
+    {
+      "date": "2026-08-10",
+      "title": "Safety Defaults Flipped, Identity Layers Launched, and the Image Editor Rises",
+      "path": "briefings/2026-08-the-ambient-surface-takes-over/2026-08-10-safety-defaults-flipped-identity-layers-launched-and-the-ima.md",
+      "month_theme": "The Ambient Surface Takes Over",
+      "month_key": "2026-08",
+      "excerpt": "The 48 hours ending August 10 are defined by a single quiet but profound shift in the human-agent control relationship: every major platform in this window is moving a default that previously required a human to say yes and replacing it wit",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Enterprise & Governance"
+      ]
+    },
     {
       "date": "2026-08-04",
       "title": "Voice-as-Agent-Controller, Inline Visuals, and the Compliance-First Recap",

@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Tue, 04 Aug 2026 09:45:48 GMT</lastBuildDate>
-  <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Mon, 10 Aug 2026 08:47:42 GMT</lastBuildDate>
+  <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Safety Defaults Flipped, Identity Layers Launched, and the Image Editor Rises</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-08-the-ambient-surface-takes-over%2F2026-08-10-safety-defaults-flipped-identity-layers-launched-and-the-ima.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-08-the-ambient-surface-takes-over%2F2026-08-10-safety-defaults-flipped-identity-layers-launched-and-the-ima.md</guid>
+    <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending August 10 are defined by a single quiet but profound shift in the human-agent control relationship: every major platform in this window is moving a default that previously required a human to say yes and replacing it wit</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Enterprise &amp; Governance</category>
+  </item>
   <item>
     <title>Voice-as-Agent-Controller, Inline Visuals, and the Compliance-First Recap</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-08-the-ambient-surface-takes-over%2F2026-08-04-voice-as-agent-controller-inline-visuals-and-the-compliance.md</link>
@@ -877,21 +892,6 @@
     <category>Grok</category>
     <category>Trust &amp; Safety</category>
     <category>Agentic Workflows</category>
-  </item>
-  <item>
-    <title>The Ecosystem Walls Are Closing In</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-04-the-ecosystem-walls-are-closing-in.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-04-the-ecosystem-walls-are-closing-in.md</guid>
-    <pubDate>Sat, 04 Apr 2026 00:00:00 GMT</pubDate>
-    <description>Today's briefing highlights a growing tension in the AI agent space: the push for deeper, frictionless integration versus the tightening of ecosystem walls. As agents become more capable, companies are moving to control the UI layer, restri</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Agentic Workflows</category>
-    <category>Trust &amp; Safety</category>
   </item>
 </channel>
 </rss>
