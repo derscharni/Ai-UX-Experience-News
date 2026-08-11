@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-10T08:47:42Z",
+  "updated": "2026-08-11T08:15:32Z",
   "briefings": [
+    {
+      "date": "2026-08-11",
+      "title": "Reasoning Controls Democratised, Meeting Memory Defaults, and the Government Agent",
+      "path": "briefings/2026-08-the-ambient-surface-takes-over/2026-08-11-reasoning-controls-democratised-meeting-memory-defaults-and.md",
+      "month_theme": "The Ambient Surface Takes Over",
+      "month_key": "2026-08",
+      "excerpt": "The 48 hours ending August 11 are shaped by three converging design pressures that touch every layer of the human-agent stack simultaneously: OpenAI executes the most consequential free-tier interaction redesign in ChatGPT's history, replac",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
+      ]
+    },
     {
       "date": "2026-08-10",
       "title": "Safety Defaults Flipped, Identity Layers Launched, and the Image Editor Rises",
