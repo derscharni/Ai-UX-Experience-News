@@ -146,6 +146,7 @@ _Briefings are added automatically as they are generated._
 *   [2026-08-04 - Voice-as-Agent-Controller, Inline Visuals, and the Compliance-First Recap](briefings/2026-08-the-ambient-surface-takes-over/2026-08-04-voice-as-agent-controller-inline-visuals-and-the-compliance.md)
 *   [2026-08-10 - Safety Defaults Flipped, Identity Layers Launched, and the Image Editor Rises](briefings/2026-08-the-ambient-surface-takes-over/2026-08-10-safety-defaults-flipped-identity-layers-launched-and-the-ima.md)
 *   [2026-08-11 - Reasoning Controls Democratised, Meeting Memory Defaults, and the Government Agent](briefings/2026-08-the-ambient-surface-takes-over/2026-08-11-reasoning-controls-democratised-meeting-memory-defaults-and.md)
+*   [2026-08-12 - Provenance Signals, Persistent Agents, and the Multi-Model Reviewer](briefings/2026-08-the-ambient-surface-takes-over/2026-08-12-provenance-signals-persistent-agents-and-the-multi-model-rev.md)
 
 ## Monthly Management Summaries
 
