@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-11T08:15:32Z",
+  "updated": "2026-08-12T08:26:48Z",
   "briefings": [
+    {
+      "date": "2026-08-12",
+      "title": "Provenance Signals, Persistent Agents, and the Multi-Model Reviewer",
+      "path": "briefings/2026-08-the-ambient-surface-takes-over/2026-08-12-provenance-signals-persistent-agents-and-the-multi-model-rev.md",
+      "month_theme": "The Ambient Surface Takes Over",
+      "month_key": "2026-08",
+      "excerpt": "The 48 hours ending August 12 are defined by three parallel design bets about what makes an agentic AI system trustworthy enough to hand real work to. Anthropic executes the most significant output-transparency infrastructure event of the y",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
+      ]
+    },
     {
       "date": "2026-08-11",
       "title": "Reasoning Controls Democratised, Meeting Memory Defaults, and the Government Agent",
