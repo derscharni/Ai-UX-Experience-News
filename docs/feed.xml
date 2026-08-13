@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Wed, 12 Aug 2026 08:26:48 GMT</lastBuildDate>
-  <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Thu, 13 Aug 2026 08:29:26 GMT</lastBuildDate>
+  <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Auto Mode Defaults, Connected Ecosystems, and the Long-Running Agent</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-08-the-ambient-surface-takes-over%2F2026-08-13-auto-mode-defaults-connected-ecosystems-and-the-long-running.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-08-the-ambient-surface-takes-over%2F2026-08-13-auto-mode-defaults-connected-ecosystems-and-the-long-running.md</guid>
+    <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending August 13 are shaped by four converging design pressures that each answer a different version of the same question: how much should an AI agent do before it pauses for a human? Anthropic executes the most consequential p</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Agentic Workflows</category>
+  </item>
   <item>
     <title>Provenance Signals, Persistent Agents, and the Multi-Model Reviewer</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-08-the-ambient-surface-takes-over%2F2026-08-12-provenance-signals-persistent-agents-and-the-multi-model-rev.md</link>
@@ -880,20 +895,6 @@
     <category>Grok</category>
     <category>Perplexity</category>
     <category>Agentic Workflows</category>
-  </item>
-  <item>
-    <title>Formalizing the Agentic Interface</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-08-formalizing-the-agentic-interface.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-08-formalizing-the-agentic-interface.md</guid>
-    <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
-    <description>Today's briefing marks a turning point in how we design for AI. We are moving past the experimental phase of "chatting with a bot" into a formalized discipline of Agentic UX. The design community has codified standard interface patterns for</description>
-    <category>Claude</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Trust &amp; Safety</category>
-    <category>Generative UI</category>
   </item>
 </channel>
 </rss>
