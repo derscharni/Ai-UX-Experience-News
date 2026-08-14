@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-13T08:29:26Z",
+  "updated": "2026-08-14T08:25:00Z",
   "briefings": [
+    {
+      "date": "2026-08-14",
+      "title": "Subagent Defaults, App Consolidation, and the Permission Inversion",
+      "path": "briefings/2026-08-the-ambient-surface-takes-over/2026-08-14-subagent-defaults-app-consolidation-and-the-permission-inver.md",
+      "month_theme": "The Ambient Surface Takes Over",
+      "month_key": "2026-08",
+      "excerpt": "The 48 hours ending August 14 are defined by three interlocking design bets about where the human-agent permission boundary should sit — and one platform consolidation that surgically removes the features that failed to find their place on ",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
+      ]
+    },
     {
       "date": "2026-08-13",
       "title": "Auto Mode Defaults, Connected Ecosystems, and the Long-Running Agent",
