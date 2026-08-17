@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Fri, 14 Aug 2026 08:25:00 GMT</lastBuildDate>
-  <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Mon, 17 Aug 2026 07:59:49 GMT</lastBuildDate>
+  <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Provenance Signals, Generative Canvases, and the Ambient Desktop Agent</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-08-the-ambient-surface-takes-over%2F2026-08-17-provenance-signals-generative-canvases-and-the-ambient-deskt.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-08-the-ambient-surface-takes-over%2F2026-08-17-provenance-signals-generative-canvases-and-the-ambient-deskt.md</guid>
+    <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending August 17 are shaped by four distinct but converging design bets about what AI agents should leave behind — in the workspace, on the filesystem, and in the output itself. Anthropic makes its most consequential trust-tran</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Enterprise &amp; Governance</category>
+    <category>Generative UI</category>
+  </item>
   <item>
     <title>Subagent Defaults, App Consolidation, and the Permission Inversion</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-08-the-ambient-surface-takes-over%2F2026-08-14-subagent-defaults-app-consolidation-and-the-permission-inver.md</link>
@@ -881,21 +896,6 @@
     <category>Perplexity</category>
     <category>Generative UI</category>
     <category>Agentic Workflows</category>
-  </item>
-  <item>
-    <title>The Agentic Workspace Unifies</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-10-the-agentic-workspace-unifies.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-10-the-agentic-workspace-unifies.md</guid>
-    <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-    <description>Today's briefing highlights a major trend toward workspace unification. AI agents are no longer just discrete chatbots; they are absorbing entire workflows and integrating deeply with the tools we already use, from Google Workspace to Micro</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Agentic Workflows</category>
-    <category>Trust &amp; Safety</category>
   </item>
 </channel>
 </rss>

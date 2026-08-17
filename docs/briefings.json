@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-14T08:25:00Z",
+  "updated": "2026-08-17T07:59:48Z",
   "briefings": [
+    {
+      "date": "2026-08-17",
+      "title": "Provenance Signals, Generative Canvases, and the Ambient Desktop Agent",
+      "path": "briefings/2026-08-the-ambient-surface-takes-over/2026-08-17-provenance-signals-generative-canvases-and-the-ambient-deskt.md",
+      "month_theme": "The Ambient Surface Takes Over",
+      "month_key": "2026-08",
+      "excerpt": "The 48 hours ending August 17 are shaped by four distinct but converging design bets about what AI agents should leave behind — in the workspace, on the filesystem, and in the output itself. Anthropic makes its most consequential trust-tran",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Enterprise & Governance",
+        "Generative UI"
+      ]
+    },
     {
       "date": "2026-08-14",
       "title": "Subagent Defaults, App Consolidation, and the Permission Inversion",
