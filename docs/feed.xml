@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Mon, 17 Aug 2026 07:59:49 GMT</lastBuildDate>
-  <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Tue, 18 Aug 2026 07:47:33 GMT</lastBuildDate>
+  <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Super App Scaffolding, Push-Event Agents, and the API Unification Wave</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-08-the-ambient-surface-takes-over%2F2026-08-18-super-app-scaffolding-push-event-agents-and-the-api-unificat.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-08-the-ambient-surface-takes-over%2F2026-08-18-super-app-scaffolding-push-event-agents-and-the-api-unificat.md</guid>
+    <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending August 18 are shaped by four overlapping design bets about where platforms draw the line between what an agent does invisibly and what it surfaces to a human — and by one retirement day that lands exactly on schedule. Mi</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Enterprise &amp; Governance</category>
+    <category>Trust &amp; Safety</category>
+  </item>
   <item>
     <title>Provenance Signals, Generative Canvases, and the Ambient Desktop Agent</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-08-the-ambient-surface-takes-over%2F2026-08-17-provenance-signals-generative-canvases-and-the-ambient-deskt.md</link>
@@ -881,21 +896,6 @@
     <category>Perplexity</category>
     <category>Agentic Workflows</category>
     <category>Trust &amp; Safety</category>
-  </item>
-  <item>
-    <title>The UI Retreats, The Agent Advances</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-11-the-ui-retreats-the-agent-advances.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-11-the-ui-retreats-the-agent-advances.md</guid>
-    <pubDate>Sat, 11 Apr 2026 00:00:00 GMT</pubDate>
-    <description>Today's briefing highlights a fascinating contradiction in agent UX: as the underlying models become vastly more capable of complex, autonomous execution, the user interfaces are actually retreating. We are seeing a shift away from omnipres</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Generative UI</category>
-    <category>Agentic Workflows</category>
   </item>
 </channel>
 </rss>
