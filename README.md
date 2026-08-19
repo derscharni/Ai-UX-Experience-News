@@ -151,6 +151,7 @@ _Briefings are added automatically as they are generated._
 *   [2026-08-14 - Subagent Defaults, App Consolidation, and the Permission Inversion](briefings/2026-08-the-ambient-surface-takes-over/2026-08-14-subagent-defaults-app-consolidation-and-the-permission-inver.md)
 *   [2026-08-17 - Provenance Signals, Generative Canvases, and the Ambient Desktop Agent](briefings/2026-08-the-ambient-surface-takes-over/2026-08-17-provenance-signals-generative-canvases-and-the-ambient-deskt.md)
 *   [2026-08-18 - Super App Scaffolding, Push-Event Agents, and the API Unification Wave](briefings/2026-08-the-ambient-surface-takes-over/2026-08-18-super-app-scaffolding-push-event-agents-and-the-api-unificat.md)
+*   [2026-08-19 - Retirement Cadence, Self-Hosted Agents, and the Governance Build-Out](briefings/2026-08-the-ambient-surface-takes-over/2026-08-19-retirement-cadence-self-hosted-agents-and-the-governance-bui.md)
 
 ## Monthly Management Summaries
 
