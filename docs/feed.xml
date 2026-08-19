@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Tue, 18 Aug 2026 07:47:33 GMT</lastBuildDate>
-  <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Wed, 19 Aug 2026 07:48:50 GMT</lastBuildDate>
+  <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Retirement Cadence, Self-Hosted Agents, and the Governance Build-Out</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-08-the-ambient-surface-takes-over%2F2026-08-19-retirement-cadence-self-hosted-agents-and-the-governance-bui.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-08-the-ambient-surface-takes-over%2F2026-08-19-retirement-cadence-self-hosted-agents-and-the-governance-bui.md</guid>
+    <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending August 19 are shaped by a platform-wide pattern: every major AI agent product is simultaneously retiring its weakest consumer-facing experiments while hardening the enterprise governance infrastructure that underlies its</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Enterprise &amp; Governance</category>
+    <category>Trust &amp; Safety</category>
+  </item>
   <item>
     <title>Super App Scaffolding, Push-Event Agents, and the API Unification Wave</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-08-the-ambient-surface-takes-over%2F2026-08-18-super-app-scaffolding-push-event-agents-and-the-api-unificat.md</link>
@@ -882,20 +897,6 @@
     <category>Grok</category>
     <category>Enterprise &amp; Governance</category>
     <category>Generative UI</category>
-  </item>
-  <item>
-    <title>The Customization Era Begins</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-14-the-customization-era-begins.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-14-the-customization-era-begins.md</guid>
-    <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
-    <description>Today's briefing highlights a shift toward deep user customization and strategic interface refinement. While some agents are expanding their capabilities to allow users to build custom workflows and compare models, others are actively retre</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Perplexity</category>
-    <category>Agentic Workflows</category>
-    <category>Trust &amp; Safety</category>
   </item>
 </channel>
 </rss>
