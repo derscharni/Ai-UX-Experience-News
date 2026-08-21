@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Thu, 20 Aug 2026 07:51:03 GMT</lastBuildDate>
-  <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Fri, 21 Aug 2026 07:52:14 GMT</lastBuildDate>
+  <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Ambient Agents, iMessage Access, and AI Output Provenance</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-08-the-ambient-surface-takes-over%2F2026-08-21-ambient-agents-imessage-access-and-ai-output-provenance.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-08-the-ambient-surface-takes-over%2F2026-08-21-ambient-agents-imessage-access-and-ai-output-provenance.md</guid>
+    <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending August 21 are shaped by a single macro-UX tension playing out simultaneously on every platform: the push to make AI agents more deeply embedded in the fabric of the human's existing environment — and the governance quest</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Agentic Workflows</category>
+  </item>
   <item>
     <title>Output Verbosity, Teen Safety Rails, and the Generative Canvas Surge</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-08-the-ambient-surface-takes-over%2F2026-08-20-output-verbosity-teen-safety-rails-and-the-generative-canvas.md</link>
@@ -883,21 +898,6 @@
     <category>Perplexity</category>
     <category>Agentic Workflows</category>
     <category>Multimodal</category>
-  </item>
-  <item>
-    <title>The UI Fragments into Specialized Workspaces</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-16-the-ui-fragments-into-specialized-workspaces.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-16-the-ui-fragments-into-specialized-workspaces.md</guid>
-    <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
-    <description>Today's briefing highlights a clear fragmentation in agent UX. The "one-size-fits-all" chat window is breaking apart into highly specialized interfaces: developer dashboards, unified document workspaces, and deeply integrated data tools. As</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Agentic Workflows</category>
-    <category>Enterprise &amp; Governance</category>
   </item>
 </channel>
 </rss>
