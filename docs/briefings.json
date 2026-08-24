@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-21T07:52:14Z",
+  "updated": "2026-08-24T08:03:47Z",
   "briefings": [
+    {
+      "date": "2026-08-24",
+      "title": "Credential-Bearing Agents, Governed Toolchains, and the Approval-Gate Reckoning",
+      "path": "briefings/2026-08-the-ambient-surface-takes-over/2026-08-24-credential-bearing-agents-governed-toolchains-and-the-approv.md",
+      "month_theme": "The Ambient Surface Takes Over",
+      "month_key": "2026-08",
+      "excerpt": "The 48 hours ending August 24 are defined by a single escalating UX pressure point playing out simultaneously on every platform: AI agents are now acquiring credentials, signing into apps, and running in the background across cloud computer",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows",
+        "Trust & Safety"
+      ]
+    },
     {
       "date": "2026-08-21",
       "title": "Ambient Agents, iMessage Access, and AI Output Provenance",

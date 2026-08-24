@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Fri, 21 Aug 2026 07:52:14 GMT</lastBuildDate>
-  <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Mon, 24 Aug 2026 08:03:48 GMT</lastBuildDate>
+  <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Credential-Bearing Agents, Governed Toolchains, and the Approval-Gate Reckoning</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-08-the-ambient-surface-takes-over%2F2026-08-24-credential-bearing-agents-governed-toolchains-and-the-approv.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-08-the-ambient-surface-takes-over%2F2026-08-24-credential-bearing-agents-governed-toolchains-and-the-approv.md</guid>
+    <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending August 24 are defined by a single escalating UX pressure point playing out simultaneously on every platform: AI agents are now acquiring credentials, signing into apps, and running in the background across cloud computer</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Agentic Workflows</category>
+    <category>Trust &amp; Safety</category>
+  </item>
   <item>
     <title>Ambient Agents, iMessage Access, and AI Output Provenance</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-08-the-ambient-surface-takes-over%2F2026-08-21-ambient-agents-imessage-access-and-ai-output-provenance.md</link>
@@ -883,21 +898,6 @@
     <category>Perplexity</category>
     <category>Browser &amp; Computer Use</category>
     <category>Agentic Workflows</category>
-  </item>
-  <item>
-    <title>The Multimodal Shift and Agentic Expansion</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-17-the-multimodal-shift-and-agentic-expansion.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-17-the-multimodal-shift-and-agentic-expansion.md</guid>
-    <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
-    <description>Today's briefing highlights a major leap forward in multimodal capabilities and deeper system integration across the leading AI agents. The focus is shifting from text-based interaction to seamless visual, auditory, and cross-application wo</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Agentic Workflows</category>
-    <category>Multimodal</category>
   </item>
 </channel>
 </rss>
