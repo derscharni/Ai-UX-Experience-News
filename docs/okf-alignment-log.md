@@ -8,6 +8,46 @@ the upstream spec against the snapshot in `scripts/okf/`, and asks Claude to
 summarize what changed and whether it's worth adopting — informational only,
 it never edits code itself.
 
+## 2026-08-24
+
+### `okf/SPEC.md` changed
+
+## OKF SPEC.md — patch notes
+
+**What changed**
+
+- All date-only values (`stale_after`, `last_modified`, `usage_window.from/to`) are now full ISO 8601 datetimes with explicit UTC offset (e.g. `2026-09-23T00:00:00Z`), not bare `YYYY-MM-DD` dates.
+- `stale_after` semantics shifted from `today >= stale_after` (date comparison) to `now >= stale_after` (instant comparison).
+- A new preamble in §5 explicitly requires every timestamp-valued key to carry an explicit UTC offset.
+- `usage_window` values in the worked example updated from date strings to datetimes accordingly.
+
+**Relevance to our schema**
+
+- Our `date` field (kept as `YYYY-MM-DD` for Dataview) is unaffected — it is an Obsidian extension, not an OKF field.
+- Our `timestamp` field is already ISO 8601 with offset, so it is compliant.
+- Our `## References` citation convention is not touched by this diff; the old/new spec both deprecate `# Citations` identically.
+
+**Recommendation**
+
+No action needed — the change only tightens datetime formatting in OKF fields we do not currently emit, and our existing `timestamp` already satisfies the stricter requirement.
+
+### `okf/README.md` changed
+
+**What changed**
+
+- A new `[!IMPORTANT]` callout at the top announces that OKF has migrated to a dedicated repository: `GoogleCloudPlatform/open-knowledge-format`.
+- The copy under `okf/` in the original `knowledge-catalog` repo is now explicitly declared a **frozen snapshot**, no longer maintained.
+- The word "repository" in the intro blurb was changed to "directory" — a minor editorial update reflecting the frozen status.
+- No changes were made to the OKF specification itself, frontmatter fields, or citation conventions.
+
+**Relevance to our schema**
+
+None of our current frontmatter fields (`type`, `title`, `description`, `resource`, `tags`, `timestamp`, `date`, `month-theme`, `products`, `source`) are affected. The `resource` field pointing to raw GitHub URLs in `knowledge-catalog/okf/` will eventually point at a stale snapshot, but the spec content itself has not changed. Our `## References` citation convention is also untouched.
+
+**Recommendation**
+
+No action needed. This is a housekeeping/relocation announcement with zero spec changes; update the tracked upstream URL in documentation or monitoring scripts to `GoogleCloudPlatform/open-knowledge-format` at your convenience, but nothing in `sync_to_obsidian.py` requires modification today.
+
 ## 2026-07-27
 
 ### `okf/SPEC.md` changed
