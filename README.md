@@ -155,6 +155,7 @@ _Briefings are added automatically as they are generated._
 *   [2026-08-20 - Output Verbosity, Teen Safety Rails, and the Generative Canvas Surge](briefings/2026-08-the-ambient-surface-takes-over/2026-08-20-output-verbosity-teen-safety-rails-and-the-generative-canvas.md)
 *   [2026-08-21 - Ambient Agents, iMessage Access, and AI Output Provenance](briefings/2026-08-the-ambient-surface-takes-over/2026-08-21-ambient-agents-imessage-access-and-ai-output-provenance.md)
 *   [2026-08-24 - Credential-Bearing Agents, Governed Toolchains, and the Approval-Gate Reckoning](briefings/2026-08-the-ambient-surface-takes-over/2026-08-24-credential-bearing-agents-governed-toolchains-and-the-approv.md)
+*   [2026-08-25 - GA Toolsets, Governed Rosters, and the Notification Frontier](briefings/2026-08-the-ambient-surface-takes-over/2026-08-25-ga-toolsets-governed-rosters-and-the-notification-frontier.md)
 
 ## Monthly Management Summaries
 
