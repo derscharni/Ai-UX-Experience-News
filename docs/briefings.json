@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-24T08:03:47Z",
+  "updated": "2026-08-25T07:53:11Z",
   "briefings": [
+    {
+      "date": "2026-08-25",
+      "title": "GA Toolsets, Governed Rosters, and the Notification Frontier",
+      "path": "briefings/2026-08-the-ambient-surface-takes-over/2026-08-25-ga-toolsets-governed-rosters-and-the-notification-frontier.md",
+      "month_theme": "The Ambient Surface Takes Over",
+      "month_key": "2026-08",
+      "excerpt": "The 48 hours ending August 25 are defined by a single escalating platform dynamic: every major AI product simultaneously crossing the threshold from \"beta capability\" to \"production infrastructure\" — and the governance, transparency, and hu",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Browser & Computer Use"
+      ]
+    },
     {
       "date": "2026-08-24",
       "title": "Credential-Bearing Agents, Governed Toolchains, and the Approval-Gate Reckoning",

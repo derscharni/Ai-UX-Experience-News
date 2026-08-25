@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Mon, 24 Aug 2026 08:03:48 GMT</lastBuildDate>
-  <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Tue, 25 Aug 2026 07:53:11 GMT</lastBuildDate>
+  <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>GA Toolsets, Governed Rosters, and the Notification Frontier</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-08-the-ambient-surface-takes-over%2F2026-08-25-ga-toolsets-governed-rosters-and-the-notification-frontier.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-08-the-ambient-surface-takes-over%2F2026-08-25-ga-toolsets-governed-rosters-and-the-notification-frontier.md</guid>
+    <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending August 25 are defined by a single escalating platform dynamic: every major AI product simultaneously crossing the threshold from "beta capability" to "production infrastructure" — and the governance, transparency, and hu</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Browser &amp; Computer Use</category>
+  </item>
   <item>
     <title>Credential-Bearing Agents, Governed Toolchains, and the Approval-Gate Reckoning</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-08-the-ambient-surface-takes-over%2F2026-08-24-credential-bearing-agents-governed-toolchains-and-the-approv.md</link>
@@ -883,21 +898,6 @@
     <category>Perplexity</category>
     <category>Agentic Workflows</category>
     <category>Generative UI</category>
-  </item>
-  <item>
-    <title>The Agent Becomes the Designer</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-18-the-agent-becomes-the-designer.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-18-the-agent-becomes-the-designer.md</guid>
-    <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
-    <description>Today's briefing highlights a major expansion of AI agents into the visual design space. The line between "chatbot" and "design software" is blurring rapidly, as agents gain the ability to generate, iterate, and refine high-fidelity visual </description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Browser &amp; Computer Use</category>
-    <category>Agentic Workflows</category>
   </item>
 </channel>
 </rss>
