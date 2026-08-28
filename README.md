@@ -156,6 +156,7 @@ _Briefings are added automatically as they are generated._
 *   [2026-08-21 - Ambient Agents, iMessage Access, and AI Output Provenance](briefings/2026-08-the-ambient-surface-takes-over/2026-08-21-ambient-agents-imessage-access-and-ai-output-provenance.md)
 *   [2026-08-24 - Credential-Bearing Agents, Governed Toolchains, and the Approval-Gate Reckoning](briefings/2026-08-the-ambient-surface-takes-over/2026-08-24-credential-bearing-agents-governed-toolchains-and-the-approv.md)
 *   [2026-08-25 - GA Toolsets, Governed Rosters, and the Notification Frontier](briefings/2026-08-the-ambient-surface-takes-over/2026-08-25-ga-toolsets-governed-rosters-and-the-notification-frontier.md)
+*   [2026-08-28 - Restricted Agents, Portable Compute, and the Cross-Session Frontier](briefings/2026-08-the-ambient-surface-takes-over/2026-08-28-restricted-agents-portable-compute-and-the-cross-session-fro.md)
 
 ## Monthly Management Summaries
 
