@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Tue, 25 Aug 2026 07:53:11 GMT</lastBuildDate>
-  <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Fri, 28 Aug 2026 19:25:02 GMT</lastBuildDate>
+  <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Restricted Agents, Portable Compute, and the Cross-Session Frontier</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-08-the-ambient-surface-takes-over%2F2026-08-28-restricted-agents-portable-compute-and-the-cross-session-fro.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-08-the-ambient-surface-takes-over%2F2026-08-28-restricted-agents-portable-compute-and-the-cross-session-fro.md</guid>
+    <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending August 28 are defined by a single structural force playing out on every platform simultaneously: agents are being hardened at the seams — the points where sessions meet other sessions, where cloud compute meets local har</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Agentic Workflows</category>
+  </item>
   <item>
     <title>GA Toolsets, Governed Rosters, and the Notification Frontier</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-08-the-ambient-surface-takes-over%2F2026-08-25-ga-toolsets-governed-rosters-and-the-notification-frontier.md</link>
@@ -884,20 +899,6 @@
     <category>Grok</category>
     <category>Perplexity</category>
     <category>Browser &amp; Computer Use</category>
-  </item>
-  <item>
-    <title>The Visual Execution Layer</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-19-the-visual-execution-layer.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-19-the-visual-execution-layer.md</guid>
-    <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-    <description>Today's briefing highlights the rapid evolution of AI agents into visual execution engines. The industry is moving past generating simple images toward creating fully interactive prototypes, manipulating on-screen elements, and extracting v</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Agentic Workflows</category>
-    <category>Generative UI</category>
   </item>
 </channel>
 </rss>

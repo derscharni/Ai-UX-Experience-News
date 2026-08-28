@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-25T07:53:11Z",
+  "updated": "2026-08-28T19:25:02Z",
   "briefings": [
+    {
+      "date": "2026-08-28",
+      "title": "Restricted Agents, Portable Compute, and the Cross-Session Frontier",
+      "path": "briefings/2026-08-the-ambient-surface-takes-over/2026-08-28-restricted-agents-portable-compute-and-the-cross-session-fro.md",
+      "month_theme": "The Ambient Surface Takes Over",
+      "month_key": "2026-08",
+      "excerpt": "The 48 hours ending August 28 are defined by a single structural force playing out on every platform simultaneously: agents are being hardened at the seams — the points where sessions meet other sessions, where cloud compute meets local har",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
+      ]
+    },
     {
       "date": "2026-08-25",
       "title": "GA Toolsets, Governed Rosters, and the Notification Frontier",
