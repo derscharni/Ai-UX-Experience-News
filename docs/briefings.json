@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-28T19:25:02Z",
+  "updated": "2026-09-01T12:33:35Z",
   "briefings": [
+    {
+      "date": "2026-09-01",
+      "title": "Platform Mergers, Agent Connectors, and the Cutover Moment",
+      "path": "briefings/2026-09-the-seams-collapse/2026-09-01-platform-mergers-agent-connectors-and-the-cutover-moment.md",
+      "month_theme": "The Seams Collapse",
+      "month_key": "2026-09",
+      "excerpt": "The 48 hours ending September 1, 2026 are defined by a single structural force: every major AI product is simultaneously collapsing its seams — merging fragmented surfaces into single unified apps, linking previously isolated identity conte",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Identity & Security"
+      ]
+    },
     {
       "date": "2026-08-28",
       "title": "Restricted Agents, Portable Compute, and the Cross-Session Frontier",

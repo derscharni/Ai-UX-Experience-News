@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Fri, 28 Aug 2026 19:25:02 GMT</lastBuildDate>
-  <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Tue, 01 Sep 2026 12:33:35 GMT</lastBuildDate>
+  <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Platform Mergers, Agent Connectors, and the Cutover Moment</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-09-the-seams-collapse%2F2026-09-01-platform-mergers-agent-connectors-and-the-cutover-moment.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-09-the-seams-collapse%2F2026-09-01-platform-mergers-agent-connectors-and-the-cutover-moment.md</guid>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending September 1, 2026 are defined by a single structural force: every major AI product is simultaneously collapsing its seams — merging fragmented surfaces into single unified apps, linking previously isolated identity conte</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Identity &amp; Security</category>
+  </item>
   <item>
     <title>Restricted Agents, Portable Compute, and the Cross-Session Frontier</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-08-the-ambient-surface-takes-over%2F2026-08-28-restricted-agents-portable-compute-and-the-cross-session-fro.md</link>
@@ -885,20 +900,6 @@
     <category>Perplexity</category>
     <category>Trust &amp; Safety</category>
     <category>Agentic Workflows</category>
-  </item>
-  <item>
-    <title>Desktop Deepening and "AEO"</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-20-desktop-deepening-and-aeo.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-20-desktop-deepening-and-aeo.md</guid>
-    <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
-    <description>Today's briefing highlights a push toward deeper desktop integration across the major players, alongside the emergence of a new design framework: "Agentic Engine Optimization" (AEO) — designing interfaces not just for humans, but for the ag</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Browser &amp; Computer Use</category>
   </item>
 </channel>
 </rss>
