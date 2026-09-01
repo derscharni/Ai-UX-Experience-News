@@ -170,6 +170,8 @@ To provide a high-level overview of the most significant themes and shifts in th
 *   [**April 2026 Summary**](summary-2026-04.md): Details the formalization of Agentic UX patterns, the fragmentation of generic chat windows into specialized workspaces, and the expansion of multimodal, multi-agent workflows.
 *   [**July 2026 Summary**](summary-2026-07.md): Details the industry's simultaneous scaling of agentic AI into ambient, always-present infrastructure and the urgent construction of the governance, transparency, and auditability layers required to make that expanded autonomy deployable and trustworthy at organisational scale.
 
+*   [**August 2026 Summary**](summary-2026-08.md): Details the industry-wide inversion from human-approval-default to classifier-gated agentic autonomy, the ambient surface expansion of AI into OS kernels, physical spaces, and persistent cloud-based digital coworkers, and the simultaneous—if barely-keeping-pace—build-out of credential isolation, session budgets, and tamper-evident audit infrastructure to govern the trust debt that expansion creates.
+
 
 ## Automation
 
