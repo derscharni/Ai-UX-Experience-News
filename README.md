@@ -158,6 +158,9 @@ _Briefings are added automatically as they are generated._
 *   [2026-08-25 - GA Toolsets, Governed Rosters, and the Notification Frontier](briefings/2026-08-the-ambient-surface-takes-over/2026-08-25-ga-toolsets-governed-rosters-and-the-notification-frontier.md)
 *   [2026-08-28 - Restricted Agents, Portable Compute, and the Cross-Session Frontier](briefings/2026-08-the-ambient-surface-takes-over/2026-08-28-restricted-agents-portable-compute-and-the-cross-session-fro.md)
 
+### September 2026 — *The Seams Collapse* (`briefings/2026-09-the-seams-collapse/`)
+*   [2026-09-01 - Platform Mergers, Agent Connectors, and the Cutover Moment](briefings/2026-09-the-seams-collapse/2026-09-01-platform-mergers-agent-connectors-and-the-cutover-moment.md)
+
 ## Monthly Management Summaries
 
 To provide a high-level overview of the most significant themes and shifts in the agentic ecosystem, concise management summaries (1-2 pages) are available at the top level of this repository. These documents synthesize the daily briefings to highlight the macro trends shaping the future of human-computer interaction.
