@@ -160,6 +160,7 @@ _Briefings are added automatically as they are generated._
 
 ### September 2026 — *The Seams Collapse* (`briefings/2026-09-the-seams-collapse/`)
 *   [2026-09-01 - Platform Mergers, Agent Connectors, and the Cutover Moment](briefings/2026-09-the-seams-collapse/2026-09-01-platform-mergers-agent-connectors-and-the-cutover-moment.md)
+*   [2026-09-02 - Model Upgrades, Generative UI, and the Proactive-Agent Threshold](briefings/2026-09-the-seams-collapse/2026-09-02-model-upgrades-generative-ui-and-the-proactive-agent-thresho.md)
 
 ## Monthly Management Summaries
 
