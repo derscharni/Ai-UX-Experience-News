@@ -1,6 +1,26 @@
 {
-  "updated": "2026-09-01T12:33:35Z",
+  "updated": "2026-09-02T12:06:14Z",
   "briefings": [
+    {
+      "date": "2026-09-02",
+      "title": "Model Upgrades, Generative UI, and the Proactive-Agent Threshold",
+      "path": "briefings/2026-09-the-seams-collapse/2026-09-02-model-upgrades-generative-ui-and-the-proactive-agent-thresho.md",
+      "month_theme": "The Seams Collapse",
+      "month_key": "2026-09",
+      "excerpt": "The 48 hours ending September 2 are defined by a quiet but structurally decisive shift: every major platform simultaneously crossed the line from reactive agent — one that waits for a prompt — into proactive agent — one that initiates, esca",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
+      ]
+    },
     {
       "date": "2026-09-01",
       "title": "Platform Mergers, Agent Connectors, and the Cutover Moment",
@@ -2160,6 +2180,10 @@
     }
   ],
   "summaries": [
+    {
+      "month": "2026-08",
+      "path": "summary-2026-08.md"
+    },
     {
       "month": "2026-07",
       "path": "summary-2026-07.md"

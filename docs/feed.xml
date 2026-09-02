@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Tue, 01 Sep 2026 12:33:35 GMT</lastBuildDate>
-  <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Wed, 02 Sep 2026 12:06:14 GMT</lastBuildDate>
+  <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Model Upgrades, Generative UI, and the Proactive-Agent Threshold</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-09-the-seams-collapse%2F2026-09-02-model-upgrades-generative-ui-and-the-proactive-agent-thresho.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-09-the-seams-collapse%2F2026-09-02-model-upgrades-generative-ui-and-the-proactive-agent-thresho.md</guid>
+    <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending September 2 are defined by a quiet but structurally decisive shift: every major platform simultaneously crossed the line from reactive agent — one that waits for a prompt — into proactive agent — one that initiates, esca</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Agentic Workflows</category>
+  </item>
   <item>
     <title>Platform Mergers, Agent Connectors, and the Cutover Moment</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-09-the-seams-collapse%2F2026-09-01-platform-mergers-agent-connectors-and-the-cutover-moment.md</link>
@@ -886,20 +901,6 @@
     <category>Perplexity</category>
     <category>Agentic Workflows</category>
     <category>Enterprise &amp; Governance</category>
-  </item>
-  <item>
-    <title>The Shift to "Operator" UX</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-21-the-shift-to-operator-ux.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-21-the-shift-to-operator-ux.md</guid>
-    <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
-    <description>Today's briefing highlights a crucial transition in how users interact with AI: the shift from single-turn tools to multi-task "operators." We are also seeing significant UI streamlining across major platforms, alongside growing pains relat</description>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Trust &amp; Safety</category>
-    <category>Agentic Workflows</category>
   </item>
 </channel>
 </rss>
