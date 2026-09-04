@@ -1,6 +1,26 @@
 {
-  "updated": "2026-09-03T12:05:31Z",
+  "updated": "2026-09-04T12:07:34Z",
   "briefings": [
+    {
+      "date": "2026-09-04",
+      "title": "Computer Use Goes Mainstream, Agent Persistence, and the Unified Surface",
+      "path": "briefings/2026-09-the-seams-collapse/2026-09-04-computer-use-goes-mainstream-agent-persistence-and-the-unifi.md",
+      "month_theme": "The Seams Collapse",
+      "month_key": "2026-09",
+      "excerpt": "The 48 hours ending September 4, 2026 are defined by three simultaneous structural shifts in how agents operate, persist, and surface their authority to users. ChatGPT/OpenAI delivers its most consequential interaction-model event of 2026 w",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Memory & Context"
+      ]
+    },
     {
       "date": "2026-09-03",
       "title": "Trust Checkpoints, Agentic Canvases, and the Voice-Command Migration",
