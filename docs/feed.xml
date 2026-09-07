@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Fri, 04 Sep 2026 12:07:34 GMT</lastBuildDate>
-  <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Mon, 07 Sep 2026 13:29:43 GMT</lastBuildDate>
+  <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Astra Floods Production, Governance Scales, Persona Persists</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-09-the-seams-collapse%2F2026-09-07-astra-floods-production-governance-scales-persona-persists.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-09-the-seams-collapse%2F2026-09-07-astra-floods-production-governance-scales-persona-persists.md</guid>
+    <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending September 7, 2026 are defined by four simultaneous pressure fronts that, taken together, represent the most consequential week of agentic product delivery since the category's inception. ChatGPT/OpenAI completes the broa</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Enterprise &amp; Governance</category>
+  </item>
   <item>
     <title>Computer Use Goes Mainstream, Agent Persistence, and the Unified Surface</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-09-the-seams-collapse%2F2026-09-04-computer-use-goes-mainstream-agent-persistence-and-the-unifi.md</link>
@@ -887,20 +902,6 @@
     <category>Perplexity</category>
     <category>Agentic Workflows</category>
     <category>Multimodal</category>
-  </item>
-  <item>
-    <title>Multi-Agent Workflows and Model Upgrades</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-24-multi-agent-workflows-and-model-upgrades.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-24-multi-agent-workflows-and-model-upgrades.md</guid>
-    <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
-    <description>Today's briefing focuses on how the underlying models powering AI agents are receiving major upgrades, which is immediately unlocking new multi-agent workflows and more complex parallel execution capabilities in the user interface.</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Agentic Workflows</category>
-    <category>Enterprise &amp; Governance</category>
   </item>
 </channel>
 </rss>

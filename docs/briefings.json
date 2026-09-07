@@ -1,6 +1,26 @@
 {
-  "updated": "2026-09-04T12:07:34Z",
+  "updated": "2026-09-07T13:29:43Z",
   "briefings": [
+    {
+      "date": "2026-09-07",
+      "title": "Astra Floods Production, Governance Scales, Persona Persists",
+      "path": "briefings/2026-09-the-seams-collapse/2026-09-07-astra-floods-production-governance-scales-persona-persists.md",
+      "month_theme": "The Seams Collapse",
+      "month_key": "2026-09",
+      "excerpt": "The 48 hours ending September 7, 2026 are defined by four simultaneous pressure fronts that, taken together, represent the most consequential week of agentic product delivery since the category's inception. ChatGPT/OpenAI completes the broa",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Enterprise & Governance"
+      ]
+    },
     {
       "date": "2026-09-04",
       "title": "Computer Use Goes Mainstream, Agent Persistence, and the Unified Surface",
