@@ -164,6 +164,7 @@ _Briefings are added automatically as they are generated._
 *   [2026-09-03 - Trust Checkpoints, Agentic Canvases, and the Voice-Command Migration](briefings/2026-09-the-seams-collapse/2026-09-03-trust-checkpoints-agentic-canvases-and-the-voice-command-mig.md)
 *   [2026-09-04 - Computer Use Goes Mainstream, Agent Persistence, and the Unified Surface](briefings/2026-09-the-seams-collapse/2026-09-04-computer-use-goes-mainstream-agent-persistence-and-the-unifi.md)
 *   [2026-09-07 - Astra Floods Production, Governance Scales, Persona Persists](briefings/2026-09-the-seams-collapse/2026-09-07-astra-floods-production-governance-scales-persona-persists.md)
+*   [2026-09-08 - WebMCP, Containment Escapes, and the Permission Frontier](briefings/2026-09-the-seams-collapse/2026-09-08-webmcp-containment-escapes-and-the-permission-frontier.md)
 
 ## Monthly Management Summaries
 
