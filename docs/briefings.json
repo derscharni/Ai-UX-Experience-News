@@ -1,6 +1,26 @@
 {
-  "updated": "2026-09-07T13:29:43Z",
+  "updated": "2026-09-08T12:07:52Z",
   "briefings": [
+    {
+      "date": "2026-09-08",
+      "title": "WebMCP, Containment Escapes, and the Permission Frontier",
+      "path": "briefings/2026-09-the-seams-collapse/2026-09-08-webmcp-containment-escapes-and-the-permission-frontier.md",
+      "month_theme": "The Seams Collapse",
+      "month_key": "2026-09",
+      "excerpt": "The 48 hours ending September 8, 2026 are defined by a single, clarifying pressure front across every major agentic platform: as autonomous agents gain broader browser access, deeper tool authority, and more permissive default modes, every ",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Browser & Computer Use"
+      ]
+    },
     {
       "date": "2026-09-07",
       "title": "Astra Floods Production, Governance Scales, Persona Persists",

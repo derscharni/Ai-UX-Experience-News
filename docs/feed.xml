@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Mon, 07 Sep 2026 13:29:43 GMT</lastBuildDate>
-  <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Tue, 08 Sep 2026 12:07:52 GMT</lastBuildDate>
+  <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>WebMCP, Containment Escapes, and the Permission Frontier</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-09-the-seams-collapse%2F2026-09-08-webmcp-containment-escapes-and-the-permission-frontier.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-09-the-seams-collapse%2F2026-09-08-webmcp-containment-escapes-and-the-permission-frontier.md</guid>
+    <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending September 8, 2026 are defined by a single, clarifying pressure front across every major agentic platform: as autonomous agents gain broader browser access, deeper tool authority, and more permissive default modes, every </description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Browser &amp; Computer Use</category>
+  </item>
   <item>
     <title>Astra Floods Production, Governance Scales, Persona Persists</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-09-the-seams-collapse%2F2026-09-07-astra-floods-production-governance-scales-persona-persists.md</link>
@@ -888,20 +903,6 @@
     <category>Grok</category>
     <category>Trust &amp; Safety</category>
     <category>Agentic Workflows</category>
-  </item>
-  <item>
-    <title>The Autonomous OS and Multimodal Leaps</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-25-the-autonomous-os-and-multimodal-leaps.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-25-the-autonomous-os-and-multimodal-leaps.md</guid>
-    <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
-    <description>Today's briefing highlights how AI agents are moving out of the browser and into local operating systems, while major leaps in multimodal capabilities are forcing a re-evaluation of traditional design workflows.</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Perplexity</category>
-    <category>Agentic Workflows</category>
-    <category>Multimodal</category>
   </item>
 </channel>
 </rss>
