@@ -165,6 +165,7 @@ _Briefings are added automatically as they are generated._
 *   [2026-09-04 - Computer Use Goes Mainstream, Agent Persistence, and the Unified Surface](briefings/2026-09-the-seams-collapse/2026-09-04-computer-use-goes-mainstream-agent-persistence-and-the-unifi.md)
 *   [2026-09-07 - Astra Floods Production, Governance Scales, Persona Persists](briefings/2026-09-the-seams-collapse/2026-09-07-astra-floods-production-governance-scales-persona-persists.md)
 *   [2026-09-08 - WebMCP, Containment Escapes, and the Permission Frontier](briefings/2026-09-the-seams-collapse/2026-09-08-webmcp-containment-escapes-and-the-permission-frontier.md)
+*   [2026-09-09 - Live Voice, Domain Fences, and the Ambient Delegation Layer](briefings/2026-09-the-seams-collapse/2026-09-09-live-voice-domain-fences-and-the-ambient-delegation-layer.md)
 
 ## Monthly Management Summaries
 
