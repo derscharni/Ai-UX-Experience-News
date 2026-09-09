@@ -1,6 +1,26 @@
 {
-  "updated": "2026-09-08T12:07:52Z",
+  "updated": "2026-09-09T12:19:14Z",
   "briefings": [
+    {
+      "date": "2026-09-09",
+      "title": "Live Voice, Domain Fences, and the Ambient Delegation Layer",
+      "path": "briefings/2026-09-the-seams-collapse/2026-09-09-live-voice-domain-fences-and-the-ambient-delegation-layer.md",
+      "month_theme": "The Seams Collapse",
+      "month_key": "2026-09",
+      "excerpt": "The 48 hours ending September 9, 2026 are shaped by four simultaneous fronts that together mark a decisive expansion of the agentic surface — and a corresponding tightening of the governance primitives required to keep it deployable. Google",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Enterprise & Governance",
+        "Trust & Safety"
+      ]
+    },
     {
       "date": "2026-09-08",
       "title": "WebMCP, Containment Escapes, and the Permission Frontier",

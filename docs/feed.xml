@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Tue, 08 Sep 2026 12:07:52 GMT</lastBuildDate>
-  <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Wed, 09 Sep 2026 12:19:14 GMT</lastBuildDate>
+  <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Live Voice, Domain Fences, and the Ambient Delegation Layer</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-09-the-seams-collapse%2F2026-09-09-live-voice-domain-fences-and-the-ambient-delegation-layer.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-09-the-seams-collapse%2F2026-09-09-live-voice-domain-fences-and-the-ambient-delegation-layer.md</guid>
+    <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending September 9, 2026 are shaped by four simultaneous fronts that together mark a decisive expansion of the agentic surface — and a corresponding tightening of the governance primitives required to keep it deployable. Google</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Enterprise &amp; Governance</category>
+    <category>Trust &amp; Safety</category>
+  </item>
   <item>
     <title>WebMCP, Containment Escapes, and the Permission Frontier</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-09-the-seams-collapse%2F2026-09-08-webmcp-containment-escapes-and-the-permission-frontier.md</link>
@@ -888,20 +903,6 @@
     <category>Grok</category>
     <category>Perplexity</category>
     <category>Generative UI</category>
-    <category>Agentic Workflows</category>
-  </item>
-  <item>
-    <title>The UI Bifurcation and Agentic Refinement</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-26-the-ui-bifurcation-and-agentic-refinement.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-26-the-ui-bifurcation-and-agentic-refinement.md</guid>
-    <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
-    <description>Today's briefing covers a growing conceptual shift in UX design—the bifurcation of interfaces into human-centric and agent-centric tracks—alongside significant refinements in visual editing and task orchestration across the major platforms.</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Trust &amp; Safety</category>
     <category>Agentic Workflows</category>
   </item>
 </channel>
