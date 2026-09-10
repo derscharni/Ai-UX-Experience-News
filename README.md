@@ -166,6 +166,7 @@ _Briefings are added automatically as they are generated._
 *   [2026-09-07 - Astra Floods Production, Governance Scales, Persona Persists](briefings/2026-09-the-seams-collapse/2026-09-07-astra-floods-production-governance-scales-persona-persists.md)
 *   [2026-09-08 - WebMCP, Containment Escapes, and the Permission Frontier](briefings/2026-09-the-seams-collapse/2026-09-08-webmcp-containment-escapes-and-the-permission-frontier.md)
 *   [2026-09-09 - Live Voice, Domain Fences, and the Ambient Delegation Layer](briefings/2026-09-the-seams-collapse/2026-09-09-live-voice-domain-fences-and-the-ambient-delegation-layer.md)
+*   [2026-09-10 - Audit Trails, Ambient Messaging, and the Governance Maturity Layer](briefings/2026-09-the-seams-collapse/2026-09-10-audit-trails-ambient-messaging-and-the-governance-maturity-l.md)
 
 ## Monthly Management Summaries
 
