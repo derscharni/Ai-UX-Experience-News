@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Wed, 09 Sep 2026 12:19:14 GMT</lastBuildDate>
-  <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Thu, 10 Sep 2026 12:13:29 GMT</lastBuildDate>
+  <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Audit Trails, Ambient Messaging, and the Governance Maturity Layer</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-09-the-seams-collapse%2F2026-09-10-audit-trails-ambient-messaging-and-the-governance-maturity-l.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-09-the-seams-collapse%2F2026-09-10-audit-trails-ambient-messaging-and-the-governance-maturity-l.md</guid>
+    <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending September 10, 2026 are defined by a powerful cross-platform theme: as every major agentic product matures from capability demonstration into enterprise deployment, the releases this window are dominated by the observabil</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Enterprise &amp; Governance</category>
+  </item>
   <item>
     <title>Live Voice, Domain Fences, and the Ambient Delegation Layer</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-09-the-seams-collapse%2F2026-09-09-live-voice-domain-fences-and-the-ambient-delegation-layer.md</link>
@@ -888,21 +903,6 @@
     <category>Copilot</category>
     <category>Grok</category>
     <category>Trust &amp; Safety</category>
-    <category>Agentic Workflows</category>
-  </item>
-  <item>
-    <title>The Rise of AI Runtime Layers and Workspace Controls</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-27-the-rise-of-ai-runtime-layers-and-workspace-controls.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-27-the-rise-of-ai-runtime-layers-and-workspace-controls.md</guid>
-    <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
-    <description>Today's briefing highlights a major structural shift in how AI applications are built—the emergence of "AI Runtime Layers"—alongside significant updates to workspace controls and persistent settings across developer tools.</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Generative UI</category>
     <category>Agentic Workflows</category>
   </item>
 </channel>

@@ -1,6 +1,26 @@
 {
-  "updated": "2026-09-09T12:19:14Z",
+  "updated": "2026-09-10T12:13:29Z",
   "briefings": [
+    {
+      "date": "2026-09-10",
+      "title": "Audit Trails, Ambient Messaging, and the Governance Maturity Layer",
+      "path": "briefings/2026-09-the-seams-collapse/2026-09-10-audit-trails-ambient-messaging-and-the-governance-maturity-l.md",
+      "month_theme": "The Seams Collapse",
+      "month_key": "2026-09",
+      "excerpt": "The 48 hours ending September 10, 2026 are defined by a powerful cross-platform theme: as every major agentic product matures from capability demonstration into enterprise deployment, the releases this window are dominated by the observabil",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Enterprise & Governance"
+      ]
+    },
     {
       "date": "2026-09-09",
       "title": "Live Voice, Domain Fences, and the Ambient Delegation Layer",
