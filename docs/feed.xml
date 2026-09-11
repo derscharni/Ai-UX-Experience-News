@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Thu, 10 Sep 2026 12:13:29 GMT</lastBuildDate>
-  <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Fri, 11 Sep 2026 12:12:00 GMT</lastBuildDate>
+  <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Inference Fences, Shared Context, and the In-Cabin Agent Surface</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-09-the-seams-collapse%2F2026-09-11-inference-fences-shared-context-and-the-in-cabin-agent-surfa.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-09-the-seams-collapse%2F2026-09-11-inference-fences-shared-context-and-the-in-cabin-agent-surfa.md</guid>
+    <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending September 11, 2026 are defined by a cluster of releases that deepen the governance architecture around deployed agents while simultaneously extending the agentic surface into new physical and collaborative environments. </description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Agentic Workflows</category>
+  </item>
   <item>
     <title>Audit Trails, Ambient Messaging, and the Governance Maturity Layer</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-09-the-seams-collapse%2F2026-09-10-audit-trails-ambient-messaging-and-the-governance-maturity-l.md</link>
@@ -889,20 +904,6 @@
     <category>Copilot</category>
     <category>Grok</category>
     <category>Perplexity</category>
-    <category>Agentic Workflows</category>
-  </item>
-  <item>
-    <title>Transparent Workflows and Dashboard Integration</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-28-transparent-workflows-and-dashboard-integration.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-28-transparent-workflows-and-dashboard-integration.md</guid>
-    <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
-    <description>Today's briefing focuses on a key theme: building trust through transparency. As agents take on more complex tasks, platforms are designing interfaces that expose the agent's internal logic, while simultaneously integrating these agents dee</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Trust &amp; Safety</category>
     <category>Agentic Workflows</category>
   </item>
 </channel>

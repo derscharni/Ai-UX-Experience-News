@@ -1,6 +1,26 @@
 {
-  "updated": "2026-09-10T12:13:29Z",
+  "updated": "2026-09-11T12:12:00Z",
   "briefings": [
+    {
+      "date": "2026-09-11",
+      "title": "Inference Fences, Shared Context, and the In-Cabin Agent Surface",
+      "path": "briefings/2026-09-the-seams-collapse/2026-09-11-inference-fences-shared-context-and-the-in-cabin-agent-surfa.md",
+      "month_theme": "The Seams Collapse",
+      "month_key": "2026-09",
+      "excerpt": "The 48 hours ending September 11, 2026 are defined by a cluster of releases that deepen the governance architecture around deployed agents while simultaneously extending the agentic surface into new physical and collaborative environments. ",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
+      ]
+    },
     {
       "date": "2026-09-10",
       "title": "Audit Trails, Ambient Messaging, and the Governance Maturity Layer",
