@@ -169,6 +169,9 @@ _Briefings are added automatically as they are generated._
 *   [2026-09-10 - Audit Trails, Ambient Messaging, and the Governance Maturity Layer](briefings/2026-09-the-seams-collapse/2026-09-10-audit-trails-ambient-messaging-and-the-governance-maturity-l.md)
 *   [2026-09-11 - Inference Fences, Shared Context, and the In-Cabin Agent Surface](briefings/2026-09-the-seams-collapse/2026-09-11-inference-fences-shared-context-and-the-in-cabin-agent-surfa.md)
 
+### October 2026 — *The Workspace Becomes the Interface* (`briefings/2026-10-the-workspace-becomes-the-interface/`)
+*   [2026-10-12 - Generative UI, Workspace Invasion, and the Composable Agent Layer](briefings/2026-10-the-workspace-becomes-the-interface/2026-10-12-generative-ui-workspace-invasion-and-the-composable-agent-la.md)
+
 ## Monthly Management Summaries
 
 To provide a high-level overview of the most significant themes and shifts in the agentic ecosystem, concise management summaries (1-2 pages) are available at the top level of this repository. These documents synthesize the daily briefings to highlight the macro trends shaping the future of human-computer interaction.
