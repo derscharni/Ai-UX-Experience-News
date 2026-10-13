@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Mon, 12 Oct 2026 16:42:45 GMT</lastBuildDate>
-  <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Tue, 13 Oct 2026 14:59:21 GMT</lastBuildDate>
+  <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Policy Guardrails, Persistent Agents, and the Composable Persona Pivot</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-10-the-workspace-becomes-the-interface%2F2026-10-13-policy-guardrails-persistent-agents-and-the-composable-perso.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-10-the-workspace-becomes-the-interface%2F2026-10-13-policy-guardrails-persistent-agents-and-the-composable-perso.md</guid>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending October 13, 2026 are defined by a simultaneous push on two fronts: platforms are hardening the trust and conduct boundaries around agents that already have deep access to user environments, while simultaneously evolving </description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Agentic Workflows</category>
+    <category>Trust &amp; Safety</category>
+  </item>
   <item>
     <title>Generative UI, Workspace Invasion, and the Composable Agent Layer</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-10-the-workspace-becomes-the-interface%2F2026-10-12-generative-ui-workspace-invasion-and-the-composable-agent-la.md</link>
@@ -891,21 +906,6 @@
     <category>Perplexity</category>
     <category>Generative UI</category>
     <category>Trust &amp; Safety</category>
-  </item>
-  <item>
-    <title>Desktop Deepening and Cross-Platform Integration</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-30-desktop-deepening-and-cross-platform-integration.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-04-formalizing-the-agentic-workspace%2F2026-04-30-desktop-deepening-and-cross-platform-integration.md</guid>
-    <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
-    <description>Today's briefing wraps up April with a clear trend: AI agents are embedding themselves deeper into specialized environments, from 3D modeling software and iPad multitasking to automotive dashboards and local file systems.</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Multimodal</category>
-    <category>Agentic Workflows</category>
   </item>
 </channel>
 </rss>
