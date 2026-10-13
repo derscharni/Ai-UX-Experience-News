@@ -171,6 +171,7 @@ _Briefings are added automatically as they are generated._
 
 ### October 2026 — *The Workspace Becomes the Interface* (`briefings/2026-10-the-workspace-becomes-the-interface/`)
 *   [2026-10-12 - Generative UI, Workspace Invasion, and the Composable Agent Layer](briefings/2026-10-the-workspace-becomes-the-interface/2026-10-12-generative-ui-workspace-invasion-and-the-composable-agent-la.md)
+*   [2026-10-13 - Policy Guardrails, Persistent Agents, and the Composable Persona Pivot](briefings/2026-10-the-workspace-becomes-the-interface/2026-10-13-policy-guardrails-persistent-agents-and-the-composable-perso.md)
 
 ## Monthly Management Summaries
 
