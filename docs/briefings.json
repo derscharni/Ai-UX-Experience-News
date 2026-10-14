@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-13T14:59:21Z",
+  "updated": "2026-10-14T12:51:18Z",
   "briefings": [
+    {
+      "date": "2026-10-14",
+      "title": "Agent Inboxes, Rollout Fractures, and the Subagent Governance Sprint",
+      "path": "briefings/2026-10-the-workspace-becomes-the-interface/2026-10-14-agent-inboxes-rollout-fractures-and-the-subagent-governance.md",
+      "month_theme": "The Workspace Becomes The Interface",
+      "month_key": "2026-10",
+      "excerpt": "The 48 hours ending October 14, 2026 are defined by a dense cluster of agent-identity and agentic-surface expansions colliding with the first significant governance rollout failure of the Skills era — every major platform advancing the ques",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows",
+        "Trust & Safety"
+      ]
+    },
     {
       "date": "2026-10-13",
       "title": "Policy Guardrails, Persistent Agents, and the Composable Persona Pivot",

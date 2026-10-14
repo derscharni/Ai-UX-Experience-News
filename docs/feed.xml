@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Tue, 13 Oct 2026 14:59:21 GMT</lastBuildDate>
-  <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Wed, 14 Oct 2026 12:51:18 GMT</lastBuildDate>
+  <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Agent Inboxes, Rollout Fractures, and the Subagent Governance Sprint</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-10-the-workspace-becomes-the-interface%2F2026-10-14-agent-inboxes-rollout-fractures-and-the-subagent-governance.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-10-the-workspace-becomes-the-interface%2F2026-10-14-agent-inboxes-rollout-fractures-and-the-subagent-governance.md</guid>
+    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending October 14, 2026 are defined by a dense cluster of agent-identity and agentic-surface expansions colliding with the first significant governance rollout failure of the Skills era — every major platform advancing the ques</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Agentic Workflows</category>
+    <category>Trust &amp; Safety</category>
+  </item>
   <item>
     <title>Policy Guardrails, Persistent Agents, and the Composable Persona Pivot</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-10-the-workspace-becomes-the-interface%2F2026-10-13-policy-guardrails-persistent-agents-and-the-composable-perso.md</link>
@@ -891,21 +906,6 @@
     <category>Perplexity</category>
     <category>Trust &amp; Safety</category>
     <category>Memory &amp; Context</category>
-  </item>
-  <item>
-    <title>Agents Go Deeper Into Your Stack</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-06-the-art-of-the-interrupt%2F2026-06-07-agents-go-deeper-into-your-stack.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-06-the-art-of-the-interrupt%2F2026-06-07-agents-go-deeper-into-your-stack.md</guid>
-    <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-    <description>Today's briefing is defined by a single directional force: AI agents are no longer living at the edge of your workflow — they are burrowing into its infrastructure. Perplexity is rethinking where computation itself happens with a hybrid loc</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Generative UI</category>
-    <category>Trust &amp; Safety</category>
   </item>
 </channel>
 </rss>
