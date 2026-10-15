@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Wed, 14 Oct 2026 12:51:18 GMT</lastBuildDate>
-  <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Thu, 15 Oct 2026 12:37:44 GMT</lastBuildDate>
+  <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>The Live Canvas, Voice Identity, and the Composable Workspace Sprint</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-10-the-workspace-becomes-the-interface%2F2026-10-15-the-live-canvas-voice-identity-and-the-composable-workspace.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-10-the-workspace-becomes-the-interface%2F2026-10-15-the-live-canvas-voice-identity-and-the-composable-workspace.md</guid>
+    <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending October 15, 2026 are defined by a convergence of three distinct forces: platforms are expanding the Claude/artifact canvas from static documents into live, connected data workspaces; xAI is making its most consequential </description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Enterprise &amp; Governance</category>
+    <category>Trust &amp; Safety</category>
+  </item>
   <item>
     <title>Agent Inboxes, Rollout Fractures, and the Subagent Governance Sprint</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-10-the-workspace-becomes-the-interface%2F2026-10-14-agent-inboxes-rollout-fractures-and-the-subagent-governance.md</link>
@@ -891,21 +906,6 @@
     <category>Perplexity</category>
     <category>Agentic Workflows</category>
     <category>Trust &amp; Safety</category>
-  </item>
-  <item>
-    <title>Trust Surfaces, Session Security, and the Agentic Memory Layer</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-06-the-art-of-the-interrupt%2F2026-06-08-trust-surfaces-session-security-and-the-agentic-memory-layer.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-06-the-art-of-the-interrupt%2F2026-06-08-trust-surfaces-session-security-and-the-agentic-memory-layer.md</guid>
-    <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
-    <description>Today's briefing is defined by a quiet but consequential theme: as agents become the persistent operating layer of daily work, the UX problem shifts from getting agents to act to trusting that they acted safely, remembered correctly, and st</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Trust &amp; Safety</category>
-    <category>Memory &amp; Context</category>
   </item>
 </channel>
 </rss>
