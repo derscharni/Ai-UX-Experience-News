@@ -174,6 +174,7 @@ _Briefings are added automatically as they are generated._
 *   [2026-10-13 - Policy Guardrails, Persistent Agents, and the Composable Persona Pivot](briefings/2026-10-the-workspace-becomes-the-interface/2026-10-13-policy-guardrails-persistent-agents-and-the-composable-perso.md)
 *   [2026-10-14 - Agent Inboxes, Rollout Fractures, and the Subagent Governance Sprint](briefings/2026-10-the-workspace-becomes-the-interface/2026-10-14-agent-inboxes-rollout-fractures-and-the-subagent-governance.md)
 *   [2026-10-15 - The Live Canvas, Voice Identity, and the Composable Workspace Sprint](briefings/2026-10-the-workspace-becomes-the-interface/2026-10-15-the-live-canvas-voice-identity-and-the-composable-workspace.md)
+*   [2026-10-16 - Voice Gets Ambient, Sandbox Goes Open, and the Hook Security Sprint](briefings/2026-10-the-workspace-becomes-the-interface/2026-10-16-voice-gets-ambient-sandbox-goes-open-and-the-hook-security-s.md)
 
 ## Monthly Management Summaries
 
