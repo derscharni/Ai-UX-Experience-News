@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Mon, 19 Oct 2026 14:36:02 GMT</lastBuildDate>
-  <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Tue, 20 Oct 2026 12:42:52 GMT</lastBuildDate>
+  <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Live Canvases Graduate, Voice Goes Agentic, and the Workspace Persona Wars</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-10-the-workspace-becomes-the-interface%2F2026-10-20-live-canvases-graduate-voice-goes-agentic-and-the-workspace.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-10-the-workspace-becomes-the-interface%2F2026-10-20-live-canvases-graduate-voice-goes-agentic-and-the-workspace.md</guid>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending October 20, 2026 consolidate a month of individual agentic-surface launches into a single, legible structural story: generative canvases are graduating from beta into infrastructure, voice is crossing from conversational</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Generative UI</category>
+  </item>
   <item>
     <title>Collaborative Canvases, Parallel Agents, and the Ambient-Memory Sprint</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-10-the-workspace-becomes-the-interface%2F2026-10-19-collaborative-canvases-parallel-agents-and-the-ambient-memor.md</link>
@@ -891,21 +906,6 @@
     <category>Perplexity</category>
     <category>Agentic Workflows</category>
     <category>Trust &amp; Safety</category>
-  </item>
-  <item>
-    <title>Memory, Oversight, and the Agent Safety Layer</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-06-the-art-of-the-interrupt%2F2026-06-11-memory-oversight-and-the-agent-safety-layer.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-06-the-art-of-the-interrupt%2F2026-06-11-memory-oversight-and-the-agent-safety-layer.md</guid>
-    <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-    <description>Today's briefing is defined by a quiet but consequential pivot: every major platform shipped at least one feature in the last 48 hours that is explicitly designed to tell users more about what their AI knows, what it has done, and what it i</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Trust &amp; Safety</category>
-    <category>Agentic Workflows</category>
   </item>
 </channel>
 </rss>
