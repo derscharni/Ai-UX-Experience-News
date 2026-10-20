@@ -176,6 +176,7 @@ _Briefings are added automatically as they are generated._
 *   [2026-10-15 - The Live Canvas, Voice Identity, and the Composable Workspace Sprint](briefings/2026-10-the-workspace-becomes-the-interface/2026-10-15-the-live-canvas-voice-identity-and-the-composable-workspace.md)
 *   [2026-10-16 - Voice Gets Ambient, Sandbox Goes Open, and the Hook Security Sprint](briefings/2026-10-the-workspace-becomes-the-interface/2026-10-16-voice-gets-ambient-sandbox-goes-open-and-the-hook-security-s.md)
 *   [2026-10-19 - Collaborative Canvases, Parallel Agents, and the Ambient-Memory Sprint](briefings/2026-10-the-workspace-becomes-the-interface/2026-10-19-collaborative-canvases-parallel-agents-and-the-ambient-memor.md)
+*   [2026-10-20 - Live Canvases Graduate, Voice Goes Agentic, and the Workspace Persona Wars](briefings/2026-10-the-workspace-becomes-the-interface/2026-10-20-live-canvases-graduate-voice-goes-agentic-and-the-workspace.md)
 
 ## Monthly Management Summaries
 
