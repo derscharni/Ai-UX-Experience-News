@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-20T12:42:52Z",
+  "updated": "2026-10-21T12:54:00Z",
   "briefings": [
+    {
+      "date": "2026-10-21",
+      "title": "On-Device Agents, Incident-Aware Bots, and the Sandbox Frontier",
+      "path": "briefings/2026-10-the-workspace-becomes-the-interface/2026-10-21-on-device-agents-incident-aware-bots-and-the-sandbox-frontie.md",
+      "month_theme": "The Workspace Becomes The Interface",
+      "month_key": "2026-10",
+      "excerpt": "The 48 hours ending October 21, 2026 are defined by a single underlying pressure: the privacy and governance boundary of where agent compute actually runs is becoming a first-class UX design decision, not a backend infrastructure detail. Pe",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows",
+        "Trust & Safety"
+      ]
+    },
     {
       "date": "2026-10-20",
       "title": "Live Canvases Graduate, Voice Goes Agentic, and the Workspace Persona Wars",
