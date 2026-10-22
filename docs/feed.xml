@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Wed, 21 Oct 2026 12:54:00 GMT</lastBuildDate>
-  <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Thu, 22 Oct 2026 12:57:15 GMT</lastBuildDate>
+  <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Proactive Agents Race, a New API Contract, and the Sovereign Compute Frontier</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-10-the-workspace-becomes-the-interface%2F2026-10-22-proactive-agents-race-a-new-api-contract-and-the-sovereign-c.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-10-the-workspace-becomes-the-interface%2F2026-10-22-proactive-agents-race-a-new-api-contract-and-the-sovereign-c.md</guid>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending October 22, 2026 are dominated by a single strategic declaration that every major platform made simultaneously and independently: the passive, prompt-and-respond interface model is over. Claude/Anthropic fires the day's </description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Agentic Workflows</category>
+    <category>Trust &amp; Safety</category>
+  </item>
   <item>
     <title>On-Device Agents, Incident-Aware Bots, and the Sandbox Frontier</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-10-the-workspace-becomes-the-interface%2F2026-10-21-on-device-agents-incident-aware-bots-and-the-sandbox-frontie.md</link>
@@ -883,21 +898,6 @@
     <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-06-the-art-of-the-interrupt%2F2026-06-23-demonstration-teaches-identity-governs-research-forks.md</guid>
     <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
     <description>The last 48 hours are defined by four interlocking stories that each advance the same underlying shift: agents are no longer configured by writing instructions — they are taught, identified, governed, and forked in real time. OpenAI Codex s</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Trust &amp; Safety</category>
-    <category>Agentic Workflows</category>
-  </item>
-  <item>
-    <title>Permission, Delegation, and the Governance of Ambient Agents</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-06-the-art-of-the-interrupt%2F2026-06-17-permission-delegation-and-the-governance-of-ambient-agents.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-06-the-art-of-the-interrupt%2F2026-06-17-permission-delegation-and-the-governance-of-ambient-agents.md</guid>
-    <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
-    <description>Today's briefing is dominated by four simultaneous moves on the governance frontier: Copilot Cowork reached worldwide general availability yesterday — June 16 — bringing a fully agentic, task-executing workspace to every Microsoft 365 Copil</description>
     <category>Claude</category>
     <category>ChatGPT</category>
     <category>Gemini</category>
