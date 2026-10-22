@@ -178,6 +178,7 @@ _Briefings are added automatically as they are generated._
 *   [2026-10-19 - Collaborative Canvases, Parallel Agents, and the Ambient-Memory Sprint](briefings/2026-10-the-workspace-becomes-the-interface/2026-10-19-collaborative-canvases-parallel-agents-and-the-ambient-memor.md)
 *   [2026-10-20 - Live Canvases Graduate, Voice Goes Agentic, and the Workspace Persona Wars](briefings/2026-10-the-workspace-becomes-the-interface/2026-10-20-live-canvases-graduate-voice-goes-agentic-and-the-workspace.md)
 *   [2026-10-21 - On-Device Agents, Incident-Aware Bots, and the Sandbox Frontier](briefings/2026-10-the-workspace-becomes-the-interface/2026-10-21-on-device-agents-incident-aware-bots-and-the-sandbox-frontie.md)
+*   [2026-10-22 - Proactive Agents Race, a New API Contract, and the Sovereign Compute Frontier](briefings/2026-10-the-workspace-becomes-the-interface/2026-10-22-proactive-agents-race-a-new-api-contract-and-the-sovereign-c.md)
 
 ## Monthly Management Summaries
 
