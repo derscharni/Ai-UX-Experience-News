@@ -179,6 +179,7 @@ _Briefings are added automatically as they are generated._
 *   [2026-10-20 - Live Canvases Graduate, Voice Goes Agentic, and the Workspace Persona Wars](briefings/2026-10-the-workspace-becomes-the-interface/2026-10-20-live-canvases-graduate-voice-goes-agentic-and-the-workspace.md)
 *   [2026-10-21 - On-Device Agents, Incident-Aware Bots, and the Sandbox Frontier](briefings/2026-10-the-workspace-becomes-the-interface/2026-10-21-on-device-agents-incident-aware-bots-and-the-sandbox-frontie.md)
 *   [2026-10-22 - Proactive Agents Race, a New API Contract, and the Sovereign Compute Frontier](briefings/2026-10-the-workspace-becomes-the-interface/2026-10-22-proactive-agents-race-a-new-api-contract-and-the-sovereign-c.md)
+*   [2026-10-23 - Open Standards, Safety Telemetry, and the Voice Interaction Frontier](briefings/2026-10-the-workspace-becomes-the-interface/2026-10-23-open-standards-safety-telemetry-and-the-voice-interaction-fr.md)
 
 ## Monthly Management Summaries
 
