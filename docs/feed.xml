@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Fri, 23 Oct 2026 12:36:14 GMT</lastBuildDate>
-  <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Mon, 26 Oct 2026 14:08:33 GMT</lastBuildDate>
+  <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Workflow Consolidation, eDiscovery Trails, and the Custom GPT Sunset</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-10-the-workspace-becomes-the-interface%2F2026-10-26-workflow-consolidation-ediscovery-trails-and-the-custom-gpt.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-10-the-workspace-becomes-the-interface%2F2026-10-26-workflow-consolidation-ediscovery-trails-and-the-custom-gpt.md</guid>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending October 26, 2026 are defined by four simultaneous convergences in the Agent2Agent2Human design space: platforms are absorbing their standalone surfaces into unified workflow canvases, governments and enterprises are dema</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Agentic Workflows</category>
+    <category>Enterprise &amp; Governance</category>
+  </item>
   <item>
     <title>Open Standards, Safety Telemetry, and the Voice Interaction Frontier</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-10-the-workspace-becomes-the-interface%2F2026-10-23-open-standards-safety-telemetry-and-the-voice-interaction-fr.md</link>
@@ -891,21 +906,6 @@
     <category>Perplexity</category>
     <category>Generative UI</category>
     <category>Identity &amp; Security</category>
-  </item>
-  <item>
-    <title>Design Canvases, Identity Layers, and the Browser as Agent Surface</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-06-the-art-of-the-interrupt%2F2026-06-24-design-canvases-identity-layers-and-the-browser-as-agent-sur.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-06-the-art-of-the-interrupt%2F2026-06-24-design-canvases-identity-layers-and-the-browser-as-agent-sur.md</guid>
-    <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
-    <description>The last 48 hours resolve into four interlocking design fronts. Claude Design shipped a major June 17 overhaul that turns the conversational canvas into a brand-governed, two-way workspace: imported design systems, direct WYSIWYG canvas edi</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Trust &amp; Safety</category>
-    <category>Browser &amp; Computer Use</category>
   </item>
 </channel>
 </rss>
