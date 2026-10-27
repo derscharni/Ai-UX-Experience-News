@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-26T14:08:32Z",
+  "updated": "2026-10-27T13:09:27Z",
   "briefings": [
+    {
+      "date": "2026-10-27",
+      "title": "On-Device Agents, Agentic Canvases, and the Computer-Use Cost Curve",
+      "path": "briefings/2026-10-the-workspace-becomes-the-interface/2026-10-27-on-device-agents-agentic-canvases-and-the-computer-use-cost.md",
+      "month_theme": "The Workspace Becomes The Interface",
+      "month_key": "2026-10",
+      "excerpt": "The 48 hours ending October 27, 2026 are defined by four simultaneous convergences that together mark a new phase of the Agent2Agent2Human design space: platforms are making their agentic workspaces deeper and more persistent, on-device exe",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Enterprise & Governance"
+      ]
+    },
     {
       "date": "2026-10-26",
       "title": "Workflow Consolidation, eDiscovery Trails, and the Custom GPT Sunset",
