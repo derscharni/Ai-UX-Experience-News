@@ -181,6 +181,7 @@ _Briefings are added automatically as they are generated._
 *   [2026-10-22 - Proactive Agents Race, a New API Contract, and the Sovereign Compute Frontier](briefings/2026-10-the-workspace-becomes-the-interface/2026-10-22-proactive-agents-race-a-new-api-contract-and-the-sovereign-c.md)
 *   [2026-10-23 - Open Standards, Safety Telemetry, and the Voice Interaction Frontier](briefings/2026-10-the-workspace-becomes-the-interface/2026-10-23-open-standards-safety-telemetry-and-the-voice-interaction-fr.md)
 *   [2026-10-26 - Workflow Consolidation, eDiscovery Trails, and the Custom GPT Sunset](briefings/2026-10-the-workspace-becomes-the-interface/2026-10-26-workflow-consolidation-ediscovery-trails-and-the-custom-gpt.md)
+*   [2026-10-27 - On-Device Agents, Agentic Canvases, and the Computer-Use Cost Curve](briefings/2026-10-the-workspace-becomes-the-interface/2026-10-27-on-device-agents-agentic-canvases-and-the-computer-use-cost.md)
 
 ## Monthly Management Summaries
 
