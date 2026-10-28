@@ -182,6 +182,7 @@ _Briefings are added automatically as they are generated._
 *   [2026-10-23 - Open Standards, Safety Telemetry, and the Voice Interaction Frontier](briefings/2026-10-the-workspace-becomes-the-interface/2026-10-23-open-standards-safety-telemetry-and-the-voice-interaction-fr.md)
 *   [2026-10-26 - Workflow Consolidation, eDiscovery Trails, and the Custom GPT Sunset](briefings/2026-10-the-workspace-becomes-the-interface/2026-10-26-workflow-consolidation-ediscovery-trails-and-the-custom-gpt.md)
 *   [2026-10-27 - On-Device Agents, Agentic Canvases, and the Computer-Use Cost Curve](briefings/2026-10-the-workspace-becomes-the-interface/2026-10-27-on-device-agents-agentic-canvases-and-the-computer-use-cost.md)
+*   [2026-10-28 - Ambient Delegation, MCP at the OS Layer, and the iCloud Agent Gap](briefings/2026-10-the-workspace-becomes-the-interface/2026-10-28-ambient-delegation-mcp-at-the-os-layer-and-the-icloud-agent.md)
 
 ## Monthly Management Summaries
 
