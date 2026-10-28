@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Tue, 27 Oct 2026 13:09:27 GMT</lastBuildDate>
-  <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Wed, 28 Oct 2026 14:00:22 GMT</lastBuildDate>
+  <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Ambient Delegation, MCP at the OS Layer, and the iCloud Agent Gap</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-10-the-workspace-becomes-the-interface%2F2026-10-28-ambient-delegation-mcp-at-the-os-layer-and-the-icloud-agent.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-10-the-workspace-becomes-the-interface%2F2026-10-28-ambient-delegation-mcp-at-the-os-layer-and-the-icloud-agent.md</guid>
+    <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending October 28, 2026 are defined by a single clarifying question that every major platform is answering in a different way: when an AI agent operates inside personal data — your mail, your documents, your calendar — who cont</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Agentic Workflows</category>
+    <category>Trust &amp; Safety</category>
+  </item>
   <item>
     <title>On-Device Agents, Agentic Canvases, and the Computer-Use Cost Curve</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-10-the-workspace-becomes-the-interface%2F2026-10-27-on-device-agents-agentic-canvases-and-the-computer-use-cost.md</link>
@@ -883,21 +898,6 @@
     <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-06-the-art-of-the-interrupt%2F2026-06-29-desktop-agents-scheduled-tasks-and-the-session-observatory.md</guid>
     <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
     <description>The last 48 hours land on four stories that together describe a single shift in agentic UX: the locus of agent control is moving from cloud tab to local desktop and phone, and the interfaces that manage that expansion are maturing fast. Goo</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Trust &amp; Safety</category>
-    <category>Agentic Workflows</category>
-  </item>
-  <item>
-    <title>Autopilots, Security Surfaces, and the Canvas Retirement</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-06-the-art-of-the-interrupt%2F2026-06-26-autopilots-security-surfaces-and-the-canvas-retirement.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-06-the-art-of-the-interrupt%2F2026-06-26-autopilots-security-surfaces-and-the-canvas-retirement.md</guid>
-    <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-    <description>The last 48 hours consolidate around four stories that together mark a new phase in agentic maturity. Claude/Anthropic reaches a distribution milestone with the GA of Claude in Microsoft Foundry, making Azure the first cloud to host both Cl</description>
     <category>Claude</category>
     <category>ChatGPT</category>
     <category>Gemini</category>
