@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Wed, 28 Oct 2026 14:00:22 GMT</lastBuildDate>
-  <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Thu, 29 Oct 2026 14:07:53 GMT</lastBuildDate>
+  <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Voice as an Agentic Control Surface, Copilot UX Components, and the Notebook Integration Wave</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-10-the-workspace-becomes-the-interface%2F2026-10-29-voice-as-an-agentic-control-surface-copilot-ux-components-an.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-10-the-workspace-becomes-the-interface%2F2026-10-29-voice-as-an-agentic-control-surface-copilot-ux-components-an.md</guid>
+    <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending October 29, 2026 are marked by a convergence across five products on a single structural question: what happens when the voice layer becomes the primary orchestration surface for multi-agent, multi-session agentic workfl</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Agentic Workflows</category>
+    <category>Trust &amp; Safety</category>
+  </item>
   <item>
     <title>Ambient Delegation, MCP at the OS Layer, and the iCloud Agent Gap</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-10-the-workspace-becomes-the-interface%2F2026-10-28-ambient-delegation-mcp-at-the-os-layer-and-the-icloud-agent.md</link>
@@ -883,21 +898,6 @@
     <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-06-the-art-of-the-interrupt%2F2026-06-30-remote-agents-biometric-gates-and-the-desktop-frontier.md</guid>
     <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
     <description>The 48 hours ending June 30 are defined by a single competitive race: every major platform is landing its first or most mature desktop-native agent, and every trust layer is being hardened to match the expanded attack surface that remote, l</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Trust &amp; Safety</category>
-    <category>Agentic Workflows</category>
-  </item>
-  <item>
-    <title>Desktop Agents, Scheduled Tasks, and the Session Observatory</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-06-the-art-of-the-interrupt%2F2026-06-29-desktop-agents-scheduled-tasks-and-the-session-observatory.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-06-the-art-of-the-interrupt%2F2026-06-29-desktop-agents-scheduled-tasks-and-the-session-observatory.md</guid>
-    <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
-    <description>The last 48 hours land on four stories that together describe a single shift in agentic UX: the locus of agent control is moving from cloud tab to local desktop and phone, and the interfaces that manage that expansion are maturing fast. Goo</description>
     <category>Claude</category>
     <category>ChatGPT</category>
     <category>Gemini</category>
