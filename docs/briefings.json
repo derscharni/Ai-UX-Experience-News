@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-29T14:07:53Z",
+  "updated": "2026-10-30T14:00:41Z",
   "briefings": [
+    {
+      "date": "2026-10-30",
+      "title": "Supply Chain Trust, In-Chat Document Editing, and the Agentic Shopping Surface",
+      "path": "briefings/2026-10-the-workspace-becomes-the-interface/2026-10-30-supply-chain-trust-in-chat-document-editing-and-the-agentic.md",
+      "month_theme": "The Workspace Becomes The Interface",
+      "month_key": "2026-10",
+      "excerpt": "The 48 hours ending October 30, 2026 are marked by a simultaneous challenge on two fronts: the trust and safety layer of the agent-tool delivery pipeline, exposed overnight by the Cursor marketplace trojanization incident affecting the Clau",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
+      ]
+    },
     {
       "date": "2026-10-29",
       "title": "Voice as an Agentic Control Surface, Copilot UX Components, and the Notebook Integration Wave",
