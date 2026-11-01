@@ -197,6 +197,8 @@ To provide a high-level overview of the most significant themes and shifts in th
 
 *   [**August 2026 Summary**](summary-2026-08.md): Details the industry-wide inversion from human-approval-default to classifier-gated agentic autonomy, the ambient surface expansion of AI into OS kernels, physical spaces, and persistent cloud-based digital coworkers, and the simultaneous—if barely-keeping-pace—build-out of credential isolation, session budgets, and tamper-evident audit infrastructure to govern the trust debt that expansion creates.
 
+*   [**October 2026 Summary**](summary-2026-10.md): Details the colonization of live work environments by always-on agentic infrastructure, the emergence of compute sovereignty and supply-chain integrity as first-class UX concerns, and the industry's recognition that scaling agent capability across every workspace surface demands equally ambitious governance, transparency, and legibility at every layer of the stack.
+
 
 ## Automation
 
