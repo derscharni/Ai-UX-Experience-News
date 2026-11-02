@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-30T14:00:41Z",
+  "updated": "2026-11-02T17:01:17Z",
   "briefings": [
+    {
+      "date": "2026-11-02",
+      "title": "Prompt-Level Trust Guardrails, Unified Chat Surfaces, and the AI-Content Watermarking Wave",
+      "path": "briefings/2026-11-the-trust-layer-becomes-visible/2026-11-02-prompt-level-trust-guardrails-unified-chat-surfaces-and-the.md",
+      "month_theme": "The Trust Layer Becomes Visible",
+      "month_key": "2026-11",
+      "excerpt": "The 48 hours ending November 2, 2026 are defined by two simultaneous movements: a wave of trust-design changes shipping at the system level — invisible text watermarks, prompt-level behavioural guardrails, and governance migration timelines",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
+      ]
+    },
     {
       "date": "2026-10-30",
       "title": "Supply Chain Trust, In-Chat Document Editing, and the Agentic Shopping Surface",
@@ -2620,6 +2640,10 @@
     }
   ],
   "summaries": [
+    {
+      "month": "2026-10",
+      "path": "summary-2026-10.md"
+    },
     {
       "month": "2026-08",
       "path": "summary-2026-08.md"

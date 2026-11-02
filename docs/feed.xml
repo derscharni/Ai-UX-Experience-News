@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Fri, 30 Oct 2026 14:00:41 GMT</lastBuildDate>
-  <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Mon, 02 Nov 2026 17:01:17 GMT</lastBuildDate>
+  <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Prompt-Level Trust Guardrails, Unified Chat Surfaces, and the AI-Content Watermarking Wave</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-02-prompt-level-trust-guardrails-unified-chat-surfaces-and-the.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-02-prompt-level-trust-guardrails-unified-chat-surfaces-and-the.md</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending November 2, 2026 are defined by two simultaneous movements: a wave of trust-design changes shipping at the system level — invisible text watermarks, prompt-level behavioural guardrails, and governance migration timelines</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Agentic Workflows</category>
+  </item>
   <item>
     <title>Supply Chain Trust, In-Chat Document Editing, and the Agentic Shopping Surface</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-10-the-workspace-becomes-the-interface%2F2026-10-30-supply-chain-trust-in-chat-document-editing-and-the-agentic.md</link>
@@ -891,21 +906,6 @@
     <category>Perplexity</category>
     <category>Agentic Workflows</category>
     <category>Trust &amp; Safety</category>
-  </item>
-  <item>
-    <title>Safeguards, Classifiers, and the No-Code Voice Frontier</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-01-safeguards-classifiers-and-the-no-code-voice-frontier.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-01-safeguards-classifiers-and-the-no-code-voice-frontier.md</guid>
-    <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
-    <description>The 48 hours ending July 1 are defined by a convergence of four design stories that together mark the first day of a new phase in agentic AI: access is being restored, safety architectures are being visibly surfaced to users, and the builde</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Trust &amp; Safety</category>
-    <category>Generative UI</category>
   </item>
 </channel>
 </rss>
