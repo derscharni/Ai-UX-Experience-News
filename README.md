@@ -186,6 +186,9 @@ _Briefings are added automatically as they are generated._
 *   [2026-10-29 - Voice as an Agentic Control Surface, Copilot UX Components, and the Notebook Integration Wave](briefings/2026-10-the-workspace-becomes-the-interface/2026-10-29-voice-as-an-agentic-control-surface-copilot-ux-components-an.md)
 *   [2026-10-30 - Supply Chain Trust, In-Chat Document Editing, and the Agentic Shopping Surface](briefings/2026-10-the-workspace-becomes-the-interface/2026-10-30-supply-chain-trust-in-chat-document-editing-and-the-agentic.md)
 
+### November 2026 — *The Trust Layer Becomes Visible* (`briefings/2026-11-the-trust-layer-becomes-visible/`)
+*   [2026-11-02 - Prompt-Level Trust Guardrails, Unified Chat Surfaces, and the AI-Content Watermarking Wave](briefings/2026-11-the-trust-layer-becomes-visible/2026-11-02-prompt-level-trust-guardrails-unified-chat-surfaces-and-the.md)
+
 ## Monthly Management Summaries
 
 To provide a high-level overview of the most significant themes and shifts in the agentic ecosystem, concise management summaries (1-2 pages) are available at the top level of this repository. These documents synthesize the daily briefings to highlight the macro trends shaping the future of human-computer interaction.
