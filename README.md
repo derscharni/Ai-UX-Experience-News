@@ -188,6 +188,7 @@ _Briefings are added automatically as they are generated._
 
 ### November 2026 — *The Trust Layer Becomes Visible* (`briefings/2026-11-the-trust-layer-becomes-visible/`)
 *   [2026-11-02 - Prompt-Level Trust Guardrails, Unified Chat Surfaces, and the AI-Content Watermarking Wave](briefings/2026-11-the-trust-layer-becomes-visible/2026-11-02-prompt-level-trust-guardrails-unified-chat-surfaces-and-the.md)
+*   [2026-11-03 - Agent Latency, Unified Homes, and the Office-in-Chat Pivot](briefings/2026-11-the-trust-layer-becomes-visible/2026-11-03-agent-latency-unified-homes-and-the-office-in-chat-pivot.md)
 
 ## Monthly Management Summaries
 
