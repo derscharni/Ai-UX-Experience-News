@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Mon, 02 Nov 2026 17:01:17 GMT</lastBuildDate>
-  <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Tue, 03 Nov 2026 15:01:26 GMT</lastBuildDate>
+  <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Agent Latency, Unified Homes, and the Office-in-Chat Pivot</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-03-agent-latency-unified-homes-and-the-office-in-chat-pivot.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-03-agent-latency-unified-homes-and-the-office-in-chat-pivot.md</guid>
+    <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending November 3, 2026 are defined by two simultaneous design convergences: the chat surface swallowing the application layer — with Microsoft announcing the retirement of standalone Word, Excel, and PowerPoint agents in favou</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Agentic Workflows</category>
+    <category>Trust &amp; Safety</category>
+  </item>
   <item>
     <title>Prompt-Level Trust Guardrails, Unified Chat Surfaces, and the AI-Content Watermarking Wave</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-02-prompt-level-trust-guardrails-unified-chat-surfaces-and-the.md</link>
@@ -891,21 +906,6 @@
     <category>Perplexity</category>
     <category>Trust &amp; Safety</category>
     <category>Enterprise &amp; Governance</category>
-  </item>
-  <item>
-    <title>Agentic Defaults, Dynamic Workflows, and the Fleet Control Layer</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-02-agentic-defaults-dynamic-workflows-and-the-fleet-control-lay.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-02-agentic-defaults-dynamic-workflows-and-the-fleet-control-lay.md</guid>
-    <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
-    <description>The 48 hours ending July 2 are defined by a decisive shift in where agentic capability lives on the cost and control spectrum: every major platform is racing to make its most powerful agent-grade behaviours the default experience rather tha</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Agentic Workflows</category>
-    <category>Trust &amp; Safety</category>
   </item>
 </channel>
 </rss>

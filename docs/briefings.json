@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-02T17:01:17Z",
+  "updated": "2026-11-03T15:01:26Z",
   "briefings": [
+    {
+      "date": "2026-11-03",
+      "title": "Agent Latency, Unified Homes, and the Office-in-Chat Pivot",
+      "path": "briefings/2026-11-the-trust-layer-becomes-visible/2026-11-03-agent-latency-unified-homes-and-the-office-in-chat-pivot.md",
+      "month_theme": "The Trust Layer Becomes Visible",
+      "month_key": "2026-11",
+      "excerpt": "The 48 hours ending November 3, 2026 are defined by two simultaneous design convergences: the chat surface swallowing the application layer — with Microsoft announcing the retirement of standalone Word, Excel, and PowerPoint agents in favou",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows",
+        "Trust & Safety"
+      ]
+    },
     {
       "date": "2026-11-02",
       "title": "Prompt-Level Trust Guardrails, Unified Chat Surfaces, and the AI-Content Watermarking Wave",
