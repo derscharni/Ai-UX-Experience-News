@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-03T15:01:26Z",
+  "updated": "2026-11-04T15:21:50Z",
   "briefings": [
+    {
+      "date": "2026-11-04",
+      "title": "Mod Consent Logging, Dots Multi-Model Routing, and the Floating Overlay Wave",
+      "path": "briefings/2026-11-the-trust-layer-becomes-visible/2026-11-04-mod-consent-logging-dots-multi-model-routing-and-the-floatin.md",
+      "month_theme": "The Trust Layer Becomes Visible",
+      "month_key": "2026-11",
+      "excerpt": "The 48 hours ending November 4, 2026 are defined by three simultaneous design movements: an agent consent and transparency tightening at the session layer, with Claude Code 2.1.318 introducing persistent records of users' mod-activation ans",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
+      ]
+    },
     {
       "date": "2026-11-03",
       "title": "Agent Latency, Unified Homes, and the Office-in-Chat Pivot",
