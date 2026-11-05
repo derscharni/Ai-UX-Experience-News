@@ -190,6 +190,7 @@ _Briefings are added automatically as they are generated._
 *   [2026-11-02 - Prompt-Level Trust Guardrails, Unified Chat Surfaces, and the AI-Content Watermarking Wave](briefings/2026-11-the-trust-layer-becomes-visible/2026-11-02-prompt-level-trust-guardrails-unified-chat-surfaces-and-the.md)
 *   [2026-11-03 - Agent Latency, Unified Homes, and the Office-in-Chat Pivot](briefings/2026-11-the-trust-layer-becomes-visible/2026-11-03-agent-latency-unified-homes-and-the-office-in-chat-pivot.md)
 *   [2026-11-04 - Mod Consent Logging, Dots Multi-Model Routing, and the Floating Overlay Wave](briefings/2026-11-the-trust-layer-becomes-visible/2026-11-04-mod-consent-logging-dots-multi-model-routing-and-the-floatin.md)
+*   [2026-11-05 - Animated Output, Enterprise Agent Governance, and the Guided Learning Lockdown](briefings/2026-11-the-trust-layer-becomes-visible/2026-11-05-animated-output-enterprise-agent-governance-and-the-guided-l.md)
 
 ## Monthly Management Summaries
 
