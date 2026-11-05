@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-04T15:21:50Z",
+  "updated": "2026-11-05T15:22:39Z",
   "briefings": [
+    {
+      "date": "2026-11-05",
+      "title": "Animated Output, Enterprise Agent Governance, and the Guided Learning Lockdown",
+      "path": "briefings/2026-11-the-trust-layer-becomes-visible/2026-11-05-animated-output-enterprise-agent-governance-and-the-guided-l.md",
+      "month_theme": "The Trust Layer Becomes Visible",
+      "month_key": "2026-11",
+      "excerpt": "The 48 hours ending November 5, 2026 are defined by three simultaneous design movements: ChatGPT Images 2.6 shipping native animated-GIF creation and persistent reference-image libraries to all plans — the first time motion has returned to ",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Enterprise & Governance"
+      ]
+    },
     {
       "date": "2026-11-04",
       "title": "Mod Consent Logging, Dots Multi-Model Routing, and the Floating Overlay Wave",
