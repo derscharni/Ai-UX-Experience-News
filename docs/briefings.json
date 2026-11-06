@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-05T15:22:39Z",
+  "updated": "2026-11-06T14:59:00Z",
   "briefings": [
+    {
+      "date": "2026-11-06",
+      "title": "Persistent Agents, Watermark Proliferation, and the Office Agent Collapse",
+      "path": "briefings/2026-11-the-trust-layer-becomes-visible/2026-11-06-persistent-agents-watermark-proliferation-and-the-office-age.md",
+      "month_theme": "The Trust Layer Becomes Visible",
+      "month_key": "2026-11",
+      "excerpt": "The 48 hours ending November 6, 2026 are defined by three simultaneous design movements: a persistent-agent proliferation surge, with Perplexity launching Teammates on November 5 as the most fully-realised multi-agent workspace yet shipped ",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Agentic Workflows",
+        "Trust & Safety"
+      ]
+    },
     {
       "date": "2026-11-05",
       "title": "Animated Output, Enterprise Agent Governance, and the Guided Learning Lockdown",
