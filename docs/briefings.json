@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-06T14:59:00Z",
+  "updated": "2026-11-09T17:25:17Z",
   "briefings": [
+    {
+      "date": "2026-11-09",
+      "title": "Personal Finance Agents, Enterprise Security Layers, and the In-Chat Canvas Revolution",
+      "path": "briefings/2026-11-the-trust-layer-becomes-visible/2026-11-09-personal-finance-agents-enterprise-security-layers-and-the-i.md",
+      "month_theme": "The Trust Layer Becomes Visible",
+      "month_key": "2026-11",
+      "excerpt": "The 48 hours ending November 9, 2026 are defined by three simultaneous design movements: Claude Personal Finance launching on November 5 as the most fully-realised conversational finance hub yet shipped by a major AI platform — connecting b",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Enterprise & Governance",
+        "Trust & Safety"
+      ]
+    },
     {
       "date": "2026-11-06",
       "title": "Persistent Agents, Watermark Proliferation, and the Office Agent Collapse",
