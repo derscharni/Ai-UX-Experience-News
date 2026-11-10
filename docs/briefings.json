@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-09T17:25:17Z",
+  "updated": "2026-11-10T15:33:58Z",
   "briefings": [
+    {
+      "date": "2026-11-10",
+      "title": "Long-Horizon Agents, Skill Surfaces, and the Fallback Trust Gap",
+      "path": "briefings/2026-11-the-trust-layer-becomes-visible/2026-11-10-long-horizon-agents-skill-surfaces-and-the-fallback-trust-ga.md",
+      "month_theme": "The Trust Layer Becomes Visible",
+      "month_key": "2026-11",
+      "excerpt": "The 48 hours ending November 10, 2026 are defined by three simultaneous design movements: an agentic capability step-change, with Anthropic shipping Claude Fable 5.2 on November 9 as a publicly available model explicitly designed to coordin",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
+      ]
+    },
     {
       "date": "2026-11-09",
       "title": "Personal Finance Agents, Enterprise Security Layers, and the In-Chat Canvas Revolution",
