@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-10T15:33:58Z",
+  "updated": "2026-11-11T15:05:05Z",
   "briefings": [
+    {
+      "date": "2026-11-11",
+      "title": "Workplace Suites, Voice Consolidation, and the Provenance Signal",
+      "path": "briefings/2026-11-the-trust-layer-becomes-visible/2026-11-11-workplace-suites-voice-consolidation-and-the-provenance-sign.md",
+      "month_theme": "The Trust Layer Becomes Visible",
+      "month_key": "2026-11",
+      "excerpt": "The 48 hours ending November 11, 2026 are defined by four simultaneous design movements: Anthropic completing the most ambitious single-day workplace suite expansion any AI platform has attempted — shipping Claude Whiteboards, Claude Sheets",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Enterprise & Governance"
+      ]
+    },
     {
       "date": "2026-11-10",
       "title": "Long-Horizon Agents, Skill Surfaces, and the Fallback Trust Gap",

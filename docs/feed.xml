@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Tue, 10 Nov 2026 15:33:58 GMT</lastBuildDate>
-  <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Wed, 11 Nov 2026 15:05:05 GMT</lastBuildDate>
+  <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Workplace Suites, Voice Consolidation, and the Provenance Signal</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-11-workplace-suites-voice-consolidation-and-the-provenance-sign.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-11-workplace-suites-voice-consolidation-and-the-provenance-sign.md</guid>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending November 11, 2026 are defined by four simultaneous design movements: Anthropic completing the most ambitious single-day workplace suite expansion any AI platform has attempted — shipping Claude Whiteboards, Claude Sheets</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Enterprise &amp; Governance</category>
+  </item>
   <item>
     <title>Long-Horizon Agents, Skill Surfaces, and the Fallback Trust Gap</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-10-long-horizon-agents-skill-surfaces-and-the-fallback-trust-ga.md</link>
@@ -891,21 +906,6 @@
     <category>Perplexity</category>
     <category>Trust &amp; Safety</category>
     <category>Agentic Workflows</category>
-  </item>
-  <item>
-    <title>Generative UI, Messaging Surfaces, and the Accessibility Turn</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-14-generative-ui-messaging-surfaces-and-the-accessibility-turn.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-14-generative-ui-messaging-surfaces-and-the-accessibility-turn.md</guid>
-    <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
-    <description>The 48 hours ending July 14 are shaped by three simultaneous forces: the generative UI race reaching the consumer Gemini app and Google Search with on-the-fly interactive interfaces; the ambient platform expansion of ChatGPT back onto Whats</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Trust &amp; Safety</category>
-    <category>Generative UI</category>
   </item>
 </channel>
 </rss>
