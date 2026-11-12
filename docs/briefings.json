@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-11T15:05:05Z",
+  "updated": "2026-11-12T15:58:16Z",
   "briefings": [
+    {
+      "date": "2026-11-12",
+      "title": "Policy Floors, Persistent Teammates, and the Proactive-Agent Turn",
+      "path": "briefings/2026-11-the-trust-layer-becomes-visible/2026-11-12-policy-floors-persistent-teammates-and-the-proactive-agent-t.md",
+      "month_theme": "The Trust Layer Becomes Visible",
+      "month_key": "2026-11",
+      "excerpt": "The 48 hours ending November 12, 2026 are defined by four simultaneous design movements: Anthropic's updated Usage Policy taking effect today — the first policy rewrite in over a year — which formalises Claude's existing conversation-termin",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
+      ]
+    },
     {
       "date": "2026-11-11",
       "title": "Workplace Suites, Voice Consolidation, and the Provenance Signal",
