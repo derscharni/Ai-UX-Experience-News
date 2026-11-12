@@ -195,6 +195,7 @@ _Briefings are added automatically as they are generated._
 *   [2026-11-09 - Personal Finance Agents, Enterprise Security Layers, and the In-Chat Canvas Revolution](briefings/2026-11-the-trust-layer-becomes-visible/2026-11-09-personal-finance-agents-enterprise-security-layers-and-the-i.md)
 *   [2026-11-10 - Long-Horizon Agents, Skill Surfaces, and the Fallback Trust Gap](briefings/2026-11-the-trust-layer-becomes-visible/2026-11-10-long-horizon-agents-skill-surfaces-and-the-fallback-trust-ga.md)
 *   [2026-11-11 - Workplace Suites, Voice Consolidation, and the Provenance Signal](briefings/2026-11-the-trust-layer-becomes-visible/2026-11-11-workplace-suites-voice-consolidation-and-the-provenance-sign.md)
+*   [2026-11-12 - Policy Floors, Persistent Teammates, and the Proactive-Agent Turn](briefings/2026-11-the-trust-layer-becomes-visible/2026-11-12-policy-floors-persistent-teammates-and-the-proactive-agent-t.md)
 
 ## Monthly Management Summaries
 
