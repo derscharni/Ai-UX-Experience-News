@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-12T15:58:16Z",
+  "updated": "2026-11-13T15:20:06Z",
   "briefings": [
+    {
+      "date": "2026-11-13",
+      "title": "Authentication Walls, Orchestrated Agents, and the Audit-Trail Moment",
+      "path": "briefings/2026-11-the-trust-layer-becomes-visible/2026-11-13-authentication-walls-orchestrated-agents-and-the-audit-trail.md",
+      "month_theme": "The Trust Layer Becomes Visible",
+      "month_key": "2026-11",
+      "excerpt": "The 48 hours ending November 13, 2026 are defined by four simultaneous design movements: Anthropic suffering its most visible infrastructure incident in months — a multi-surface authentication outage beginning at 09:58 UTC on November 13 th",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
+      ]
+    },
     {
       "date": "2026-11-12",
       "title": "Policy Floors, Persistent Teammates, and the Proactive-Agent Turn",

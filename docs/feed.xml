@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Thu, 12 Nov 2026 15:58:16 GMT</lastBuildDate>
-  <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Fri, 13 Nov 2026 15:20:06 GMT</lastBuildDate>
+  <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Authentication Walls, Orchestrated Agents, and the Audit-Trail Moment</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-13-authentication-walls-orchestrated-agents-and-the-audit-trail.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-13-authentication-walls-orchestrated-agents-and-the-audit-trail.md</guid>
+    <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending November 13, 2026 are defined by four simultaneous design movements: Anthropic suffering its most visible infrastructure incident in months — a multi-surface authentication outage beginning at 09:58 UTC on November 13 th</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Agentic Workflows</category>
+  </item>
   <item>
     <title>Policy Floors, Persistent Teammates, and the Proactive-Agent Turn</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-12-policy-floors-persistent-teammates-and-the-proactive-agent-t.md</link>
@@ -891,21 +906,6 @@
     <category>Perplexity</category>
     <category>Trust &amp; Safety</category>
     <category>Enterprise &amp; Governance</category>
-  </item>
-  <item>
-    <title>Compliance Surfaces, Sandbox Trust, and the Personalisation Layer</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-16-compliance-surfaces-sandbox-trust-and-the-personalisation-la.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-16-compliance-surfaces-sandbox-trust-and-the-personalisation-la.md</guid>
-    <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
-    <description>The 48 hours ending July 16 are defined by four concurrent forces reshaping what "trusted agentic AI" means at the product layer: Claude's self-serve HIPAA configuration landing as a one-step admin flow that eliminates the compliance sales </description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Enterprise &amp; Governance</category>
-    <category>Trust &amp; Safety</category>
   </item>
 </channel>
 </rss>
