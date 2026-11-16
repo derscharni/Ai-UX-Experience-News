@@ -197,6 +197,7 @@ _Briefings are added automatically as they are generated._
 *   [2026-11-11 - Workplace Suites, Voice Consolidation, and the Provenance Signal](briefings/2026-11-the-trust-layer-becomes-visible/2026-11-11-workplace-suites-voice-consolidation-and-the-provenance-sign.md)
 *   [2026-11-12 - Policy Floors, Persistent Teammates, and the Proactive-Agent Turn](briefings/2026-11-the-trust-layer-becomes-visible/2026-11-12-policy-floors-persistent-teammates-and-the-proactive-agent-t.md)
 *   [2026-11-13 - Authentication Walls, Orchestrated Agents, and the Audit-Trail Moment](briefings/2026-11-the-trust-layer-becomes-visible/2026-11-13-authentication-walls-orchestrated-agents-and-the-audit-trail.md)
+*   [2026-11-16 - Wallets, Write Actions, and the Trust-Primitive Sprint to Ignite](briefings/2026-11-the-trust-layer-becomes-visible/2026-11-16-wallets-write-actions-and-the-trust-primitive-sprint-to-igni.md)
 
 ## Monthly Management Summaries
 
