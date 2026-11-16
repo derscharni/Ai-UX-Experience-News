@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-13T15:20:06Z",
+  "updated": "2026-11-16T16:58:57Z",
   "briefings": [
+    {
+      "date": "2026-11-16",
+      "title": "Wallets, Write Actions, and the Trust-Primitive Sprint to Ignite",
+      "path": "briefings/2026-11-the-trust-layer-becomes-visible/2026-11-16-wallets-write-actions-and-the-trust-primitive-sprint-to-igni.md",
+      "month_theme": "The Trust Layer Becomes Visible",
+      "month_key": "2026-11",
+      "excerpt": "The 48 hours ending November 16, 2026 are defined by four simultaneous design movements: OpenAI shipping ChatGPT Wallet on November 13 as the first native agentic payment surface on any major AI platform — dots agents can now complete purch",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Enterprise & Governance"
+      ]
+    },
     {
       "date": "2026-11-13",
       "title": "Authentication Walls, Orchestrated Agents, and the Audit-Trail Moment",

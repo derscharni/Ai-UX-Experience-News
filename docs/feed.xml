@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Fri, 13 Nov 2026 15:20:06 GMT</lastBuildDate>
-  <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Mon, 16 Nov 2026 16:58:57 GMT</lastBuildDate>
+  <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Wallets, Write Actions, and the Trust-Primitive Sprint to Ignite</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-16-wallets-write-actions-and-the-trust-primitive-sprint-to-igni.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-16-wallets-write-actions-and-the-trust-primitive-sprint-to-igni.md</guid>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending November 16, 2026 are defined by four simultaneous design movements: OpenAI shipping ChatGPT Wallet on November 13 as the first native agentic payment surface on any major AI platform — dots agents can now complete purch</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Enterprise &amp; Governance</category>
+  </item>
   <item>
     <title>Authentication Walls, Orchestrated Agents, and the Audit-Trail Moment</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-13-authentication-walls-orchestrated-agents-and-the-audit-trail.md</link>
@@ -891,21 +906,6 @@
     <category>Perplexity</category>
     <category>Trust &amp; Safety</category>
     <category>Memory &amp; Context</category>
-  </item>
-  <item>
-    <title>Open Source as Trust Signal, Agentic Memory, and the New Tasks Layer</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-17-open-source-as-trust-signal-agentic-memory-and-the-new-tasks.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-17-open-source-as-trust-signal-agentic-memory-and-the-new-tasks.md</guid>
-    <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
-    <description>The 48 hours ending July 17 are defined by a trust crisis and a trust response — both originating from the same product — that make this one of the most consequential windows for agent-safety UX the industry has produced this year. Grok Bui</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Trust &amp; Safety</category>
-    <category>Enterprise &amp; Governance</category>
   </item>
 </channel>
 </rss>
