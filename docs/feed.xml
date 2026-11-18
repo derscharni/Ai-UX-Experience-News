@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Tue, 17 Nov 2026 16:52:55 GMT</lastBuildDate>
-  <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Wed, 18 Nov 2026 16:24:23 GMT</lastBuildDate>
+  <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Dots Go Default, Tasks Go Free, and Ignite Rewires the Work OS</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-18-dots-go-default-tasks-go-free-and-ignite-rewires-the-work-os.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-18-dots-go-default-tasks-go-free-and-ignite-rewires-the-work-os.md</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending November 18, 2026 are defined by four simultaneous design movements: OpenAI executing the most consequential enterprise-deployment governance event in dots' short history — the Dots Enterprise default-on rollout lands to</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Enterprise &amp; Governance</category>
+  </item>
   <item>
     <title>Meetings Break, Gems Migrate, and Ignite Opens the Governance Reckoning</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-17-meetings-break-gems-migrate-and-ignite-opens-the-governance.md</link>
@@ -891,21 +906,6 @@
     <category>Perplexity</category>
     <category>Agentic Workflows</category>
     <category>Trust &amp; Safety</category>
-  </item>
-  <item>
-    <title>Agent Governance, Desktop Locals, and the Bigger Work Surface</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-21-agent-governance-desktop-locals-and-the-bigger-work-surface.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-21-agent-governance-desktop-locals-and-the-bigger-work-surface.md</guid>
-    <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
-    <description>The 48 hours ending July 21 are shaped by a single structural impulse across the entire industry: the race to plant agent surfaces inside every workspace a user already occupies, while simultaneously hardening the governance layer that make</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Trust &amp; Safety</category>
-    <category>Memory &amp; Context</category>
   </item>
 </channel>
 </rss>
