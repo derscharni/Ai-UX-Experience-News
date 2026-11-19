@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-18T16:24:23Z",
+  "updated": "2026-11-19T16:33:02Z",
   "briefings": [
+    {
+      "date": "2026-11-19",
+      "title": "Data Goes Default, Transparency Takes the Stage, and Brain Writes Its Own Skills",
+      "path": "briefings/2026-11-the-trust-layer-becomes-visible/2026-11-19-data-goes-default-transparency-takes-the-stage-and-brain-wri.md",
+      "month_theme": "The Trust Layer Becomes Visible",
+      "month_key": "2026-11",
+      "excerpt": "The 48 hours ending November 19, 2026 are defined by four simultaneous default-flip and governance events: Anthropic executing the most consequential enterprise workspace-data event in the Claude platform's history today, November 19 — Clau",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Enterprise & Governance"
+      ]
+    },
     {
       "date": "2026-11-18",
       "title": "Dots Go Default, Tasks Go Free, and Ignite Rewires the Work OS",

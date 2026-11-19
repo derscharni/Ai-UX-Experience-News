@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Wed, 18 Nov 2026 16:24:23 GMT</lastBuildDate>
-  <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Thu, 19 Nov 2026 16:33:02 GMT</lastBuildDate>
+  <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Data Goes Default, Transparency Takes the Stage, and Brain Writes Its Own Skills</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-19-data-goes-default-transparency-takes-the-stage-and-brain-wri.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-19-data-goes-default-transparency-takes-the-stage-and-brain-wri.md</guid>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending November 19, 2026 are defined by four simultaneous default-flip and governance events: Anthropic executing the most consequential enterprise workspace-data event in the Claude platform's history today, November 19 — Clau</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Enterprise &amp; Governance</category>
+  </item>
   <item>
     <title>Dots Go Default, Tasks Go Free, and Ignite Rewires the Work OS</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-18-dots-go-default-tasks-go-free-and-ignite-rewires-the-work-os.md</link>
@@ -890,21 +905,6 @@
     <category>Grok</category>
     <category>Perplexity</category>
     <category>Memory &amp; Context</category>
-    <category>Trust &amp; Safety</category>
-  </item>
-  <item>
-    <title>Source Transparency, Ambient Agents, and the Open Harness</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-22-source-transparency-ambient-agents-and-the-open-harness.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-22-source-transparency-ambient-agents-and-the-open-harness.md</guid>
-    <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
-    <description>The 48 hours ending July 22 are defined by a simultaneous push on two fronts: making agentic work more transparent to the users who authorise it, and expanding the surfaces where ambient agents operate without being asked. Claude Code (Anth</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Agentic Workflows</category>
     <category>Trust &amp; Safety</category>
   </item>
 </channel>
