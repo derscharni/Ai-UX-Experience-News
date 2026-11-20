@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Thu, 19 Nov 2026 16:33:02 GMT</lastBuildDate>
-  <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Fri, 20 Nov 2026 16:04:09 GMT</lastBuildDate>
+  <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Gemini Takes the Desktop, Dots Reach Plus, and Brain Rewrites Itself</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-20-gemini-takes-the-desktop-dots-reach-plus-and-brain-rewrites.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-20-gemini-takes-the-desktop-dots-reach-plus-and-brain-rewrites.md</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending November 20, 2026 are defined by four simultaneous agentic-surface and infrastructure events: Google executing the most consequential desktop agentic expansion in Gemini's history on November 19 — Gemini Computer Use for</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Agentic Workflows</category>
+  </item>
   <item>
     <title>Data Goes Default, Transparency Takes the Stage, and Brain Writes Its Own Skills</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-19-data-goes-default-transparency-takes-the-stage-and-brain-wri.md</link>
@@ -891,21 +906,6 @@
     <category>Perplexity</category>
     <category>Trust &amp; Safety</category>
     <category>Enterprise &amp; Governance</category>
-  </item>
-  <item>
-    <title>Voice Choice, Agentic Foldables, and the Workbench Sunset</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-23-voice-choice-agentic-foldables-and-the-workbench-sunset.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-23-voice-choice-agentic-foldables-and-the-workbench-sunset.md</guid>
-    <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-    <description>The 48 hours ending July 23 are shaped by three distinct design impulses arriving simultaneously: the expansion of model-level choice into interaction modalities that have historically been locked to a single model, the arrival of agentic A</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Memory &amp; Context</category>
-    <category>Trust &amp; Safety</category>
   </item>
 </channel>
 </rss>

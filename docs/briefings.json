@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-19T16:33:02Z",
+  "updated": "2026-11-20T16:04:09Z",
   "briefings": [
+    {
+      "date": "2026-11-20",
+      "title": "Gemini Takes the Desktop, Dots Reach Plus, and Brain Rewrites Itself",
+      "path": "briefings/2026-11-the-trust-layer-becomes-visible/2026-11-20-gemini-takes-the-desktop-dots-reach-plus-and-brain-rewrites.md",
+      "month_theme": "The Trust Layer Becomes Visible",
+      "month_key": "2026-11",
+      "excerpt": "The 48 hours ending November 20, 2026 are defined by four simultaneous agentic-surface and infrastructure events: Google executing the most consequential desktop agentic expansion in Gemini's history on November 19 — Gemini Computer Use for",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
+      ]
+    },
     {
       "date": "2026-11-19",
       "title": "Data Goes Default, Transparency Takes the Stage, and Brain Writes Its Own Skills",
