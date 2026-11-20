@@ -201,6 +201,7 @@ _Briefings are added automatically as they are generated._
 *   [2026-11-17 - Meetings Break, Gems Migrate, and Ignite Opens the Governance Reckoning](briefings/2026-11-the-trust-layer-becomes-visible/2026-11-17-meetings-break-gems-migrate-and-ignite-opens-the-governance.md)
 *   [2026-11-18 - Dots Go Default, Tasks Go Free, and Ignite Rewires the Work OS](briefings/2026-11-the-trust-layer-becomes-visible/2026-11-18-dots-go-default-tasks-go-free-and-ignite-rewires-the-work-os.md)
 *   [2026-11-19 - Data Goes Default, Transparency Takes the Stage, and Brain Writes Its Own Skills](briefings/2026-11-the-trust-layer-becomes-visible/2026-11-19-data-goes-default-transparency-takes-the-stage-and-brain-wri.md)
+*   [2026-11-20 - Gemini Takes the Desktop, Dots Reach Plus, and Brain Rewrites Itself](briefings/2026-11-the-trust-layer-becomes-visible/2026-11-20-gemini-takes-the-desktop-dots-reach-plus-and-brain-rewrites.md)
 
 ## Monthly Management Summaries
 
