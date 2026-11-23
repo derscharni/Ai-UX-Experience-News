@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Fri, 20 Nov 2026 16:04:09 GMT</lastBuildDate>
-  <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Mon, 23 Nov 2026 19:12:41 GMT</lastBuildDate>
+  <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Computer Use Goes Corporate, Space Opens to All, and Gemini Separates Its Signals</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-23-computer-use-goes-corporate-space-opens-to-all-and-gemini-se.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-23-computer-use-goes-corporate-space-opens-to-all-and-gemini-se.md</guid>
+    <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending November 23, 2026 are defined by four simultaneous surface-expansion and trust-design events: Anthropic executing its most consequential enterprise computer-use governance event of the year on November 20 —</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Enterprise &amp; Governance</category>
+  </item>
   <item>
     <title>Gemini Takes the Desktop, Dots Reach Plus, and Brain Rewrites Itself</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-20-gemini-takes-the-desktop-dots-reach-plus-and-brain-rewrites.md</link>
@@ -891,21 +906,6 @@
     <category>Perplexity</category>
     <category>Agentic Workflows</category>
     <category>Trust &amp; Safety</category>
-  </item>
-  <item>
-    <title>Voice Model Choice, Health Context, and the Ambient Ambient Surface Expansion</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-24-voice-model-choice-health-context-and-the-ambient-ambient-su.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-24-voice-model-choice-health-context-and-the-ambient-ambient-su.md</guid>
-    <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
-    <description>The 48 hours ending July 24 are defined by a simultaneous push across three registers: voice interaction growing up from a convenience feature into a serious work modality, personal health data becoming the newest context layer in AI conver</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Trust &amp; Safety</category>
-    <category>Enterprise &amp; Governance</category>
   </item>
 </channel>
 </rss>

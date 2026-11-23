@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-20T16:04:09Z",
+  "updated": "2026-11-23T19:12:41Z",
   "briefings": [
+    {
+      "date": "2026-11-23",
+      "title": "Computer Use Goes Corporate, Space Opens to All, and Gemini Separates Its Signals",
+      "path": "briefings/2026-11-the-trust-layer-becomes-visible/2026-11-23-computer-use-goes-corporate-space-opens-to-all-and-gemini-se.md",
+      "month_theme": "The Trust Layer Becomes Visible",
+      "month_key": "2026-11",
+      "excerpt": "The 48 hours ending November 23, 2026 are defined by four simultaneous surface-expansion and trust-design events: Anthropic executing its most consequential enterprise computer-use governance event of the year on November 20 —",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Enterprise & Governance"
+      ]
+    },
     {
       "date": "2026-11-20",
       "title": "Gemini Takes the Desktop, Dots Reach Plus, and Brain Rewrites Itself",
