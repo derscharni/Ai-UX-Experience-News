@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-23T19:12:41Z",
+  "updated": "2026-11-24T18:50:34Z",
   "briefings": [
+    {
+      "date": "2026-11-24",
+      "title": "Claude Ships the Pipeline, ChatGPT Gains a Wallet, and Google Personalises Its Search",
+      "path": "briefings/2026-11-the-trust-layer-becomes-visible/2026-11-24-claude-ships-the-pipeline-chatgpt-gains-a-wallet-and-google.md",
+      "month_theme": "The Trust Layer Becomes Visible",
+      "month_key": "2026-11",
+      "excerpt": "The 48 hours ending November 24, 2026 are defined by three simultaneous agentic-authority and trust-design events: Anthropic executing a triple-launch on November 23–24 —",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
+      ]
+    },
     {
       "date": "2026-11-23",
       "title": "Computer Use Goes Corporate, Space Opens to All, and Gemini Separates Its Signals",

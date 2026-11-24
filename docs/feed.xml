@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Mon, 23 Nov 2026 19:12:41 GMT</lastBuildDate>
-  <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Tue, 24 Nov 2026 18:50:35 GMT</lastBuildDate>
+  <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Claude Ships the Pipeline, ChatGPT Gains a Wallet, and Google Personalises Its Search</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-24-claude-ships-the-pipeline-chatgpt-gains-a-wallet-and-google.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-24-claude-ships-the-pipeline-chatgpt-gains-a-wallet-and-google.md</guid>
+    <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending November 24, 2026 are defined by three simultaneous agentic-authority and trust-design events: Anthropic executing a triple-launch on November 23–24 —</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Agentic Workflows</category>
+  </item>
   <item>
     <title>Computer Use Goes Corporate, Space Opens to All, and Gemini Separates Its Signals</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-23-computer-use-goes-corporate-space-opens-to-all-and-gemini-se.md</link>
@@ -891,21 +906,6 @@
     <category>Perplexity</category>
     <category>Trust &amp; Safety</category>
     <category>Agentic Workflows</category>
-  </item>
-  <item>
-    <title>Progressive Tool Access, Parallel Agent Fleets, and the Productivity Workspace Land Grab</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-27-progressive-tool-access-parallel-agent-fleets-and-the-produc.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-27-progressive-tool-access-parallel-agent-fleets-and-the-produc.md</guid>
-    <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-    <description>The 48 hours ending July 27 are defined by three overlapping design moves arriving in rapid succession: Anthropic shipping its most significant developer-facing agent primitive in months alongside a new consumer default, xAI completing an a</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Agentic Workflows</category>
-    <category>Trust &amp; Safety</category>
   </item>
 </channel>
 </rss>
