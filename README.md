@@ -203,6 +203,7 @@ _Briefings are added automatically as they are generated._
 *   [2026-11-19 - Data Goes Default, Transparency Takes the Stage, and Brain Writes Its Own Skills](briefings/2026-11-the-trust-layer-becomes-visible/2026-11-19-data-goes-default-transparency-takes-the-stage-and-brain-wri.md)
 *   [2026-11-20 - Gemini Takes the Desktop, Dots Reach Plus, and Brain Rewrites Itself](briefings/2026-11-the-trust-layer-becomes-visible/2026-11-20-gemini-takes-the-desktop-dots-reach-plus-and-brain-rewrites.md)
 *   [2026-11-23 - Computer Use Goes Corporate, Space Opens to All, and Gemini Separates Its Signals](briefings/2026-11-the-trust-layer-becomes-visible/2026-11-23-computer-use-goes-corporate-space-opens-to-all-and-gemini-se.md)
+*   [2026-11-24 - Claude Ships the Pipeline, ChatGPT Gains a Wallet, and Google Personalises Its Search](briefings/2026-11-the-trust-layer-becomes-visible/2026-11-24-claude-ships-the-pipeline-chatgpt-gains-a-wallet-and-google.md)
 
 ## Monthly Management Summaries
 
