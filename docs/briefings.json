@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-24T18:50:34Z",
+  "updated": "2026-11-25T17:57:54Z",
   "briefings": [
+    {
+      "date": "2026-11-25",
+      "title": "Artifacts Become Apps, Agents Go Multimodal on the Road, and Copilot Learns to Write",
+      "path": "briefings/2026-11-the-trust-layer-becomes-visible/2026-11-25-artifacts-become-apps-agents-go-multimodal-on-the-road-and-c.md",
+      "month_theme": "The Trust Layer Becomes Visible",
+      "month_key": "2026-11",
+      "excerpt": "The 48 hours ending November 25, 2026 are defined by four simultaneous surface-expansion and agentic-authority events: Anthropic executing its most consequential generative-UI advance of the month on November 24–25 —",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
+      ]
+    },
     {
       "date": "2026-11-24",
       "title": "Claude Ships the Pipeline, ChatGPT Gains a Wallet, and Google Personalises Its Search",

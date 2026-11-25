@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Tue, 24 Nov 2026 18:50:35 GMT</lastBuildDate>
-  <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Wed, 25 Nov 2026 17:57:54 GMT</lastBuildDate>
+  <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Artifacts Become Apps, Agents Go Multimodal on the Road, and Copilot Learns to Write</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-25-artifacts-become-apps-agents-go-multimodal-on-the-road-and-c.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-25-artifacts-become-apps-agents-go-multimodal-on-the-road-and-c.md</guid>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending November 25, 2026 are defined by four simultaneous surface-expansion and agentic-authority events: Anthropic executing its most consequential generative-UI advance of the month on November 24–25 —</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Agentic Workflows</category>
+  </item>
   <item>
     <title>Claude Ships the Pipeline, ChatGPT Gains a Wallet, and Google Personalises Its Search</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-24-claude-ships-the-pipeline-chatgpt-gains-a-wallet-and-google.md</link>
@@ -891,21 +906,6 @@
     <category>Perplexity</category>
     <category>Enterprise &amp; Governance</category>
     <category>Trust &amp; Safety</category>
-  </item>
-  <item>
-    <title>Subagent Guardrails, Vehicle Agent Expansion, and the AI Watermark Layer</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-28-subagent-guardrails-vehicle-agent-expansion-and-the-ai-water.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-28-subagent-guardrails-vehicle-agent-expansion-and-the-ai-water.md</guid>
-    <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-    <description>The 48 hours ending July 28 are defined by a wave of trust-design corrections landing simultaneously across very different surfaces: Anthropic shipping a four-day re-tuning of Claude Code's subagent fan-out limits — capping, disabling, and </description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Trust &amp; Safety</category>
-    <category>Agentic Workflows</category>
   </item>
 </channel>
 </rss>
