@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-25T17:57:54Z",
+  "updated": "2026-11-26T17:43:13Z",
   "briefings": [
+    {
+      "date": "2026-11-26",
+      "title": "Workspaces Arrive, Prompts Go Private, and Agents Get a Time Machine",
+      "path": "briefings/2026-11-the-trust-layer-becomes-visible/2026-11-26-workspaces-arrive-prompts-go-private-and-agents-get-a-time-m.md",
+      "month_theme": "The Trust Layer Becomes Visible",
+      "month_key": "2026-11",
+      "excerpt": "The 48 hours ending November 26, 2026 are defined by four simultaneous surface-expansion and trust-design events: Anthropic completing its November workspace suite with Claude Meetings entering broader availability alongside Claude Data gra",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Agentic Workflows"
+      ]
+    },
     {
       "date": "2026-11-25",
       "title": "Artifacts Become Apps, Agents Go Multimodal on the Road, and Copilot Learns to Write",

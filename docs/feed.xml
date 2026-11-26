@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Wed, 25 Nov 2026 17:57:54 GMT</lastBuildDate>
-  <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Thu, 26 Nov 2026 17:43:13 GMT</lastBuildDate>
+  <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Workspaces Arrive, Prompts Go Private, and Agents Get a Time Machine</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-26-workspaces-arrive-prompts-go-private-and-agents-get-a-time-m.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-26-workspaces-arrive-prompts-go-private-and-agents-get-a-time-m.md</guid>
+    <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending November 26, 2026 are defined by four simultaneous surface-expansion and trust-design events: Anthropic completing its November workspace suite with Claude Meetings entering broader availability alongside Claude Data gra</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Agentic Workflows</category>
+  </item>
   <item>
     <title>Artifacts Become Apps, Agents Go Multimodal on the Road, and Copilot Learns to Write</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-25-artifacts-become-apps-agents-go-multimodal-on-the-road-and-c.md</link>
@@ -891,21 +906,6 @@
     <category>Perplexity</category>
     <category>Trust &amp; Safety</category>
     <category>Agentic Workflows</category>
-  </item>
-  <item>
-    <title>Stateless Protocol Infrastructure, Desktop Agent Expansion, and the Governed Voice Layer</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-29-stateless-protocol-infrastructure-desktop-agent-expansion-an.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-29-stateless-protocol-infrastructure-desktop-agent-expansion-an.md</guid>
-    <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
-    <description>The 48 hours ending July 29 are shaped by a quartet of structural moves that each resolve a different infrastructure gap in how AI agents connect to, remember, and act within the surfaces users inhabit: Anthropic shipping the MCP 2026-07-28</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Enterprise &amp; Governance</category>
-    <category>Trust &amp; Safety</category>
   </item>
 </channel>
 </rss>
