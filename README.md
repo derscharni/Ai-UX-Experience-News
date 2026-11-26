@@ -205,6 +205,7 @@ _Briefings are added automatically as they are generated._
 *   [2026-11-23 - Computer Use Goes Corporate, Space Opens to All, and Gemini Separates Its Signals](briefings/2026-11-the-trust-layer-becomes-visible/2026-11-23-computer-use-goes-corporate-space-opens-to-all-and-gemini-se.md)
 *   [2026-11-24 - Claude Ships the Pipeline, ChatGPT Gains a Wallet, and Google Personalises Its Search](briefings/2026-11-the-trust-layer-becomes-visible/2026-11-24-claude-ships-the-pipeline-chatgpt-gains-a-wallet-and-google.md)
 *   [2026-11-25 - Artifacts Become Apps, Agents Go Multimodal on the Road, and Copilot Learns to Write](briefings/2026-11-the-trust-layer-becomes-visible/2026-11-25-artifacts-become-apps-agents-go-multimodal-on-the-road-and-c.md)
+*   [2026-11-26 - Workspaces Arrive, Prompts Go Private, and Agents Get a Time Machine](briefings/2026-11-the-trust-layer-becomes-visible/2026-11-26-workspaces-arrive-prompts-go-private-and-agents-get-a-time-m.md)
 
 ## Monthly Management Summaries
 
