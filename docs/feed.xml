@@ -5,8 +5,23 @@
   <link>https://derscharni.github.io/Ai-UX-Experience-News/</link>
   <description>Daily briefings tracking UX and interaction design across the leading AI agents.</description>
   <language>en</language>
-  <lastBuildDate>Thu, 26 Nov 2026 17:43:13 GMT</lastBuildDate>
-  <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+  <lastBuildDate>Fri, 27 Nov 2026 17:26:01 GMT</lastBuildDate>
+  <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+  <item>
+    <title>Duet Goes Global, Meters Merge, and Cowork Learns to Suggest</title>
+    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-27-duet-goes-global-meters-merge-and-cowork-learns-to-suggest.md</link>
+    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-27-duet-goes-global-meters-merge-and-cowork-learns-to-suggest.md</guid>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+    <description>The 48 hours ending November 27, 2026 are defined by four simultaneous surface-expansion and delegation-design events: Anthropic executing its most consequential geographic expansion of its proactive-agent product to date —</description>
+    <category>Claude</category>
+    <category>ChatGPT</category>
+    <category>Gemini</category>
+    <category>Copilot</category>
+    <category>Grok</category>
+    <category>Perplexity</category>
+    <category>Trust &amp; Safety</category>
+    <category>Enterprise &amp; Governance</category>
+  </item>
   <item>
     <title>Workspaces Arrive, Prompts Go Private, and Agents Get a Time Machine</title>
     <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-11-the-trust-layer-becomes-visible%2F2026-11-26-workspaces-arrive-prompts-go-private-and-agents-get-a-time-m.md</link>
@@ -891,21 +906,6 @@
     <category>Perplexity</category>
     <category>Trust &amp; Safety</category>
     <category>Identity &amp; Security</category>
-  </item>
-  <item>
-    <title>Voice Mode Upgrades, Desktop Redesign Reckonings, and the Multi-Model Workspace</title>
-    <link>https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-30-voice-mode-upgrades-desktop-redesign-reckonings-and-the-mult.md</link>
-    <guid isPermaLink="true">https://derscharni.github.io/Ai-UX-Experience-News/#briefings%2F2026-07-the-visible-safety-layer%2F2026-07-30-voice-mode-upgrades-desktop-redesign-reckonings-and-the-mult.md</guid>
-    <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
-    <description>The 48 hours ending July 30 are dominated by four interlocking design stories that share a single uncomfortable thesis: shipping agentic capability fast and correcting the UX in public is now the industry's operating mode, not its exception</description>
-    <category>Claude</category>
-    <category>ChatGPT</category>
-    <category>Gemini</category>
-    <category>Copilot</category>
-    <category>Grok</category>
-    <category>Perplexity</category>
-    <category>Trust &amp; Safety</category>
-    <category>Agentic Workflows</category>
   </item>
 </channel>
 </rss>

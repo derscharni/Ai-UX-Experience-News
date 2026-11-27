@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-26T17:43:13Z",
+  "updated": "2026-11-27T17:26:01Z",
   "briefings": [
+    {
+      "date": "2026-11-27",
+      "title": "Duet Goes Global, Meters Merge, and Cowork Learns to Suggest",
+      "path": "briefings/2026-11-the-trust-layer-becomes-visible/2026-11-27-duet-goes-global-meters-merge-and-cowork-learns-to-suggest.md",
+      "month_theme": "The Trust Layer Becomes Visible",
+      "month_key": "2026-11",
+      "excerpt": "The 48 hours ending November 27, 2026 are defined by four simultaneous surface-expansion and delegation-design events: Anthropic executing its most consequential geographic expansion of its proactive-agent product to date —",
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "Grok",
+        "Perplexity"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Enterprise & Governance"
+      ]
+    },
     {
       "date": "2026-11-26",
       "title": "Workspaces Arrive, Prompts Go Private, and Agents Get a Time Machine",
