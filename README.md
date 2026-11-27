@@ -206,6 +206,7 @@ _Briefings are added automatically as they are generated._
 *   [2026-11-24 - Claude Ships the Pipeline, ChatGPT Gains a Wallet, and Google Personalises Its Search](briefings/2026-11-the-trust-layer-becomes-visible/2026-11-24-claude-ships-the-pipeline-chatgpt-gains-a-wallet-and-google.md)
 *   [2026-11-25 - Artifacts Become Apps, Agents Go Multimodal on the Road, and Copilot Learns to Write](briefings/2026-11-the-trust-layer-becomes-visible/2026-11-25-artifacts-become-apps-agents-go-multimodal-on-the-road-and-c.md)
 *   [2026-11-26 - Workspaces Arrive, Prompts Go Private, and Agents Get a Time Machine](briefings/2026-11-the-trust-layer-becomes-visible/2026-11-26-workspaces-arrive-prompts-go-private-and-agents-get-a-time-m.md)
+*   [2026-11-27 - Duet Goes Global, Meters Merge, and Cowork Learns to Suggest](briefings/2026-11-the-trust-layer-becomes-visible/2026-11-27-duet-goes-global-meters-merge-and-cowork-learns-to-suggest.md)
 
 ## Monthly Management Summaries
 
